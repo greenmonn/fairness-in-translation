@@ -1,0 +1,6 @@
+*.npy
+__pycache__
+transrepair_kor/__pycache__
+transrepair_kor/cc.ko.50.bin
+memory_1.txt
+memory_2.txt
