@@ -1,3 +1,4 @@
 konlpy~=0.6.0
 googletrans==3.1.0a0
 fasttext~=0.9.2
+simalign~=0.3

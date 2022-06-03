@@ -1,10 +1,22 @@
-import os
-import json
-import urllib
-from konlpy.tag import Mecab
-from googletrans import Translator
-import fasttext
 import difflib
+import json
+import os
+import urllib
+
+import fasttext
+from googletrans import Translator
+# from konlpy.tag import Mecab
+from konlpy.tag import Kkma
+from simalign import SentenceAligner
+
+# SETTINGS
+FASTTEXT_MODEL = fasttext.load_model(os.path.join(os.path.dirname(__file__), 'cc.ko.50.bin'))
+# KONLPY_MODEL = Mecab()
+KONLPY_MODEL = Kkma()
+WORD_ALIGNER = SentenceAligner()
+TRANSLATION_MODEL = "Google"
+SIMILARITY_METRIC = "ED"
+SIMILARITY_TEST_THRESHOLD = 0.7
 
 
 class Sentence:
@@ -13,7 +25,13 @@ class Sentence:
         self.sentence = sentence
         self.src = src
         self.dest = dest
-        self.translated = self.translate("Google")
+        self.translated = self.translate(TRANSLATION_MODEL)
+        self.words = KONLPY_MODEL.pos(self.sentence)
+
+        temp_words = []
+        for word in self.words:
+            temp_words.append(word[0])
+        self.aligned = WORD_ALIGNER.get_word_aligns(' '.join(temp_words), self.translated)['mwmf']
 
     def translate(self, module):
         if module == "Google":
@@ -41,19 +59,17 @@ class Sentence:
 
         return "Error"
 
-    def create_mutations(self, model=fasttext.load_model(os.path.join(os.path.dirname(__file__), 'cc.ko.50.bin')),
-                         mecab=Mecab()):
+    def create_mutations(self, fasttext_model=FASTTEXT_MODEL, konlpy_model=KONLPY_MODEL):
         def find_mutant_words():
-            words = mecab.pos(self.sentence)
             self.mutable = {'NNG': [], 'VA': [], 'NR': []}
 
-            for word in words:
+            for i, word in enumerate(self.words):
                 for word_type in ['NNG', 'VA', 'NR']:
                     if word[1] == word_type:
-                        self.mutable[word_type].append(word[0])
+                        self.mutable[word_type].append((word[0], i))
 
         def get_similar_words(w):
-            candidates = model.get_nearest_neighbors(w)
+            candidates = fasttext_model.get_nearest_neighbors(w)
             result = []
             for prob, word in candidates:
                 if prob > 0.8:
@@ -65,44 +81,55 @@ class Sentence:
         mutant_dict = {}
         for word_type, word_list in self.mutable.items():
             if word_type == 'NNG' or word_type == 'NR':
-                for original_word in word_list:
+                for original_word, original_word_index in word_list:
                     similar_words = get_similar_words(original_word)
                     # discard non-NNG words
-                    mutant_dict[original_word][0] = []
-                    mutant_dict[original_word][1] = word_type
-                    for w_c in similar_words:
-                        words = mecab.pos(w_c)
+                    mutant_dict[original_word] = ([], word_type, original_word_index)
+                    for candidate_word in similar_words:
+                        words = konlpy_model.pos(candidate_word)
                         if len(words) != 1:
                             continue
 
                         if words[0][1] != word_type:
                             continue
 
-                        mutant_dict[original_word].append(w_c)
+                        mutant_dict[original_word][0].append(candidate_word)
 
         mutants = []
         for original_word, word_mutants in mutant_dict.items():
             for word_mutant in word_mutants[0]:
                 mutants.append(
-                    MutantSentence(self.sentence.replace(original_word, word_mutant), self.sentence, original_word,
-                                   word_mutant, word_mutants[1]))
+                    MutantSentence(self.sentence.replace(original_word, word_mutant), self, original_word,
+                                   word_mutants[2], word_mutant, word_mutants[1]))
 
         return mutants
 
 
 class MutantSentence(Sentence):
-    def __init__(self, sentence, original, mutant_src, mutant_dest, word_type):
+    def __init__(self, sentence, original, mutant_src, mutant_index, mutant_dest, word_type):
         super().__init__(sentence)
         self.original = original
         self.mutant_src = mutant_src
+        self.mutant_index = mutant_index
         self.mutant_dest = mutant_dest
         self.word_type = word_type
 
+        self.mutant_src_alignment = ''
+        for item in self.original.aligned:
+            if item[0] == self.mutant_index:
+                if self.mutant_src_alignment != '':
+                    self.mutant_src_alignment += ' '
+                self.mutant_src_alignment += self.original.translated.split(' ')[item[1]]
+
+        self.mutant_dest_alignment = ''
+        for item in self.aligned:
+            if item[0] == self.mutant_index:
+                if self.mutant_dest_alignment != '':
+                    self.mutant_dest_alignment += ' '
+                self.mutant_dest_alignment += self.translated.split(' ')[item[1]]
+
 
 def similarity_score(original, mutant, metric):
-    original = original.sentence
-    mutant = mutant.sentence
-
     if metric == 'LCS':
         seq_matcher = difflib.SequenceMatcher()
         seq_matcher.set_seqs(original, mutant)
@@ -126,6 +153,7 @@ def similarity_score(original, mutant, metric):
 
     if metric == 'tf-idf':
         pass
+
     if metric == 'BLEU':
         pass
 
@@ -163,7 +191,8 @@ def consistency_test(original, mutants, threshold):
         max_sim_score = -1
         for original_sentence in original_target:
             for mutant_sentence in mutant_target:
-                max_sim_score = max(max_sim_score, similarity_score(original_sentence, mutant_sentence, 'ED'))
+                max_sim_score = max(max_sim_score,
+                                    similarity_score(original_sentence, mutant_sentence, SIMILARITY_METRIC))
 
         return max_sim_score
 
@@ -181,7 +210,7 @@ def translation_ranking(sentences):
     for i in range(len(sentences)):
         for j in range(len(sentences)):
             if i != j:
-                sim_score = similarity_score(sentences[i].translated, sentences[j].translated, 'ED')
+                sim_score = similarity_score(sentences[i].translated, sentences[j].translated, SIMILARITY_METRIC)
                 score[i] += sim_score
                 score[j] += sim_score
 
@@ -198,14 +227,18 @@ def repair(original, mutants):
         if ans == sentence:
             break
 
-        translated_original = None  # word_alignment(original, sentence.mutant_src)
-        translated_mutant = None  # word_alignment(sentence, sentence.mutant_dest)
+        translated_original = sentence.mutant_src_alignment
+        translated_mutant = sentence.mutant_dest_alignment
 
-        new_original = Sentence(original.sentence)
-        new_original.translated = original.translated.replace(translated_original, translated_mutant)
+        if len(translated_original) == len(translated_mutant):
 
-        if consistency_test(new_original, mutants, 0.7):
-            return new_original
+            new_original = Sentence(original.sentence)
+            new_original.translated = original.translated.replace(translated_original, translated_mutant)
+
+            if consistency_test(new_original, mutants, SIMILARITY_TEST_THRESHOLD):
+                return new_original
+
+    return ans
 
 
 if __name__ == '__main__':
@@ -213,6 +246,6 @@ if __name__ == '__main__':
     # text = Sentence("마지막으로 그는 자신이 아끼는 엽서에 할머니를 위해 그림을 그려줘요.")
     mutants = text.create_mutations()
     print(text.translated)
-    if consistency_test(text, mutants, 0.7):
+    if consistency_test(text, mutants, SIMILARITY_TEST_THRESHOLD):
         print("Consistency Error")
-        print(repair(text, mutants))
+        print(repair(text, mutants).translated)
