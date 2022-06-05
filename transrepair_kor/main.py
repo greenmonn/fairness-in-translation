@@ -8,6 +8,9 @@ from googletrans import Translator
 # from konlpy.tag import Mecab
 from konlpy.tag import Kkma
 from simalign import SentenceAligner
+import editdistance
+
+from functools import cached_property
 
 # SETTINGS
 FASTTEXT_MODEL = fasttext.load_model(os.path.join(os.path.dirname(__file__), 'cc.ko.50.bin'))
@@ -17,37 +20,30 @@ WORD_ALIGNER = SentenceAligner()
 TRANSLATION_MODEL = "Google"
 SIMILARITY_METRIC = "ED"
 SIMILARITY_TEST_THRESHOLD = 0.7
+SEQUENCE_MATCHER = difflib.SequenceMatcher()
 
 
-class Sentence:
-    def __init__(self, sentence, src='ko', dest='en'):
-        self.mutable = None
-        self.sentence = sentence
-        self.src = src
-        self.dest = dest
-        self.translated = self.translate(TRANSLATION_MODEL)
-        self.words = KONLPY_MODEL.pos(self.sentence)
+class RemoteTranslator:
+    def __init__(self, provider):
+        self.provider = provider
+        if provider == "Google":
+            self.translator = Translator()
 
-        temp_words = []
-        for word in self.words:
-            temp_words.append(word[0])
-        self.aligned = WORD_ALIGNER.get_word_aligns(' '.join(temp_words), self.translated)['mwmf']
-
-    def translate(self, module):
-        if module == "Google":
-            translator = Translator()
-            return translator.translate(self.sentence, dest=self.dest).text
-
-        if module == "Papago":
-            client_id = 'U8lk_RxPtD4Lh39Xzy4f'
-            client_secret = '7_7tmGaEWi'
-
-            encText = urllib.parse.quote(self.sentence)
-            data = f"source={self.src}&target={self.dest}&text=" + encText
-            url = "https://openapi.naver.com/v1/papago/n2mt"
-            request = urllib.request.Request(url)
-            request.add_header("X-Naver-Client-Id", client_id)
-            request.add_header("X-Naver-Client-Secret", client_secret)
+        elif provider == "Papago":
+            self.client_id = 'U8lk_RxPtD4Lh39Xzy4f'
+            self.client_secret = '7_7tmGaEWi'
+            self.url = "https://openapi.naver.com/v1/papago/n2mt"
+    
+    def translate(self, sentence, src, dest):
+        if self.provider == "Google":
+            return self.translator.translate(sentence, dest=dest).text
+        
+        elif self.provider == "Papago":
+            encText = urllib.parse.quote(sentence)
+            data = f"source={src}&target={dest}&text=" + encText
+            request = urllib.request.Request(self.url)
+            request.add_header("X-Naver-Client-Id", self.client_id)
+            request.add_header("X-Naver-Client-Secret", self.client_secret)
             response = urllib.request.urlopen(request, data=data.encode("utf-8"))
             res_code = response.getcode()
 
@@ -57,32 +53,39 @@ class Sentence:
             else:
                 return "Error Code:" + res_code
 
-        return "Error"
 
-    def create_mutations(self, fasttext_model=FASTTEXT_MODEL, konlpy_model=KONLPY_MODEL):
-        def find_mutant_words():
-            self.mutable = {'NNG': [], 'VA': [], 'NR': []}
+class Sentence:
+    def __init__(self, sentence, src='ko', dest='en', translator=RemoteTranslator('Google')):
+        self.sentence = sentence
+        self.translated = translator.translate(sentence, src, dest)
+        self.words = KONLPY_MODEL.pos(self.sentence)
 
-            for i, word in enumerate(self.words):
-                for word_type in ['NNG', 'VA', 'NR']:
-                    if word[1] == word_type:
-                        self.mutable[word_type].append((word[0], i))
+        tokens = [t[0] for t in self.words]
+        self.aligned = WORD_ALIGNER.get_word_aligns(' '.join(tokens), self.translated)['mwmf']
 
-        def get_similar_words(w):
-            candidates = fasttext_model.get_nearest_neighbors(w)
-            result = []
-            for prob, word in candidates:
-                if prob > 0.8:
-                    result.append(word)
+    def __str__(self):
+        return f'{self.sentence} -> {self.translated}'
 
-            return result
+    def __repr__(self):
+        return self.__str__()
 
-        find_mutant_words()
+    @cached_property
+    def mutable_words(self):
+        mutable_words = {'NNG': [], 'VA': [], 'NR': []}
+
+        for i, word in enumerate(self.words):
+            for word_type in ['NNG', 'VA', 'NR']:
+                if word[1] == word_type:
+                    mutable_words[word_type].append((word[0], i))
+
+        return mutable_words
+
+    def create_mutations(self, word_embedding_model=FASTTEXT_MODEL, konlpy_model=KONLPY_MODEL):
         mutant_dict = {}
-        for word_type, word_list in self.mutable.items():
+        for word_type, word_list in self.mutable_words.items():
             if word_type == 'NNG' or word_type == 'NR':
                 for original_word, original_word_index in word_list:
-                    similar_words = get_similar_words(original_word)
+                    similar_words = get_similar_words(original_word, word_embedding_model=word_embedding_model)
                     # discard non-NNG words
                     mutant_dict[original_word] = ([], word_type, original_word_index)
                     for candidate_word in similar_words:
@@ -129,27 +132,25 @@ class MutantSentence(Sentence):
                 self.mutant_dest_alignment += self.translated.split(' ')[item[1]]
 
 
+def get_similar_words(w, word_embedding_model=FASTTEXT_MODEL):
+    candidates = word_embedding_model.get_nearest_neighbors(w)
+    result = []
+    for prob, word in candidates:
+        if prob > 0.8:
+            result.append(word)
+
+    return result
+
 def similarity_score(original, mutant, metric):
     if metric == 'LCS':
-        seq_matcher = difflib.SequenceMatcher()
-        seq_matcher.set_seqs(original, mutant)
-        return seq_matcher.find_longest_match().size / max(len(original), len(mutant))
+        SEQUENCE_MATCHER.set_seqs(original, mutant)
+        return SEQUENCE_MATCHER.find_longest_match().size / max(len(original), len(mutant))
 
     if metric == 'ED':
-        if len(original) > len(mutant):
-            original, mutant = mutant, original
-
-        distances = range(len(original) + 1)
-        for i2, c2 in enumerate(mutant):
-            distances_ = [i2 + 1]
-            for i1, c1 in enumerate(original):
-                if c1 == c2:
-                    distances_.append(distances[i1])
-                else:
-                    distances_.append(1 + min((distances[i1], distances[i1 + 1], distances_[-1])))
-            distances = distances_
-
-        return 1 - distances[-1] / max(len(original), len(mutant))
+        max_len = max(len(original), len(mutant))
+        if max_len == 0:
+            return 0
+        return 1 - (editdistance.eval(original, mutant) / max(len(original), len(mutant)))
 
     if metric == 'tf-idf':
         pass
@@ -159,45 +160,44 @@ def similarity_score(original, mutant, metric):
 
     return 0
 
+def calc_consistency_score(original, mutant):
+    original_word = original.split(' ')
+    mutant_word = mutant.split(' ')
+
+    SEQUENCE_MATCHER.set_seqs(original_word, mutant_word)
+
+    matching_blocks = SEQUENCE_MATCHER.get_matching_blocks()
+    print(matching_blocks)
+
+    subsequences_original = []
+    subsequences_mutant = []
+    original_index = 0
+    mutant_index = 0
+    for block in matching_blocks:
+        if block[2] == 0:
+            break
+
+        if block[0] > original_index:
+            subsequences_original.append(' '.join(original_word[:original_index] + original_word[block[0]:]))
+
+        if block[1] > mutant_index:
+            subsequences_mutant.append(' '.join(mutant_word[:mutant_index] + mutant_word[block[1]:]))
+
+        original_index = block[0] + block[2]
+        mutant_index = block[1] + block[2]
+
+    max_sim_score = -1
+    for original_sentence in subsequences_original:
+        for mutant_sentence in subsequences_mutant:
+            max_sim_score = max(max_sim_score,
+                                similarity_score(original_sentence, mutant_sentence, SIMILARITY_METRIC))
+
+    return max_sim_score
+
 
 def consistency_test(original, mutants, threshold):
-    def _consistency_test(original, mutant):
-        original_word = original.split(' ')
-        mutant_word = mutant.split(' ')
-
-        sequence_matcher = difflib.SequenceMatcher()
-        sequence_matcher.set_seqs(original_word, mutant_word)
-
-        matching_blocks = sequence_matcher.get_matching_blocks()
-
-        original_target = []
-        mutant_target = []
-        original_index = 0
-        mutant_index = 0
-        for block in matching_blocks:
-            if block[2] == 0:
-                break
-
-            if block[0] > original_index:
-                for i in range(original_index, block[0]):
-                    target_sentence = original_word[:i] + original_word[i + 1:]
-                    original_target.append(' '.join(target_sentence))
-
-            if block[1] > mutant_index:
-                for i in range(mutant_index, block[1]):
-                    target_sentence = mutant_word[:i] + mutant_word[i + 1:]
-                    mutant_target.append(' '.join(target_sentence))
-
-        max_sim_score = -1
-        for original_sentence in original_target:
-            for mutant_sentence in mutant_target:
-                max_sim_score = max(max_sim_score,
-                                    similarity_score(original_sentence, mutant_sentence, SIMILARITY_METRIC))
-
-        return max_sim_score
-
     for mutant in mutants:
-        score = _consistency_test(original.translated, mutant.translated)
+        score = calc_consistency_score(original.translated, mutant.translated)
 
         if score < threshold:
             return False
@@ -214,7 +214,7 @@ def translation_ranking(sentences):
                 score[i] += sim_score
                 score[j] += sim_score
 
-    sentences = [sentence for _, sentence in sorted(zip(score, sentences))]
+    sentences = [sentence for _, sentence in sorted(zip(score, sentences), key=lambda x: x[0])]
 
     return sentences
 
