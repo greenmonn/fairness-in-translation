@@ -7,7 +7,6 @@ import mmh3
 import traceback
 import editdistance
 
-
 import fasttext
 from googletrans import Translator
 # from konlpy.tag import Mecab
@@ -27,6 +26,7 @@ SIMILARITY_METRIC = "ED"
 SIMILARITY_TEST_THRESHOLD = 0.7
 SEQUENCE_MATCHER = difflib.SequenceMatcher()
 
+
 def print_debug(log, debug=False):
     if debug:
         print(log)
@@ -42,7 +42,7 @@ class RemoteTranslator:
             self.client_id = 'U8lk_RxPtD4Lh39Xzy4f'
             self.client_secret = '7_7tmGaEWi'
             self.url = "https://openapi.naver.com/v1/papago/n2mt"
-    
+
     def translate(self, sentence, src, dest, max_try=5):
         if self.provider == "Google":
             for _ in range(max_try):
@@ -54,10 +54,10 @@ class RemoteTranslator:
 
             traceback.print_exc()
             raise Exception(f'[Google Translate Error]')
-        
+
         elif self.provider == "Papago":
-            encText = urllib.parse.quote(sentence)
-            data = f"source={src}&target={dest}&text=" + encText
+            enc_text = urllib.parse.quote(sentence)
+            data = f"source={src}&target={dest}&text=" + enc_text
             request = urllib.request.Request(self.url)
             request.add_header("X-Naver-Client-Id", self.client_id)
             request.add_header("X-Naver-Client-Secret", self.client_secret)
@@ -69,8 +69,6 @@ class RemoteTranslator:
                 return result['message']['result']['translatedText']
             else:
                 return "Error Code:" + res_code
-
-            
 
 
 class Sentence:
@@ -86,7 +84,6 @@ class Sentence:
         tokens = [t[0] for t in self.words]
         self.aligned = WORD_ALIGNER.get_word_aligns(' '.join(tokens), self.translated)['mwmf']
         print_debug(f'simalign time: {time.time() - konlpy_time}', debug=debug)
-
 
     def __str__(self):
         return f'{self.sentence} -> {self.translated}'
@@ -174,6 +171,7 @@ def get_similar_words(w, word_embedding_model=FASTTEXT_MODEL, max_k=5):
 
     return result
 
+
 def similarity_score(original, mutant, metric):
     if metric == 'LCS':
         SEQUENCE_MATCHER.set_seqs(original, mutant)
@@ -193,6 +191,7 @@ def similarity_score(original, mutant, metric):
 
     return 0
 
+
 def calc_consistency_score(original, mutant):
     original_word = original.split(' ')
     mutant_word = mutant.split(' ')
@@ -210,20 +209,20 @@ def calc_consistency_score(original, mutant):
             break
 
         if block[0] > original_index:
-            subsequences_original.append(' '.join(original_word[:original_index] + original_word[block[0]:]))
+            subsequences_original.append(original_word[:original_index] + original_word[block[0]:])
 
         if block[1] > mutant_index:
-            subsequences_mutant.append(' '.join(mutant_word[:mutant_index] + mutant_word[block[1]:]))
+            subsequences_mutant.append(mutant_word[:mutant_index] + mutant_word[block[1]:])
 
         original_index = block[0] + block[2]
         mutant_index = block[1] + block[2]
 
     # edge case: when the last block is not matched one
     if original_index < len(original_word):
-        subsequences_original.append(' '.join(original_word[:original_index]))
-    
+        subsequences_original.append(original_word[:original_index])
+
     if mutant_index < len(mutant_word):
-        subsequences_mutant.append(' '.join(mutant_word[:mutant_index]))
+        subsequences_mutant.append(mutant_word[:mutant_index])
 
     if len(subsequences_mutant) == 0 or len(subsequences_original) == 0:
         return 1
@@ -242,7 +241,7 @@ def test_consistency(original, mutants, threshold=SIMILARITY_TEST_THRESHOLD, deb
         score = calc_consistency_score(original.translated, mutant.translated)
 
         if score < threshold:
-            if debug: 
+            if debug:
                 print_debug(f'Inconsistent mutant: {mutant} [{score}]', debug=debug)
             return False
 
@@ -263,7 +262,7 @@ def translation_ranking(sentences):
     return sentences
 
 
-def repair(original, mutants):
+def repair(original, mutants, debug=False):
     target_list = translation_ranking([original] + mutants)
 
     ans = original
@@ -271,25 +270,38 @@ def repair(original, mutants):
         if ans == sentence:
             break
 
-        translated_original = sentence.mutant_src_alignment
-        translated_mutant = sentence.mutant_dest_alignment
+        if debug:
+            print_debug(
+                f'Mutant Candidate: {sentence}, ({sentence.mutant_src_alignment} -> {sentence.mutant_dest_alignment})',
+                debug=debug)
 
-        if len(translated_original) == len(translated_mutant):
+        # if len(translated_original) == len(translated_mutant):
 
-            new_original = Sentence(original.sentence)
-            new_original.translated = original.translated.replace(translated_original, translated_mutant)
+        new_original = Sentence(original.sentence)
+        new_original.translated = sentence.translated
+        new_original.translated = new_original.translated.replace(sentence.mutant_dest_alignment,
+                                                                  sentence.mutant_src_alignment)
 
-            if test_consistency(new_original, mutants):
-                return new_original
+        if test_consistency(new_original, mutants, debug=debug):
+            return new_original
 
     return ans
 
 
 if __name__ == '__main__':
-    text = Sentence("소녀의 흰 얼굴이, 분홍 스웨터가, 남색 스커트가, 안고 있는 꽃과 함께 범벅이 된다. 모두가 하나의 큰 꽃묶음 같다.")
-    # text = Sentence("마지막으로 그는 자신이 아끼는 엽서에 할머니를 위해 그림을 그려줘요.")
-    mutants = text.create_mutations()
-    print(text.translated)
-    if test_consistency(text, mutants):
-        print("Consistency Error")
-        print(repair(text, mutants).translated)
+    targets = ["6년 전 저는 사랑하는 남자와 4년 연애 후 결혼을 했습니다.",
+               "괴물은 자신의 틀에 딸을 가두려는 마녀로부터 딸을 꺼내 주는 역할입니다.",
+               "그 남자가 와서는 안 됩니다.",
+               "그 남자는 부상을 면했어요.",
+               "그 남자는 알겠다고 했습니다.",
+               "그 남자는 카메라를 목에 걸고 있고 손에는 지도를 들고 있어요.",
+               "그 사람도 참석할 수 있어요.",
+               "그 여자가 오늘 당신에게 전화했나요?"]
+
+    for target in targets:
+        text = Sentence(target)
+        mutants = text.create_mutations()
+        print(text.translated)
+        if not test_consistency(text, mutants, debug=True):
+            print("Consistency Error")
+            print(repair(text, mutants).translated)

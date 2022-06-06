@@ -3,3 +3,4 @@ googletrans==3.1.0a0
 fasttext~=0.9.2
 simalign~=0.3
 editdistance~=0.3.1
+mmh3~=3.0.0
