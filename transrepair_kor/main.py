@@ -1,14 +1,19 @@
 import difflib
 import json
 import os
+import time
 import urllib
+import mmh3
+import traceback
+import editdistance
+
 
 import fasttext
 from googletrans import Translator
 # from konlpy.tag import Mecab
 from konlpy.tag import Kkma
 from simalign import SentenceAligner
-import editdistance
+from httpx import HTTPError
 
 from functools import cached_property
 
@@ -22,6 +27,10 @@ SIMILARITY_METRIC = "ED"
 SIMILARITY_TEST_THRESHOLD = 0.7
 SEQUENCE_MATCHER = difflib.SequenceMatcher()
 
+def print_debug(log, debug=False):
+    if debug:
+        print(log)
+
 
 class RemoteTranslator:
     def __init__(self, provider):
@@ -34,9 +43,17 @@ class RemoteTranslator:
             self.client_secret = '7_7tmGaEWi'
             self.url = "https://openapi.naver.com/v1/papago/n2mt"
     
-    def translate(self, sentence, src, dest):
+    def translate(self, sentence, src, dest, max_try=5):
         if self.provider == "Google":
-            return self.translator.translate(sentence, dest=dest).text
+            for _ in range(max_try):
+                try:
+                    return self.translator.translate(sentence, dest=dest).text
+                except HTTPError as exc:
+                    print(f"Error response {exc.response.status_code} while requesting {exc.request.url!r}.")
+                    time.sleep(5)
+
+            traceback.print_exc()
+            raise Exception(f'[Google Translate Error]')
         
         elif self.provider == "Papago":
             encText = urllib.parse.quote(sentence)
@@ -53,21 +70,33 @@ class RemoteTranslator:
             else:
                 return "Error Code:" + res_code
 
+            
+
 
 class Sentence:
-    def __init__(self, sentence, src='ko', dest='en', translator=RemoteTranslator('Google')):
+    def __init__(self, sentence, src='ko', dest='en', translator=RemoteTranslator('Google'), debug=False):
         self.sentence = sentence
+        start_time = time.time()
         self.translated = translator.translate(sentence, src, dest)
+        after_translate_time = time.time()
+        print_debug(f'Translation time: {after_translate_time - start_time}', debug=debug)
         self.words = KONLPY_MODEL.pos(self.sentence)
-
+        konlpy_time = time.time()
+        print_debug(f'Konlpy time: {konlpy_time - after_translate_time}', debug=debug)
         tokens = [t[0] for t in self.words]
         self.aligned = WORD_ALIGNER.get_word_aligns(' '.join(tokens), self.translated)['mwmf']
+        print_debug(f'simalign time: {time.time() - konlpy_time}', debug=debug)
+
 
     def __str__(self):
         return f'{self.sentence} -> {self.translated}'
 
     def __repr__(self):
         return self.__str__()
+
+    @cached_property
+    def hash(self):
+        return mmh3.hash(self.sentence)
 
     @cached_property
     def mutable_words(self):
@@ -80,13 +109,14 @@ class Sentence:
 
         return mutable_words
 
-    def create_mutations(self, word_embedding_model=FASTTEXT_MODEL, konlpy_model=KONLPY_MODEL):
+    def create_mutations(self, word_embedding_model=FASTTEXT_MODEL, konlpy_model=KONLPY_MODEL, debug=False):
         mutant_dict = {}
         for word_type, word_list in self.mutable_words.items():
             if word_type == 'NNG' or word_type == 'NR':
                 for original_word, original_word_index in word_list:
                     similar_words = get_similar_words(original_word, word_embedding_model=word_embedding_model)
                     # discard non-NNG words
+                    print_debug(f'Candidates: {original_word} -> {similar_words}', debug=debug)
                     mutant_dict[original_word] = ([], word_type, original_word_index)
                     for candidate_word in similar_words:
                         words = konlpy_model.pos(candidate_word)
@@ -132,12 +162,15 @@ class MutantSentence(Sentence):
                 self.mutant_dest_alignment += self.translated.split(' ')[item[1]]
 
 
-def get_similar_words(w, word_embedding_model=FASTTEXT_MODEL):
+def get_similar_words(w, word_embedding_model=FASTTEXT_MODEL, max_k=5):
     candidates = word_embedding_model.get_nearest_neighbors(w)
     result = []
     for prob, word in candidates:
         if prob > 0.8:
             result.append(word)
+
+    if len(result) > max_k:
+        result = result[:max_k]
 
     return result
 
@@ -167,7 +200,6 @@ def calc_consistency_score(original, mutant):
     SEQUENCE_MATCHER.set_seqs(original_word, mutant_word)
 
     matching_blocks = SEQUENCE_MATCHER.get_matching_blocks()
-    print(matching_blocks)
 
     subsequences_original = []
     subsequences_mutant = []
@@ -186,6 +218,16 @@ def calc_consistency_score(original, mutant):
         original_index = block[0] + block[2]
         mutant_index = block[1] + block[2]
 
+    # edge case: when the last block is not matched one
+    if original_index < len(original_word):
+        subsequences_original.append(' '.join(original_word[:original_index]))
+    
+    if mutant_index < len(mutant_word):
+        subsequences_mutant.append(' '.join(mutant_word[:mutant_index]))
+
+    if len(subsequences_mutant) == 0 or len(subsequences_original) == 0:
+        return 1
+
     max_sim_score = -1
     for original_sentence in subsequences_original:
         for mutant_sentence in subsequences_mutant:
@@ -195,11 +237,13 @@ def calc_consistency_score(original, mutant):
     return max_sim_score
 
 
-def consistency_test(original, mutants, threshold):
+def test_consistency(original, mutants, threshold=SIMILARITY_TEST_THRESHOLD, debug=False):
     for mutant in mutants:
         score = calc_consistency_score(original.translated, mutant.translated)
 
         if score < threshold:
+            if debug: 
+                print_debug(f'Inconsistent mutant: {mutant} [{score}]', debug=debug)
             return False
 
     return True
@@ -235,7 +279,7 @@ def repair(original, mutants):
             new_original = Sentence(original.sentence)
             new_original.translated = original.translated.replace(translated_original, translated_mutant)
 
-            if consistency_test(new_original, mutants, SIMILARITY_TEST_THRESHOLD):
+            if test_consistency(new_original, mutants):
                 return new_original
 
     return ans
@@ -246,6 +290,6 @@ if __name__ == '__main__':
     # text = Sentence("마지막으로 그는 자신이 아끼는 엽서에 할머니를 위해 그림을 그려줘요.")
     mutants = text.create_mutations()
     print(text.translated)
-    if consistency_test(text, mutants, SIMILARITY_TEST_THRESHOLD):
+    if test_consistency(text, mutants):
         print("Consistency Error")
         print(repair(text, mutants).translated)
