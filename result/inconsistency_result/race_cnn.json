@@ -1,0 +1,3612 @@
+{
+  "-1092530118": {
+    "original_sentence": [
+      "greg abbott's decision to \"open texas 100%,\" lifting all covid-19 restrictions and end his state's mask mandate on march 10, is a political ploy that places his poll ratings above the health and safety of 29 million texans.",
+      "모든 covid-19 제한을 해제하고 3월 10일 그의 주의 마스크 의무를 종료하는 \"텍사스를 100% 개방\"하기로 한 그렉 애보트의 결정은 그의 여론 조사 점수를 2,900만 텍사스인의 건강과 안전보다 높게 만드는 정치적 책략입니다."
+    ],
+    "mutants": [
+      [
+        "greg abbott's decision to \"open texas 100%,\" lifting all covid-19 restrictions and end her state's mask mandate on march 10, is a political ploy that places her poll ratings above the health and safety of 29 million texans.",
+        "모든 covid-19 제한을 해제하고 3월 10일에 주의 마스크 의무를 종료하고 \"텍사스를 100% 개방\"하기로 한 그렉 애보트의 결정은 그녀의 여론 조사 점수를 2,900만 텍사스인의 건강과 안전보다 높게 만드는 정치적 책략입니다.",
+        0.9285714285714286
+      ]
+    ]
+  },
+  "-219553308": {
+    "original_sentence": [
+      "when abbott issued his executive order on march 2, he said, \"people and businesses don't need the state telling them how to operate.\"",
+      "애보트가 3월 2일 행정 명령을 발표했을 때 그는 \"사람과 기업은 국가가 운영 방법을 알려줄 필요가 없다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "when abbott issued her executive order on march 2, she said, \"people and businesses don't need the state telling them how to operate.\"",
+        "애보트가 3월 2일 행정 명령을 발표했을 때 그녀는 \"사람과 기업은 국가가 운영 방법을 알려줄 필요가 없다\"고 말했다.",
+        1.0
+      ]
+    ]
+  },
+  "-824214498": {
+    "original_sentence": [
+      "his remarks came not long after a brutal winter storm that crippled his state's power grid, leaving millions of texans shivering in the dark, with covid still very active in the state, and its vaccination program stumbling badly.",
+      "그의 발언은 그의 주의 전력망을 마비시킨 잔인한 겨울 폭풍이 지나간 지 얼마 되지 않아 수백만 텍산인들이 어둠 속에서 몸을 떨게 했고, 여전히 코로나19가 주에서 매우 활발하고 예방 접종 프로그램이 심하게 비틀거리고 있습니다."
+    ],
+    "mutants": [
+      [
+        "her remarks came not long after a brutal winter storm that crippled her state's power grid, leaving millions of texans shivering in the dark, with covid still very active in the state, and its vaccination program stumbling badly.",
+        "그녀의 발언은 주의 전력망을 마비시킨 잔인한 겨울 폭풍이 지나간 지 얼마 되지 않아 수백만 명의 텍사스 주민들이 어둠 속에서 몸을 떨게 했고, 여전히 코로나19가 주에서 매우 활발하고 예방 접종 프로그램이 심하게 비틀거리고 있습니다.",
+        0.935483870967742
+      ]
+    ]
+  },
+  "-791865014": {
+    "original_sentence": [
+      "last april, with cases rising, and barely two weeks after telling texans to stay home, abbott announced, among other things, that the state would allow stores to operate on a retail-to-go basis and that he was considering \"the elimination of the stay-at-home policy.\"",
+      "지난 4월, 사례가 증가하고 텍사스 주민들에게 집에 머물라고 말한 지 겨우 2주 만에 애보트는 무엇보다도 주에서 매장이 오프라인 매장 운영을 허용할 것이며 \" 자택대피령\""
+    ],
+    "mutants": [
+      [
+        "last april, with cases rising, and barely two weeks after telling texans to stay home, abbott announced, among other things, that the state would allow stores to operate on a retail-to-go basis and that she was considering \"the elimination of the stay-at-home policy.\"",
+        "지난 4월, 사례가 증가하고 텍사스 주민들에게 집에 머물라고 말한 지 겨우 2주 만에 Abbott는 무엇보다도 주에서 매장을 소매점으로 운영하도록 허용할 것이며 그녀가 \" 자택대피령\"",
+        0.9047619047619048
+      ]
+    ]
+  },
+  "1981444708": {
+    "original_sentence": [
+      "he said: \"we're now beginning to see glimmers that the worst of covid-19 may soon be behind us,\" and added, \"we have demonstrated that we can corral the coronavirus.\"",
+      "그는 \"우리는 이제 최악의 코로나19가 곧 우리 뒤에 닥칠 수 있다는 희미한 빛을 보기 시작했다\"면서 \"우리는 코로나바이러스를 가둘 수 있음을 보여줬다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "she said: \"we're now beginning to see glimmers that the worst of covid-19 may soon be behind us,\" and added, \"we have demonstrated that we can corral the coronavirus.\"",
+        "그녀는 \"우리는 이제 최악의 코로나19가 곧 우리 뒤에 닥칠 것이라는 희미한 빛을 보기 시작했다\"면서 \"우리는 코로나바이러스를 억제할 수 있음을 보여줬다\"고 말했다.",
+        0.9
+      ]
+    ]
+  },
+  "-679305083": {
+    "original_sentence": [
+      "he was tragically wrong.",
+      "그는 비극적으로 틀렸다."
+    ],
+    "mutants": [
+      [
+        "she was tragically wrong.",
+        "그녀는 비극적으로 틀렸다.",
+        1.0
+      ]
+    ]
+  },
+  "-1462779113": {
+    "original_sentence": [
+      "on may 22, abbott allowed bars in texas to reopen at 25% capacity, and on june 3 he increased capacity to 50%.",
+      "5월 22일 Abbott는 텍사스의 술집을 25% 용량으로 다시 열 수 있도록 허용했으며 6월 3일에는 용량을 50%로 늘렸습니다."
+    ],
+    "mutants": [
+      [
+        "on may 22, abbott allowed bars in texas to reopen at 25% capacity, and on june 3 she increased capacity to 50%.",
+        "5월 22일 Abbott는 텍사스의 술집을 25% 용량으로 다시 열 수 있도록 허용했으며 6월 3일에는 용량을 50%로 늘렸습니다.",
+        1
+      ]
+    ]
+  },
+  "1505985755": {
+    "original_sentence": [
+      "but only three weeks later, as covid-19 cases surged, he again ordered his state's bars to close.",
+      "그러나 불과 3주 후, 코로나19 사례가 급증하자 그는 다시 자신의 주의 술집을 폐쇄하라고 명령했습니다."
+    ],
+    "mutants": [
+      [
+        "but only three weeks later, as covid-19 cases surged, she again ordered her state's bars to close.",
+        "그러나 불과 3주 후, 코로나19 사례가 급증하면서 그녀는 다시 주의 술집을 폐쇄하라고 명령했습니다.",
+        0.9166666666666666
+      ]
+    ]
+  },
+  "1224358615": {
+    "original_sentence": [
+      "he said at the time, \"if i could go back and redo anything, it probably would have been to slow down the opening of bars.\"",
+      "그는 당시 \"내가 돌아가서 무엇이든 다시 할 수 있다면 아마도 술집의 개방을 늦추는 것이 되었을 것\"이라고 말했다."
+    ],
+    "mutants": [
+      [
+        "she said at the time, \"if i could go back and redo anything, it probably would have been to slow down the opening of bars.\"",
+        "당시 그녀는 \"내가 돌아가서 무엇이든 다시 할 수 있다면 아마도 술집의 개방을 늦추는 것이 되었을 것\"이라고 말했다.",
+        1.0
+      ]
+    ]
+  },
+  "-2051556737": {
+    "original_sentence": [
+      "he added, \"if we continue to contain covid, then these openings, just like other businesses, should be able to expand in the near future.\"",
+      "그는 \"우리가 계속해서 코로나19를 억제한다면 다른 사업과 마찬가지로 이러한 개방이 가까운 장래에 확장될 수 있을 것\"이라고 덧붙였다."
+    ],
+    "mutants": [
+      [
+        "she added, \"if we continue to contain covid, then these openings, just like other businesses, should be able to expand in the near future.\"",
+        "그녀는 \"우리가 코로나바이러스를 계속 억제한다면 다른 사업과 마찬가지로 이러한 개방이 가까운 장래에 확장될 수 있을 것\"이라고 덧붙였다.",
+        0.9333333333333333
+      ]
+    ]
+  },
+  "1655171635": {
+    "original_sentence": [
+      "when abbott instituted a mask mandate in july, he said, \"wearing a face covering in public is proven to be one of the most effective ways we have to slow the spread of covid-19.\"",
+      "Abbott가 7월에 마스크 의무화를 제정했을 때 그는 \"공개적으로 얼굴 가리개를 착용하는 것이 코로나19의 확산을 늦추는 가장 효과적인 방법 중 하나임이 입증되었습니다.\"라고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "when abbott instituted a mask mandate in july, she said, \"wearing a face covering in public is proven to be one of the most effective ways we have to slow the spread of covid-19.\"",
+        "Abbott가 7월에 마스크 의무화를 제정했을 때 그녀는 \"공개적으로 얼굴 가리개를 착용하는 것은 우리가 covid-19의 확산을 늦추는 데 가장 효과적인 방법 중 하나임이 입증되었습니다.\"라고 말했습니다.",
+        0.9047619047619048
+      ]
+    ]
+  },
+  "1391761391": {
+    "original_sentence": [
+      "he was right then, and he is wrong now.",
+      "그는 그때 옳았고 지금은 틀렸다."
+    ],
+    "mutants": [
+      [
+        "she was right then, and she is wrong now.",
+        "그녀는 그때 맞았고 지금은 틀렸다.",
+        0.75
+      ]
+    ]
+  },
+  "-327040685": {
+    "original_sentence": [
+      "they're also fighting for transparency and accountability from a government that has tried to clamp down on criticism of modi and his handling of the pandemic.",
+      "그들은 또한 모디와 그의 팬데믹 대처에 대한 비판을 단속하려는 정부의 투명성과 책임을 위해 싸우고 있습니다."
+    ],
+    "mutants": [
+      [
+        "they're also fighting for transparency and accountability from a government that has tried to clamp down on criticism of modi and her handling of the pandemic.",
+        "그들은 또한 모디에 대한 비판과 그녀의 전염병 대처를 단속하려는 정부의 투명성과 책임을 위해 싸우고 있습니다.",
+        0.8181818181818181
+      ]
+    ]
+  },
+  "914815866": {
+    "original_sentence": [
+      "but from a public health standpoint, benjamin says he doesn't view proof of vaccinations as the most efficient solution.",
+      "그러나 공중 보건의 관점에서 벤자민은 예방 접종의 증거를 가장 효율적인 솔루션으로 보지 않는다고 말합니다."
+    ],
+    "mutants": [
+      [
+        "but from a public health standpoint, benjamin says she doesn't view proof of vaccinations as the most efficient solution.",
+        "그러나 공중 보건의 관점에서 Benjamin은 예방 접종의 증거를 가장 효율적인 솔루션으로 보지 않는다고 말합니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1265623401": {
+    "original_sentence": [
+      "his policies continue to put america first and have largely benefitted the ever-expanding profit margin of the pharmaceutical industry, and as such, president biden's global covid-19 response has so far failed.",
+      "그의 정책은 계속해서 미국을 우선시하고 제약 산업의 계속 확대되는 이윤에 크게 도움이 되었으며 바이든 대통령의 글로벌 코로나19 대응은 지금까지 실패했습니다."
+    ],
+    "mutants": [
+      [
+        "her policies continue to put america first and have largely benefitted the ever-expanding profit margin of the pharmaceutical industry, and as such, president biden's global covid-19 response has so far failed.",
+        "그녀의 정책은 계속해서 미국을 우선시하고 제약 산업의 계속해서 확대되는 이윤에 큰 도움이 되었으며 바이든 대통령의 글로벌 코로나19 대응은 지금까지 실패했습니다.",
+        0.8947368421052632
+      ]
+    ]
+  },
+  "1296702436": {
+    "original_sentence": [
+      "biden has now announced that he will host a global covid-19 summit with country leaders and other stakeholders focused on ending the pandemic during the upcoming united nations general assembly next month.",
+      "이제 바이든은 다음 달 열리는 유엔 총회에서 팬데믹 종식에 초점을 맞춘 국가 지도자 및 기타 이해 관계자와 함께 글로벌 코로나19 정상회의를 주최할 것이라고 발표했습니다."
+    ],
+    "mutants": [
+      [
+        "biden has now announced that she will host a global covid-19 summit with country leaders and other stakeholders focused on ending the pandemic during the upcoming united nations general assembly next month.",
+        "이제 바이든은 다음 달 열리는 유엔 총회에서 팬데믹 종식에 초점을 맞춘 국가 지도자 및 기타 이해 관계자와 함께 글로벌 코로나19 정상회의를 주최할 것이라고 발표했습니다.",
+        1
+      ]
+    ]
+  },
+  "-1771711214": {
+    "original_sentence": [
+      "this summit could be the opportunity for biden to demonstrate leadership and set an example for other world leaders through real action -- but only if he chooses to do so.",
+      "이번 정상회담은 바이든이 리더십을 발휘하고 실제 행동을 통해 다른 세계 지도자들에게 본보기가 될 수 있는 기회가 될 수 있지만 그가 그렇게 하기로 선택한 경우에만 가능합니다."
+    ],
+    "mutants": [
+      [
+        "this summit could be the opportunity for biden to demonstrate leadership and set an example for other world leaders through real action -- but only if she chooses to do so.",
+        "이번 회담은 바이든이 리더십을 발휘하고 실제 행동을 통해 다른 세계 지도자들에게 본보기가 될 수 있는 기회가 될 수 있지만 그녀가 그렇게 하기로 선택한 경우에만 가능합니다.",
+        0.9583333333333334
+      ]
+    ]
+  },
+  "-797174553": {
+    "original_sentence": [
+      "first, he must stop catering to the misaligned interests of the pharmaceutical industry over people's lives.",
+      "첫째, 그는 사람들의 삶에 대한 제약 산업의 편향된 이해 관계를 충족시키는 것을 중단해야 합니다."
+    ],
+    "mutants": [
+      [
+        "first, she must stop catering to the misaligned interests of the pharmaceutical industry over people's lives.",
+        "첫째, 그녀는 사람들의 삶에 대한 제약 산업의 편향된 이해 관계를 충족시키는 것을 중단해야 합니다.",
+        1.0
+      ]
+    ]
+  },
+  "-756280672": {
+    "original_sentence": [
+      "he must apportion sufficient funds to the agency so they can provide countries initially budgeted aid to address the ongoing devastation.",
+      "그는 계속되는 황폐화를 해결하기 위해 초기에 예산이 책정된 국가에 원조를 제공할 수 있도록 기관에 충분한 자금을 할당해야 합니다."
+    ],
+    "mutants": [
+      [
+        "she must apportion sufficient funds to the agency so they can provide countries initially budgeted aid to address the ongoing devastation.",
+        "그녀는 계속되는 황폐화에 대처하기 위해 초기에 예산이 책정된 국가에 원조를 제공할 수 있도록 기관에 충분한 자금을 할당해야 합니다.",
+        0.9375
+      ]
+    ]
+  },
+  "630410551": {
+    "original_sentence": [
+      "biden must also immediately heed the advice of local health department officials and countless others by shipping unused vaccine doses set to expire soon to countries in need and using his power to ensure equitable global redistribution of doses already procured under vaccine nationalism.",
+      "바이든은 또한 즉시 만료 예정인 미사용 백신 용량을 필요한 국가에 배송하고 자신의 권한을 사용하여 백신 민족주의 하에서 이미 조달된 용량의 공평한 글로벌 재분배를 보장함으로써 지역 보건부 관리 및 수많은 다른 사람들의 조언에 즉시 귀를 기울여야 합니다."
+    ],
+    "mutants": [
+      [
+        "biden must also immediately heed the advice of local health department officials and countless others by shipping unused vaccine doses set to expire soon to countries in need and using her power to ensure equitable global redistribution of doses already procured under vaccine nationalism.",
+        "바이든은 또한 즉시 만료될 미사용 백신 용량을 필요한 국가에 배송하고 자신의 권한을 사용하여 백신 민족주의 하에서 이미 조달된 용량의 공평한 글로벌 재분배를 보장함으로써 지역 보건부 관리 및 수많은 다른 사람들의 조언에 즉시 귀를 기울여야 합니다.",
+        1.0
+      ]
+    ]
+  },
+  "1187695895": {
+    "original_sentence": [
+      "despite his promise to support an ip waiver for covid-19 vaccines, biden has done seemingly little to encourage his counterparts in other wealthy nations including the european union and united kingdom to do the same; instead, these nations have continued to obstruct the waiver at the world trade organization (wto).",
+      "코비드-19 백신에 대한 IP 면제를 지지하겠다는 그의 약속에도 불구하고, 바이든은 유럽 연합과 영국을 포함한 다른 부유한 국가의 그의 대응자들도 똑같이 하도록 격려하기 위해 거의 하지 않은 것처럼 보입니다. 대신, 이들 국가는 세계 무역 기구(wto)의 면제를 계속 방해했습니다."
+    ],
+    "mutants": [
+      [
+        "despite her promise to support an ip waiver for covid-19 vaccines, biden has done seemingly little to encourage her counterparts in other wealthy nations including the european union and united kingdom to do the same; instead, these nations have continued to obstruct the waiver at the world trade organization (wto).",
+        "코비드-19 백신에 대한 IP 면제를 지지한다는 그녀의 약속에도 불구하고, 바이든은 유럽 연합과 영국을 포함한 다른 부유한 국가의 상대국들도 똑같이 하도록 격려하기 위해 거의 하지 않은 것처럼 보입니다. 대신, 이들 국가는 세계 무역 기구(wto)의 면제를 계속 방해했습니다.",
+        0.9428571428571428
+      ]
+    ]
+  },
+  "1757026003": {
+    "original_sentence": [
+      "going beyond a single statement of support, president biden should champion this proposal and leverage his strong personal connections with allies to ensure its prompt passage and enactment at the wto.",
+      "단일 지원 성명을 넘어 바이든 대통령은 이 제안을 옹호하고 동맹국과의 강력한 개인적 유대를 활용하여 WTO에서 이 제안이 신속히 통과되고 제정될 수 있도록 해야 합니다."
+    ],
+    "mutants": [
+      [
+        "going beyond a single statement of support, president biden should champion this proposal and leverage her strong personal connections with allies to ensure its prompt passage and enactment at the wto.",
+        "단일 지원 성명을 넘어 바이든 대통령은 이 제안을 지지하고 동맹국과의 강력한 개인적 유대를 활용하여 WTO에서 이 제안이 신속하게 통과되고 제정될 수 있도록 해야 합니다.",
+        0.9565217391304348
+      ]
+    ]
+  },
+  "-368417682": {
+    "original_sentence": [
+      "in parallel, biden should use the authority bestowed upon him under the defense production act to require covid-19 vaccine manufacturers to transfer their technology to, and share their manufacturing knowledge with other companies abroad to quickly ramp up global production of vaccines in exchange for a reasonable royalty.",
+      "동시에 바이든은 국방 생산법에 따라 그에게 부여된 권한을 사용하여 코로나19 백신 제조업체가 기술을 이전하고 제조 지식을 해외의 다른 회사와 공유하여 백신의 글로벌 생산을 신속하게 확대하도록 요구해야 합니다. 합리적인 로열티."
+    ],
+    "mutants": [
+      [
+        "in parallel, biden should use the authority bestowed upon her under the defense production act to require covid-19 vaccine manufacturers to transfer their technology to, and share their manufacturing knowledge with other companies abroad to quickly ramp up global production of vaccines in exchange for a reasonable royalty.",
+        "동시에, 바이든은 국방 생산법에 따라 그녀에게 부여된 권한을 사용하여 코로나19 백신 제조업체가 기술을 이전하고 제조 지식을 해외의 다른 회사와 공유하여 백신의 글로벌 생산을 신속하게 확대하도록 요구해야 합니다. 합리적인 로열티.",
+        0.9642857142857143
+      ]
+    ]
+  },
+  "-1458442239": {
+    "original_sentence": [
+      "the head of global covid-19 response at the us department of state recently told reporters that she wanted us vaccine manufacturers to share technology with other firms abroad to produce more doses at a lower price.",
+      "미국 국무부의 코로나19 글로벌 대응 책임자는 최근 기자들에게 우리 백신 제조업체가 해외의 다른 회사와 기술을 공유하여 더 낮은 가격으로 더 많은 용량을 생산하기를 원한다고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "the head of global covid-19 response at the us department of state recently told reporters that he wanted us vaccine manufacturers to share technology with other firms abroad to produce more doses at a lower price.",
+        "미국 국무부의 코로나19 대응 책임자는 최근 기자들에게 우리 백신 제조업체가 해외의 다른 회사와 기술을 공유하여 더 낮은 가격으로 더 많은 용량을 생산하기를 원한다고 말했습니다.",
+        1
+      ]
+    ]
+  },
+  "1256230346": {
+    "original_sentence": [
+      "a little more than an hour after president trump, infected with the coronavirus, made a rash and reckless return to the white house, democratic challenger joe biden made clear at a televised nbc town hall why he is leading trump in every national poll and in most top battleground states as well.",
+      "코로나바이러스에 감염된 트럼프 대통령이 백악관에 성급하고 무모하게 돌아온 지 한 시간이 조금 지난 후, 민주적 도전자인 조 바이든은 TV로 방영된 nbc 시청에서 왜 모든 전국 여론조사와 대부분의 선거에서 트럼프가 선두를 달리고 있는지 분명히 했습니다. 최고의 전장 국가도 마찬가지입니다."
+    ],
+    "mutants": [
+      [
+        "a little more than an hour after president trump, infected with the coronavirus, made a rash and reckless return to the white house, democratic challenger joe biden made clear at a televised nbc town hall why she is leading trump in every national poll and in most top battleground states as well.",
+        "코로나바이러스에 감염된 트럼프 대통령이 성급하고 무모하게 백악관으로 돌아온 지 한 시간이 조금 지난 후, 민주적 도전자인 조 바이든은 TV로 방영된 nbc 시청에서 자신이 모든 전국 여론조사와 대부분의 선거에서 트럼프를 이끌고 있는 이유를 분명히 했습니다. 최고의 전장 국가도 마찬가지입니다.",
+        0.9117647058823529
+      ]
+    ]
+  },
+  "220948673": {
+    "original_sentence": [
+      "even as the president's close allies and advisers turn up sick after ignoring social distancing and mask-wearing best practices -- including his campaign manager, press secretary and three republican senators -- trump has chosen to double down on a failed strategy of downplaying the importance of the pandemic, tweeting, \"don't be afraid of covid.",
+      "대통령의 측근들과 보좌관들이 사회적 거리두기와 마스크 착용 모범 사례(캠페인 매니저, 공보실, 공화당 상원의원 3명 포함)를 무시한 후 병이 나더라도 트럼프는 중요성을 과소평가하는 실패한 전략을 두 배로 늘리기로 결정했습니다. 팬데믹(세계적 대유행)에 대한 트윗은 \"코비드를 두려워하지 마세요."
+    ],
+    "mutants": [
+      [
+        "even as the president's close allies and advisers turn up sick after ignoring social distancing and mask-wearing best practices -- including her campaign manager, press secretary and three republican senators -- trump has chosen to double down on a failed strategy of downplaying the importance of the pandemic, tweeting, \"don't be afraid of covid.",
+        "대통령의 측근들과 보좌관들이 사회적 거리두기와 마스크 착용 모범 사례(캠페인 매니저, 공보실, 공화당 상원의원 3명 포함)를 무시하고 병에 걸리더라도 트럼프는 중요성을 과소평가하는 실패한 전략을 두 배로 늘리기로 결정했습니다. 팬데믹(세계적 대유행)에 대한 트윗은 \"코비드를 두려워하지 마세요.",
+        1.0
+      ]
+    ]
+  },
+  "1997899615": {
+    "original_sentence": [
+      "at a time when the nation's leader seems lost in a fog of claims that he might be immune to the virus and unfounded predictions that the pandemic would simply disappear, biden gets a big head start by following basic public health precautions and urging voters to do the same.",
+      "국가의 지도자가 자신이 바이러스에 면역이 될 수 있다는 주장과 팬데믹이 단순히 사라질 것이라는 근거 없는 예측의 안개 속에서 길을 잃은 것처럼 보이는 시기에, 바이든은 기본적인 공중 보건 예방 조치를 따르고 유권자들에게 다음과 같이 촉구함으로써 큰 ​​출발을 하고 있습니다. 같은."
+    ],
+    "mutants": [
+      [
+        "at a time when the nation's leader seems lost in a fog of claims that she might be immune to the virus and unfounded predictions that the pandemic would simply disappear, biden gets a big head start by following basic public health precautions and urging voters to do the same.",
+        "국가의 지도자가 자신이 바이러스에 면역이 될 수 있다는 주장과 팬데믹이 단순히 사라질 것이라는 근거 없는 예측의 안개 속에서 길을 잃은 것처럼 보이는 시기에 바이든은 기본적인 공중 보건 예방 조치를 따르고 유권자들에게 다음을 수행할 것을 촉구함으로써 큰 ​​출발을 하고 있습니다. 같은.",
+        0.972972972972973
+      ]
+    ]
+  },
+  "-24824224": {
+    "original_sentence": [
+      "\"i hope nobody walks away thinking it's not a problem,\" he said of trump's tweet.",
+      "그는 트럼프 대통령의 트윗에 대해 \"아무도 그것이 문제가 아니라고 생각하며 물러나길 바란다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "\"i hope nobody walks away thinking it's not a problem,\" she said of trump's tweet.",
+        "그녀는 트럼프 대통령의 트윗에 대해 \"아무도 그것이 문제가 아니라고 생각하며 물러나길 바란다\"고 말했다.",
+        1.0
+      ]
+    ]
+  },
+  "1612950032": {
+    "original_sentence": [
+      "and the expectation is, if nothing changes, another 200,000 dead by the end of the year,\" he said.",
+      "변화가 없다면 올해 말까지 20만 명이 추가로 사망할 것으로 예상된다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "and the expectation is, if nothing changes, another 200,000 dead by the end of the year,\" she said.",
+        "그리고 아무 변화가 없다면 올해 말까지 200,000명이 추가로 사망할 것으로 예상됩니다\"라고 그녀는 말했습니다.",
+        0.6363636363636364
+      ]
+    ]
+  },
+  "680485963": {
+    "original_sentence": [
+      "trump uses his speeches to lavish praise on himself, while biden talks about his working-class upbringing and his wife's career as a public school teacher.",
+      "트럼프는 연설을 통해 자신을 아낌없이 칭찬하고, 바이든은 자신의 노동계급 교육과 아내의 공립학교 교사 경력에 대해 이야기합니다."
+    ],
+    "mutants": [
+      [
+        "trump uses her speeches to lavish praise on himself, while biden talks about her working-class upbringing and her wife's career as a public school teacher.",
+        "트럼프는 연설을 통해 자신을 아낌없이 칭찬하고, 바이든은 자신의 노동계급 교육과 아내의 공립학교 교사 경력에 대해 이야기합니다.",
+        1
+      ]
+    ]
+  },
+  "-517831326": {
+    "original_sentence": [
+      "\"the country is ready to be united, i believe,\" he told a voter at the town hall.",
+      "그는 시청에서 유권자에게 \"나라가 통일될 준비가 되어 있다고 믿습니다.\"라고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "\"the country is ready to be united, i believe,\" she told a voter at the town hall.",
+        "그녀는 시청에서 유권자에게 “나라가 통일될 준비가 되어 있다고 믿습니다.",
+        0.75
+      ]
+    ]
+  },
+  "-704727630": {
+    "original_sentence": [
+      "at a town hall, it won't be easy for trump to interrupt and talk over voters, the way he did with biden and the moderator in their first debate.",
+      "타운 홀에서 트럼프가 첫 번째 토론에서 바이든과 사회자를 대했던 것처럼 유권자들에게 끼어들고 이야기하는 것은 쉽지 않을 것입니다."
+    ],
+    "mutants": [
+      [
+        "at a town hall, it won't be easy for trump to interrupt and talk over voters, the way she did with biden and the moderator in their first debate.",
+        "시청에서 트럼프가 첫 번째 토론에서 바이든과 사회자를 대했던 것처럼 유권자들에게 끼어들고 이야기하는 것은 쉽지 않을 것입니다.",
+        1.0
+      ]
+    ]
+  },
+  "1176229740": {
+    "original_sentence": [
+      "confronted with the real needs of ordinary americans, trump will be forced into the uncomfortable position of explaining why he has denied and denigrated scientific knowledge at every stage of the pandemic.",
+      "평범한 미국인들의 진정한 필요에 직면한 트럼프는 팬데믹의 모든 단계에서 자신이 왜 과학적 지식을 부정하고 폄하했는지 설명해야 하는 불편한 입장에 놓이게 될 것입니다."
+    ],
+    "mutants": [
+      [
+        "confronted with the real needs of ordinary americans, trump will be forced into the uncomfortable position of explaining why she has denied and denigrated scientific knowledge at every stage of the pandemic.",
+        "평범한 미국인들의 진정한 필요에 직면한 트럼프는 팬데믹의 모든 단계에서 자신이 왜 과학적 지식을 부정하고 폄하했는지 설명해야 하는 불편한 입장에 놓이게 될 것입니다.",
+        1
+      ]
+    ]
+  },
+  "-116439177": {
+    "original_sentence": [
+      "activist rima samman, who lost her brother to covid last year, created an impromptu memorial on the beach of belmar, new jersey to honor his memory.",
+      "작년에 코로나19로 남동생을 잃은 활동가 리마 삼만(Rima samman)은 그의 추모를 기리기 위해 뉴저지주 벨마 해변에 즉석 기념비를 세웠다."
+    ],
+    "mutants": [
+      [
+        "activist rima samman, who lost her brother to covid last year, created an impromptu memorial on the beach of belmar, new jersey to honor her memory.",
+        "작년에 코로나19로 남동생을 잃은 활동가 리마 삼만(Rima samman)은 뉴저지 주 벨마르 해변에 그녀의 추모를 기리기 위해 즉석 기념비를 만들었습니다.",
+        0.8666666666666667
+      ],
+      [
+        "activist rima samman, who lost his brother to covid last year, created an impromptu memorial on the beach of belmar, new jersey to honor his memory.",
+        "작년에 코로나19로 형을 잃은 활동가 리마 삼만(Rima samman)은 그의 추모를 기리기 위해 뉴저지주 벨마 해변에 즉석 기념비를 세웠다.",
+        1.0
+      ]
+    ]
+  },
+  "-892208185": {
+    "original_sentence": [
+      "soon after, she began receiving messages from people across the country requesting she add the names of their loved ones.",
+      "얼마 지나지 않아 그녀는 전국의 사람들로부터 사랑하는 사람들의 이름을 추가해 달라는 메시지를 받기 시작했습니다."
+    ],
+    "mutants": [
+      [
+        "soon after, he began receiving messages from people across the country requesting he add the names of their loved ones.",
+        "얼마 지나지 않아 그는 전국의 사람들로부터 사랑하는 사람의 이름을 추가해 달라는 메시지를 받기 시작했습니다.",
+        0.9230769230769231
+      ]
+    ]
+  },
+  "1758441736": {
+    "original_sentence": [
+      "as the memorial of stones and seashells grew, she said she realized \"how desperate we all are for something tangible.\"",
+      "돌과 조개 껍데기에 대한 기념비가 늘어남에 따라 그녀는 \"우리 모두가 무언가를 갈망하는 것이 얼마나 절박한지\" 깨달았다고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "as the memorial of stones and seashells grew, he said he realized \"how desperate we all are for something tangible.\"",
+        "돌과 조개 껍데기에 대한 기념비가 늘어남에 따라 그는 \"우리 모두가 무언가를 갈망하는 것이 얼마나 절박한지\" 깨달았다고 말했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "2024494383": {
+    "original_sentence": [
+      "\"i would encourage parents to have a high index of suspicion and to definitely not send your child to school if they are not feeling themselves and have any symptoms that could be covid-19,\" she said.",
+      "그녀는 \"부모님이 의심을 많이 하고 자녀를 학교에 보내지 않는 것이 좋습니다. 자녀가 스스로를 느끼지 않고 코로나19에 감염될 수 있는 증상이 있는 경우 자녀를 학교에 보내지 않을 것입니다.\"라고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "\"i would encourage parents to have a high index of suspicion and to definitely not send your child to school if they are not feeling themselves and have any symptoms that could be covid-19,\" he said.",
+        "그는 \"부모님이 의심을 많이 하고 자녀를 학교에 보내지 않는 것이 좋습니다. 자녀가 스스로를 느끼지 못하고 코로나19 의심 증상이 있는 경우 자녀를 학교에 보내지 않을 것입니다.\"라고 말했습니다.",
+        0.9565217391304348
+      ]
+    ]
+  },
+  "-254056544": {
+    "original_sentence": [
+      "with some severe common cold cases, someone could lose their sense of smell or taste due to nasal congestion, she explained.",
+      "일부 심각한 감기의 경우 코막힘으로 인해 후각이나 미각을 잃을 수 있다고 그녀는 설명했습니다."
+    ],
+    "mutants": [
+      [
+        "with some severe common cold cases, someone could lose their sense of smell or taste due to nasal congestion, he explained.",
+        "일부 중증 감기의 경우 코막힘으로 인해 후각이나 미각을 잃을 수 있다고 그는 설명했다.",
+        0.9090909090909091
+      ]
+    ]
+  },
+  "1178307618": {
+    "original_sentence": [
+      "testing is much more readily available than it was a year ago, she said, and parents should contact their pediatricians for options.",
+      "그녀는 검사가 1년 전보다 훨씬 더 쉽게 가능하며 부모는 옵션에 대해 소아과 의사에게 문의해야 한다고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "testing is much more readily available than it was a year ago, he said, and parents should contact their pediatricians for options.",
+        "검사는 1년 전보다 훨씬 더 쉽게 이용할 수 있으며 부모는 옵션에 대해 소아과 의사에게 문의해야 한다고 그는 말했습니다.",
+        0.8
+      ]
+    ]
+  },
+  "1432393868": {
+    "original_sentence": [
+      "wen said she expects covid-19 testing options to be localized, meaning the best places to get tested change depending on where you live.",
+      "wen은 covid-19 테스트 옵션이 현지화될 것으로 기대한다고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "wen said he expects covid-19 testing options to be localized, meaning the best places to get tested change depending on where you live.",
+        "wen은 covid-19 테스트 옵션이 현지화될 것으로 기대한다고 말했습니다.",
+        1
+      ]
+    ]
+  },
+  "-1551083642": {
+    "original_sentence": [
+      "he was discharged wednesday afternoon after four days in georgetown university hospital.",
+      "그는 조지타운 대학 병원에서 4일을 보낸 후 수요일 오후에 퇴원했습니다."
+    ],
+    "mutants": [
+      [
+        "she was discharged wednesday afternoon after four days in georgetown university hospital.",
+        "그녀는 조지타운 대학 병원에서 4일을 보낸 후 수요일 오후에 퇴원했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "192926667": {
+    "original_sentence": [
+      "during his illness, amid his attempts to overturn the certification of election results, giuliani quickly made medical matters worse.",
+      "투병 중에 선거 결과 증명을 뒤집으려는 시도 속에서 줄리아니는 재빨리 의료 문제를 악화시켰다."
+    ],
+    "mutants": [
+      [
+        "during her illness, amid her attempts to overturn the certification of election results, giuliani quickly made medical matters worse.",
+        "그녀가 병에 걸렸을 때 선거 결과 증명을 뒤집으려는 시도 속에서 줄리아니는 빠르게 의료 문제를 악화시켰다.",
+        0.9090909090909091
+      ]
+    ]
+  },
+  "-103539739": {
+    "original_sentence": [
+      "no, his newest missteps fall short of his press conference at the four seasons total landscaping storefront in pennsylvania -- but they do substantial damage to the country's ongoing attempts to prevent and to treat new covid-19 infections.",
+      "아니요, 그의 최근 실수는 펜실베니아의 사계절 종합 조경 매장에서의 기자 회견에는 미치지 못하지만 새로운 covid-19 감염을 예방하고 치료하려는 국가의 지속적인 시도에 상당한 피해를 입힙니다."
+    ],
+    "mutants": [
+      [
+        "no, her newest missteps fall short of her press conference at the four seasons total landscaping storefront in pennsylvania -- but they do substantial damage to the country's ongoing attempts to prevent and to treat new covid-19 infections.",
+        "아니요, 그녀의 가장 최근의 실수는 펜실베니아의 사계절 종합 조경 매장에서의 기자 회견에는 미치지 못하지만 새로운 covid-19 감염을 예방하고 치료하려는 국가의 지속적인 시도에 상당한 피해를 줍니다.",
+        0.9545454545454546
+      ]
+    ]
+  },
+  "-795143805": {
+    "original_sentence": [
+      "little needs to be said about his from-the-hospital-room dismissal of the us centers for disease control and prevention (cdc) guidelines for masks by claiming \"you can overdo the mask.\"",
+      "\"마스크를 과용할 수 있다\"고 주장하면서 마스크에 대한 미국 질병통제예방센터(CDC) 지침을 병원에서 해고한 것에 대해서는 별로 말할 필요가 없습니다."
+    ],
+    "mutants": [
+      [
+        "little needs to be said about her from-the-hospital-room dismissal of the us centers for disease control and prevention (cdc) guidelines for masks by claiming \"you can overdo the mask.\"",
+        "그녀가 \"마스크를 과용할 수 있다\"고 주장하면서 마스크에 대한 미국 질병 통제 예방 센터(CDC) 지침을 병원에서 퇴원시킨 것에 대해 거의 말할 필요가 없습니다.",
+        0.7777777777777778
+      ]
+    ]
+  },
+  "-210213106": {
+    "original_sentence": [
+      "the first was quite deliberate: from his nice room in a nice hospital likely surrounded by nice nurses and nice doctors, giuliani let us know that he was a real vip.",
+      "첫 번째는 아주 고의적이었습니다. 좋은 간호사와 좋은 의사로 둘러싸인 멋진 병원의 멋진 방에서 giuliani는 그가 진짜 vip임을 알렸습니다."
+    ],
+    "mutants": [
+      [
+        "the first was quite deliberate: from her nice room in a nice hospital likely surrounded by nice nurses and nice doctors, giuliani let us know that she was a real vip.",
+        "첫 번째는 아주 고의적이었습니다. 좋은 간호사와 좋은 의사로 둘러싸인 멋진 병원의 멋진 방에서 giuliani는 그녀가 진정한 VIP임을 알렸습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1504737418": {
+    "original_sentence": [
+      "as he observed: \"sometimes, when you're a celebrity, they're worried if something happens to you...they're going to examine it more carefully and do everything right.\"",
+      "그가 관찰한 바와 같이: \"때때로 당신이 연예인일 때, 그들은 당신에게 무슨 일이 생기면 걱정합니다... 그들은 그것을 더 주의 깊게 조사하고 모든 것을 올바르게 할 것입니다.\""
+    ],
+    "mutants": [
+      [
+        "as she observed: \"sometimes, when you're a celebrity, they're worried if something happens to you...they're going to examine it more carefully and do everything right.\"",
+        "그녀가 관찰한 바와 같이: \"때때로 당신이 연예인일 때 그들은 당신에게 무슨 일이 생기면 걱정합니다... 그들은 그것을 더 신중하게 조사하고 모든 것을 올바르게 할 것입니다.\"",
+        0.9130434782608696
+      ]
+    ]
+  },
+  "1393172238": {
+    "original_sentence": [
+      "the giuliani comment from his citadel of high privilege is not as repulsive to his boss' claim that \"when you're a star, they let you do it,\" but at this moment, as the country struggles to develop an equitable way to divvy up the very limited vaccine supply that will become available soon, there does indeed exist a group of well-heeled and well-connected and well-fed people who do expect -- and receive -- special treatment every step of the way.",
+      "높은 특권을 지닌 그의 요새에서 나온 줄리아니의 말은 \"당신이 스타가 되면 그들은 당신이 그것을 하도록 놔두는 것\"이라는 그의 상사의 주장에 혐오감을 주지는 않지만, 지금 이 순간 국가는 분열에 대한 공평한 방법을 개발하기 위해 고군분투하고 있습니다. 곧 제공될 매우 제한된 백신 공급을 감안할 때, 매 단계마다 특별 대우를 기대하고 받는 부유하고 인맥이 풍부하고 풍족한 사람들의 그룹이 실제로 존재합니다."
+    ],
+    "mutants": [
+      [
+        "the giuliani comment from her citadel of high privilege is not as repulsive to her boss' claim that \"when you're a star, they let you do it,\" but at this moment, as the country struggles to develop an equitable way to divvy up the very limited vaccine supply that will become available soon, there does indeed exist a group of well-heeled and well-connected and well-fed people who do expect -- and receive -- special treatment every step of the way.",
+        "높은 특권을 누리는 그녀의 요새에서 나온 줄리아니의 말은 \"당신이 스타가 되면 그들은 당신이 할 수 있게 해준다\"는 그녀의 상사의 주장만큼 혐오스럽지는 않지만, 지금 이 순간 국가는 분열에 대한 공평한 방법을 개발하기 위해 고군분투하고 있습니다. 곧 제공될 매우 제한된 백신 공급을 감안할 때, 매 단계마다 특별 대우를 기대하고 받는 부유하고 잘 연결되고 풍족한 사람들의 그룹이 실제로 존재합니다.",
+        0.8653846153846154
+      ]
+    ]
+  },
+  "1409181603": {
+    "original_sentence": [
+      "as provocatively cruel as this comment -- and attitude -- may be, this is still not the worst comment giuliani made during his time in the hospital.",
+      "이 말과 태도가 도발적으로 잔인하더라도 이것은 여전히 ​​줄리아니가 병원에 ​​있는 동안 한 최악의 말은 아닙니다."
+    ],
+    "mutants": [
+      [
+        "as provocatively cruel as this comment -- and attitude -- may be, this is still not the worst comment giuliani made during her time in the hospital.",
+        "이 말과 태도가 도발적으로 잔인할 수 있지만, 이것은 여전히 ​​줄리아니가 병원에 ​​있는 동안 한 최악의 말은 아닙니다.",
+        1.0
+      ]
+    ]
+  },
+  "723039775": {
+    "original_sentence": [
+      "in the radio interview on 77 wabc he gave to admirers, he bragged that he received the \"cocktail\" the president had been given.",
+      "77 wabc의 라디오 인터뷰에서 그는 추종자들에게 준 \"칵테일\"을 대통령에게 받았다고 자랑했습니다."
+    ],
+    "mutants": [
+      [
+        "in the radio interview on 77 wabc she gave to admirers, she bragged that she received the \"cocktail\" the president had been given.",
+        "77 wabc 라디오 인터뷰에서 그녀는 추종자들에게 준 \"칵테일\" 대통령이 준 \"칵테일\"을 받았다고 자랑했습니다.",
+        0.8
+      ]
+    ]
+  },
+  "-1748132968": {
+    "original_sentence": [
+      "he fumbled over the specific drugs with which he was treated, listing only remdesivir, an antiviral, and the steroid dexamethasone.",
+      "그는 렘데시비르, 항바이러스제, 스테로이드 덱사메타손만 나열하면서 자신이 치료받은 특정 약물을 더듬었다."
+    ],
+    "mutants": [
+      [
+        "she fumbled over the specific drugs with which she was treated, listing only remdesivir, an antiviral, and the steroid dexamethasone.",
+        "그녀는 렘데시비르, 항바이러스제, 스테로이드 덱사메타손만 나열하면서 자신이 치료받은 특정 약물을 더듬거렸습니다.",
+        0.9
+      ]
+    ]
+  },
+  "-1356030027": {
+    "original_sentence": [
+      "his use of the term \"cocktail\" though has suggested to some that he also meant to include the then-experimental, now emergency use authorized monoclonal antibody that trump received back in october.",
+      "\"칵테일\"이라는 용어를 사용한 것은 일부 사람들에게 그가 10월에 트럼프가 다시 받은 실험적, 현재 긴급 사용 승인된 단일 클론 항체를 포함하는 것을 의미했다는 것을 암시했습니다."
+    ],
+    "mutants": [
+      [
+        "her use of the term \"cocktail\" though has suggested to some that she also meant to include the then-experimental, now emergency use authorized monoclonal antibody that trump received back in october.",
+        "그녀가 \"칵테일\"이라는 용어를 사용한 것은 일부 사람들에게 그녀가 10월에 트럼프가 다시 받은 실험적, 지금 긴급 사용 승인된 단일 클론 항체를 포함하는 것을 의미했다고 제안했습니다.",
+        0.8636363636363636
+      ]
+    ]
+  },
+  "-1597019829": {
+    "original_sentence": [
+      "whatever he received, he, like his boss, is singing its praises, stating, \"the minute i took the cocktail ...",
+      "무엇을 받든 상사처럼 \"칵테일을 마신 순간 ..."
+    ],
+    "mutants": [
+      [
+        "whatever she received, he, like her boss, is singing its praises, stating, \"the minute i took the cocktail ...",
+        "그녀가 무엇을 받든 그는 그녀의 상사처럼 \"내가 칵테일을 마시는 순간 ...",
+        0.625
+      ]
+    ]
+  },
+  "600207801": {
+    "original_sentence": [
+      "as the new york times reported, he seemed \"unaware\" of the limited availability of antibody treatments available to those close to the president.",
+      "뉴욕 타임즈가 보도한 바와 같이 그는 대통령과 가까운 사람들이 이용할 수 있는 항체 치료제의 제한된 가용성을 \"인식하지 못하는\" 것 같았다."
+    ],
+    "mutants": [
+      [
+        "as the new york times reported, she seemed \"unaware\" of the limited availability of antibody treatments available to those close to the president.",
+        "뉴욕 타임즈가 보도한 것처럼 그녀는 대통령과 가까운 사람들이 이용할 수 있는 항체 치료제의 제한된 가용성을 \"인식하지 못하는\" 것 같았다.",
+        1.0
+      ]
+    ]
+  },
+  "1271412722": {
+    "original_sentence": [
+      "though falling short of a pure huckster promise that \"by acting now, you can get 10% off this offer while supplies last!,\" his comments have placed the entire enterprise of medical care into the sham-tastic realm of the late night tv pitchman -- an arena where the ever-enterprising giuliani has already placed a stake, endorsing cigars on his youtube channel.",
+      "\"지금 행동하면 이 제안을 10% 할인받을 수 있습니다!\"라는 순수한 허스터의 약속에는 미치지 못하지만, 그의 말은 의료 사업 전체를 심야 TV 투수라는 기만적인 영역으로 몰아넣었습니다. -- 항상 진취적인 giuliani가 이미 자신의 YouTube 채널에서 시가를 지지하는 지분을 투자한 경기장입니다."
+    ],
+    "mutants": [
+      [
+        "though falling short of a pure huckster promise that \"by acting now, you can get 10% off this offer while supplies last!,\" her comments have placed the entire enterprise of medical care into the sham-tastic realm of the late night tv pitchman -- an arena where the ever-enterprising giuliani has already placed a stake, endorsing cigars on her youtube channel.",
+        "\"지금 행동하면 이 제안을 10% 할인받을 수 있습니다!\"라는 순수한 허스터의 약속에는 미치지 못하지만 그녀의 말은 의료 사업 전체를 심야 TV 투수라는 기만적인 영역으로 몰아넣었습니다. -- 항상 진취적인 giuliani가 이미 그녀의 YouTube 채널에서 시가를 지지하는 지분을 걸고 있는 경기장입니다.",
+        0.9166666666666666
+      ]
+    ]
+  },
+  "2110717082": {
+    "original_sentence": [
+      "to be clear -- giuliani has no idea why he feels better.",
+      "분명히 하자면, 줄리아니는 왜 기분이 나아졌는지 전혀 모릅니다."
+    ],
+    "mutants": [
+      [
+        "to be clear -- giuliani has no idea why she feels better.",
+        "분명히 말하지만, 줄리아니는 왜 기분이 좋아지는지 전혀 모릅니다.",
+        0.8571428571428572
+      ]
+    ]
+  },
+  "-1155514777": {
+    "original_sentence": [
+      "nor do his doctors.",
+      "그의 의사도 마찬가지입니다."
+    ],
+    "mutants": [
+      [
+        "nor do her doctors.",
+        "그녀의 의사도 마찬가지입니다.",
+        1.0
+      ]
+    ]
+  },
+  "1546569030": {
+    "original_sentence": [
+      "but here are the facts about each component of the cocktail that the president and his friend the mayor received (and endorsed).",
+      "그러나 여기에 대통령과 그의 친구 시장이 받은(그리고 승인한) 칵테일의 각 구성 요소에 대한 사실이 있습니다."
+    ],
+    "mutants": [
+      [
+        "but here are the facts about each component of the cocktail that the president and her friend the mayor received (and endorsed).",
+        "그러나 여기에 대통령과 그녀의 친구 시장이 받은(그리고 승인한) 칵테일의 각 구성 요소에 대한 사실이 있습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-973255330": {
+    "original_sentence": [
+      "so not only has giuliani dissed approved public health recommendations and exerted his own brand of executive jet-setter privilege, he has also totally scrambled the public's understanding of our fledgling medical armamentarium to treat covid-19, a disease that has killed more than 1.5 million people worldwide, including almost 300,000 in the us.",
+      "그래서 giuliani는 승인된 공중 보건 권고를 무시하고 자신의 브랜드의 중역 제트 세터 특권을 행사했을 뿐만 아니라 150만 명 이상의 목숨을 앗아간 질병인 covid-19를 치료하기 위해 우리의 신생 의료 시설에 대한 대중의 이해를 완전히 뒤죽박죽으로 만들었습니다. 미국에 있는 거의 300,000명을 포함하여 전 세계의 사람들."
+    ],
+    "mutants": [
+      [
+        "so not only has giuliani dissed approved public health recommendations and exerted her own brand of executive jet-setter privilege, she has also totally scrambled the public's understanding of our fledgling medical armamentarium to treat covid-19, a disease that has killed more than 1.5 million people worldwide, including almost 300,000 in the us.",
+        "그래서 giuliani는 승인된 공중 보건 권고 사항을 무시하고 자신의 브랜드의 제트 세터 중역 특권을 행사했을 뿐만 아니라 150만 명 이상의 목숨을 앗아간 질병인 covid-19를 치료하기 위한 우리의 신생 의료 시설에 대한 대중의 이해를 완전히 뒤엎었습니다. 미국에 있는 거의 300,000명을 포함하여 전 세계의 사람들.",
+        0.8809523809523809
+      ]
+    ]
+  },
+  "-1177481704": {
+    "original_sentence": [
+      "when graciane da silva died of covid-19 at a rio de janeiro hospital last june, her death was seen as unusual -- she was only 28 and, at the time, the coronavirus was mostly claiming the lives of the elderly.",
+      "graciane da silva가 지난 6월 리우데자네이루 병원에서 코로나19로 사망했을 때 그녀의 죽음은 이례적인 것으로 여겨졌습니다. 그녀는 겨우 28세였으며 당시 코로나바이러스는 대부분 노인들의 생명을 앗아가고 있었습니다."
+    ],
+    "mutants": [
+      [
+        "when graciane da silva died of covid-19 at a rio de janeiro hospital last june, his death was seen as unusual -- he was only 28 and, at the time, the coronavirus was mostly claiming the lives of the elderly.",
+        "graciane da silva가 지난 6월 리우데자네이루 병원에서 코로나19로 사망했을 때 그의 죽음은 이례적인 것으로 여겨졌습니다. 그는 겨우 28세였으며 당시 코로나바이러스는 대부분 노인들의 생명을 앗아가고 있었습니다.",
+        0.9583333333333334
+      ]
+    ]
+  },
+  "1210446380": {
+    "original_sentence": [
+      "boris johnson's latest gaffe could threaten britain's vaccine rollout the uk's gaffe-prone prime minister has made frantic attempts to row back on his comments that his country's successful vaccine rollout was \"because of capitalism, because of greed, my friends.\"",
+      "보리스 존슨의 최신 오류는 영국의 백신 출시를 위협할 수 있습니다. 오류가 발생하기 쉬운 영국의 총리는 그의 국가의 성공적인 백신 출시가 \"자본주의 때문, 탐욕 때문\"이라는 자신의 발언을 되돌리려고 미친 듯이 시도했습니다."
+    ],
+    "mutants": [
+      [
+        "boris johnson's latest gaffe could threaten britain's vaccine rollout the uk's gaffe-prone prime minister has made frantic attempts to row back on her comments that her country's successful vaccine rollout was \"because of capitalism, because of greed, my friends.\"",
+        "보리스 존슨의 최근 실수는 영국의 백신 출시를 위협할 수 있다 영국의 실수가 잦은 영국 총리는 영국의 성공적인 백신 출시가 \"자본주의 때문, 탐욕 때문\"이라는 그녀의 발언을 반박하기 위해 미친 듯이 시도했습니다.",
+        0.7037037037037037
+      ]
+    ]
+  },
+  "-82160304": {
+    "original_sentence": [
+      "british tv anchor kate garraway opens up about her husband's harrowing, year-long ordeal with covid-19, which has left him hospitalized since last march.",
+      "영국 TV 앵커인 케이트 개러웨이(Kate Garraway)는 지난 3월부터 남편을 병원에 입원시킨 코로나19로 남편이 1년 동안 겪은 고통스러운 시련에 대해 이야기합니다."
+    ],
+    "mutants": [
+      [
+        "british tv anchor kate garraway opens up about her husband's harrowing, year-long ordeal with covid-19, which has left her hospitalized since last march.",
+        "영국 TV 앵커인 케이트 개러웨이(Kate Garraway)는 지난 3월부터 그녀를 병원에 입원시킨 남편의 1년 동안의 코로나19로 고통스러운 시련에 대해 이야기합니다.",
+        0.9375
+      ],
+      [
+        "british tv anchor kate garraway opens up about his husband's harrowing, year-long ordeal with covid-19, which has left him hospitalized since last march.",
+        "영국 TV 앵커인 케이트 개러웨이(Kate Garraway)는 지난 3월부터 남편을 병원에 입원시킨 코로나19로 남편이 1년 동안 겪은 고통스러운 시련에 대해 이야기합니다.",
+        1
+      ]
+    ]
+  },
+  "-713513417": {
+    "original_sentence": [
+      "gavin newsom said friday his state will become the nation's first to require covid-19 vaccinations for students.",
+      "개빈 뉴섬 주지사는 금요일 자신의 주가 학생들에게 코로나19 예방 접종을 의무화하는 국가가 될 것이라고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "gavin newsom said friday her state will become the nation's first to require covid-19 vaccinations for students.",
+        "gavin newom은 금요일 그녀의 주가 학생들에게 코로나19 예방 접종을 의무화하는 국가가 될 것이라고 말했습니다.",
+        0.9166666666666666
+      ]
+    ]
+  },
+  "-445001268": {
+    "original_sentence": [
+      "new york city schools chancellor meisha porter said she does not expect to have a shortage of teachers on monday.",
+      "Meisha Porter 뉴욕시 학교 총장은 월요일에 교사가 부족할 것으로 예상하지 않는다고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "new york city schools chancellor meisha porter said he does not expect to have a shortage of teachers on monday.",
+        "Meisha Porter 뉴욕시 학교 총장은 월요일에 교사가 부족할 것으로 예상하지 않는다고 말했습니다.",
+        1
+      ]
+    ]
+  },
+  "-1003889620": {
+    "original_sentence": [
+      "he arrives at that figure by looking at air pollution data from january and february 2020, and comparing that with previous years.",
+      "그는 2020년 1월과 2월의 대기 오염 데이터를 보고 이전 연도와 비교하여 그 수치에 도달했습니다."
+    ],
+    "mutants": [
+      [
+        "she arrives at that figure by looking at air pollution data from january and february 2020, and comparing that with previous years.",
+        "그녀는 2020년 1월과 2월의 대기 오염 데이터를 보고 이전 연도와 비교하여 그 수치에 도달했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1360582250": {
+    "original_sentence": [
+      "burke assumes --\"conservatively,\" he says -- that only 50% of china's population experienced the clearer skies.",
+      "버크는 \"보수적으로\" 중국 인구의 50%만이 맑은 하늘을 경험했다고 가정합니다."
+    ],
+    "mutants": [
+      [
+        "burke assumes --\"conservatively,\" she says -- that only 50% of china's population experienced the clearer skies.",
+        "버크는 \"보수적으로\" 중국 인구의 50%만이 맑은 하늘을 경험했다고 가정합니다.",
+        1
+      ]
+    ]
+  },
+  "1861366348": {
+    "original_sentence": [
+      "he assumes that no one in rural areas benefited and some urban residents did not benefit.",
+      "그는 시골 지역의 아무도 혜택을 받지 않았고 일부 도시 거주자들은 혜택을 받지 못했다고 가정합니다."
+    ],
+    "mutants": [
+      [
+        "she assumes that no one in rural areas benefited and some urban residents did not benefit.",
+        "그녀는 시골 지역의 아무도 혜택을 받지 않았고 일부 도시 거주자들은 혜택을 받지 못했다고 가정합니다.",
+        1.0
+      ]
+    ]
+  },
+  "1829059408": {
+    "original_sentence": [
+      "he then combines that info with expected mortality rates for certain levels of air pollution.",
+      "그런 다음 그는 그 정보를 특정 수준의 대기 오염에 대한 예상 사망률과 결합합니다."
+    ],
+    "mutants": [
+      [
+        "she then combines that info with expected mortality rates for certain levels of air pollution.",
+        "그런 다음 그녀는 해당 정보를 특정 수준의 대기 오염에 대한 예상 사망률과 결합합니다.",
+        1.0
+      ]
+    ]
+  },
+  "282124926": {
+    "original_sentence": [
+      "the pollution reductions are estimated to have saved --these are not actual measurements of what happened -- between 1,400 and 4,000 kids and 51,700 to 73,000 adults older than 70 from premature death, he estimates.",
+      "오염 감소는 1,400~4,000명의 어린이와 51,700~73,000명의 70세 이상 성인 사이에서 조기 사망으로 인해 발생한 일에 대한 실제 측정값이 아닌 것으로 추정됩니다."
+    ],
+    "mutants": [
+      [
+        "the pollution reductions are estimated to have saved --these are not actual measurements of what happened -- between 1,400 and 4,000 kids and 51,700 to 73,000 adults older than 70 from premature death, she estimates.",
+        "그녀는 오염 감소로 인해 1,400~4,000명의 어린이와 51,700~73,000명의 70세 이상 성인 사이에서 발생했던 일을 실제로 측정한 것이 아니라 조기 사망을 막을 수 있었던 것으로 추정하고 있습니다.",
+        0.5263157894736843
+      ]
+    ]
+  },
+  "748159633": {
+    "original_sentence": [
+      "he cites a march 8 figure that 3,100 people in china had died from covid-19 at that point.",
+      "그는 당시 중국에서 3,100명이 코로나19로 사망했다는 3월 8일 수치를 인용합니다."
+    ],
+    "mutants": [
+      [
+        "she cites a march 8 figure that 3,100 people in china had died from covid-19 at that point.",
+        "그녀는 당시 중국에서 3,100명이 코로나19로 사망했다는 3월 8일 수치를 인용합니다.",
+        1.0
+      ]
+    ]
+  },
+  "-950961418": {
+    "original_sentence": [
+      "china, she declared, would be clinging to its \"dynamic zero-covid\" strategy \"without hesitation or wavering.\"",
+      "그녀는 중국이 주저하거나 흔들리지 않고 \"역동적인 코로나바이러스 제로\" 전략을 고수할 것이라고 선언했다."
+    ],
+    "mutants": [
+      [
+        "china, he declared, would be clinging to its \"dynamic zero-covid\" strategy \"without hesitation or wavering.\"",
+        "그는 중국이 주저하거나 흔들리지 않고 \"역동적인 코로나바이러스 제로\" 전략을 고수할 것이라고 선언했다.",
+        1.0
+      ]
+    ]
+  },
+  "-770234340": {
+    "original_sentence": [
+      "with power concentrated in the pinnacle of the system, local government officials concerned about their career advancement rush to jump onto the policy bandwagon of zero-covid -- demonstrating their loyalty to xi and his favored policy agenda.",
+      "시스템의 정점에 권력이 집중된 상태에서 승진을 걱정하는 지방 정부 관리들은 xi와 그가 선호하는 정책 의제에 대한 충성심을 보여줌으로써 코로나 제로의 정책 밴드웨건에 뛰어들기 위해 돌진합니다."
+    ],
+    "mutants": [
+      [
+        "with power concentrated in the pinnacle of the system, local government officials concerned about their career advancement rush to jump onto the policy bandwagon of zero-covid -- demonstrating their loyalty to xi and her favored policy agenda.",
+        "시스템의 정점에 권력이 집중된 상태에서 경력 발전을 걱정하는 지방 정부 관리들은 xi와 그녀가 선호하는 정책 의제에 대한 충성심을 보여줌으로써 코로나바이러스 제로의 정책 밴드웨건에 뛰어들기 위해 돌진합니다.",
+        0.9166666666666666
+      ]
+    ]
+  },
+  "-660755442": {
+    "original_sentence": [
+      "what he did not foresee is that weighing of the cost and benefits of the policy is now highly politicized.",
+      "그가 예상하지 못한 것은 정책의 비용과 편익을 평가하는 것이 이제 고도로 정치화되었다는 것입니다."
+    ],
+    "mutants": [
+      [
+        "what she did not foresee is that weighing of the cost and benefits of the policy is now highly politicized.",
+        "그녀가 예상하지 못한 것은 정책의 비용과 편익을 평가하는 것이 이제 고도로 정치화되었다는 것입니다.",
+        1.0
+      ]
+    ]
+  },
+  "86390394": {
+    "original_sentence": [
+      "under china's performance-based legitimacy, pivoting away from zero-covid due to the high socioeconomic cost would undermine xi's personal leadership right at the moment he is seeking a third term.",
+      "중국의 성과 기반 정당성 하에서 높은 사회경제적 비용으로 인해 코로나바이러스 제로에서 벗어나면 xi가 3선을 추구하는 현재 개인 리더십을 약화시킬 것입니다."
+    ],
+    "mutants": [
+      [
+        "under china's performance-based legitimacy, pivoting away from zero-covid due to the high socioeconomic cost would undermine xi's personal leadership right at the moment she is seeking a third term.",
+        "중국의 성과 기반 정당성 하에서 높은 사회경제적 비용으로 인해 코로나바이러스 제로에서 벗어나면 xi가 3선을 찾고 있는 바로 그 순간에 개인 리더십이 약화될 것입니다.",
+        0.8888888888888888
+      ]
+    ]
+  },
+  "-1109279958": {
+    "original_sentence": [
+      "and he has tied his personal interest to the policy.",
+      "그리고 그는 자신의 개인적인 이익을 정책에 묶었습니다."
+    ],
+    "mutants": [
+      [
+        "and she has tied her personal interest to the policy.",
+        "그리고 그녀는 그녀의 개인적인 이익을 정책에 묶었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1989805147": {
+    "original_sentence": [
+      "gunfire echoed over the receiver as he spoke to cnn by phone wednesday.",
+      "그가 수요일에 cnn과 통화하면서 총소리가 수화기 너머로 울려 퍼졌다."
+    ],
+    "mutants": [
+      [
+        "gunfire echoed over the receiver as she spoke to cnn by phone wednesday.",
+        "그녀가 수요일에 전화로 cnn과 이야기할 때 총소리가 수화기 너머로 울려 퍼졌다.",
+        0.7777777777777778
+      ]
+    ]
+  },
+  "824051808": {
+    "original_sentence": [
+      "yilmaz said he could see and hear fighting across the border in the nearby syrian town of jarablus, which has been controlled for months by the al qaeda-linked militant group called the islamic state of iraq and syria, or isis.",
+      "yilmaz는 이라크와 시리아의 이슬람 국가 또는 isis라고 불리는 알카에다와 연계된 무장 단체가 수개월 동안 통제하고 있는 인근 시리아의 자라블루스 마을에서 국경 너머로 전투가 벌어지는 것을 보고 들을 수 있었다고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "yilmaz said she could see and hear fighting across the border in the nearby syrian town of jarablus, which has been controlled for months by the al qaeda-linked militant group called the islamic state of iraq and syria, or isis.",
+        "yilmaz는 이라크와 시리아의 이슬람 국가 또는 isis라고 불리는 알카에다와 연계된 무장 단체가 수개월 동안 통제하고 있는 인근 시리아의 자라블루스 마을에서 국경 너머로 전투가 벌어지는 것을 보고 들을 수 있었다고 말했습니다.",
+        1
+      ]
+    ]
+  },
+  "-1445573526": {
+    "original_sentence": [
+      "\"isis cannot withstand the losses they are taking and the numbers now held as prisoners of war,\" aloush said, saying that his organization far outnumbered isis.",
+      "알루쉬는 \"이시스는 그들이 받는 손실과 현재 포로로 잡혀 있는 숫자를 견딜 수 없다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "\"isis cannot withstand the losses they are taking and the numbers now held as prisoners of war,\" aloush said, saying that her organization far outnumbered isis.",
+        "알루쉬는 \"이시스는 그들이 받는 손실과 현재 포로로 잡혀 있는 숫자를 견딜 수 없다\"고 말했다.",
+        1
+      ]
+    ]
+  },
+  "-1701032888": {
+    "original_sentence": [
+      "he proposed an immediate cease-fire and the creation of an islamic council with representatives from all of the relevant groups.",
+      "그는 즉각적인 휴전과 모든 관련 그룹의 대표로 구성된 이슬람 평의회 창설을 제안했습니다."
+    ],
+    "mutants": [
+      [
+        "she proposed an immediate cease-fire and the creation of an islamic council with representatives from all of the relevant groups.",
+        "그녀는 즉각적인 휴전과 모든 관련 그룹의 대표로 구성된 이슬람 평의회 창설을 제안했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "2016959062": {
+    "original_sentence": [
+      "yemen's interior minister, ahmed al-maysary, called it a \"successful coup\", as he conceded defeat in a video before joining the rest of hadi's government in the saudi capital, riyadh.",
+      "예멘의 내무장관인 아흐메드 알-메이사리는 사우디 수도 리야드에서 하디의 나머지 정부에 합류하기 전에 비디오에서 패배를 인정하면서 그것을 \"성공적인 쿠데타\"라고 불렀습니다."
+    ],
+    "mutants": [
+      [
+        "yemen's interior minister, ahmed al-maysary, called it a \"successful coup\", as she conceded defeat in a video before joining the rest of hadi's government in the saudi capital, riyadh.",
+        "예멘의 내무장관인 아흐메드 알-메이사리는 사우디 수도 리야드에서 하디의 나머지 정부에 합류하기 전에 비디오에서 패배를 인정하면서 그것을 \"성공적인 쿠데타\"라고 불렀습니다.",
+        1
+      ]
+    ]
+  },
+  "-1628599019": {
+    "original_sentence": [
+      "they also accused them of attacking his funeral.",
+      "그들은 또한 그들이 그의 장례식을 공격했다고 비난했습니다."
+    ],
+    "mutants": [
+      [
+        "they also accused them of attacking her funeral.",
+        "그들은 또한 그들이 그녀의 장례식을 공격했다고 비난했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "828307876": {
+    "original_sentence": [
+      "sarcastically, ahmed al-maysary, hadi's interior minister, congratulated the uae for victory as he conceded defeat -- a brief moment of candor that revealed the possibility of a proxy war between the uae and saudi arabia.",
+      "하디의 내무장관인 아흐메드 알-마이사리는 비꼬듯, 아랍에미리트와 사우디아라비아 간의 대리전 가능성을 드러낸 짧은 순간에 패배를 인정하면서 아랍에미리트의 승리를 축하했다."
+    ],
+    "mutants": [
+      [
+        "sarcastically, ahmed al-maysary, hadi's interior minister, congratulated the uae for victory as she conceded defeat -- a brief moment of candor that revealed the possibility of a proxy war between the uae and saudi arabia.",
+        "하디의 내무장관인 아흐메드 알-메이사리는 냉소적으로 아랍에미리트의 승리를 축하하며 패배를 인정했다.",
+        0.625
+      ]
+    ]
+  },
+  "1045045981": {
+    "original_sentence": [
+      "riyadh is the de facto center of yemen's government, and hadi and his ministers spend most of their time in saudi arabia.",
+      "리야드는 예멘 정부의 사실상 중심지이며 하디와 그의 장관들은 대부분의 시간을 사우디 아라비아에서 보냅니다."
+    ],
+    "mutants": [
+      [
+        "riyadh is the de facto center of yemen's government, and hadi and her ministers spend most of their time in saudi arabia.",
+        "리야드는 예멘 정부의 사실상의 중심지이며 하디와 그녀의 장관들은 대부분의 시간을 사우디 아라비아에서 보냅니다.",
+        0.9166666666666666
+      ]
+    ]
+  },
+  "-1918482295": {
+    "original_sentence": [
+      "hadi's legitimacy and credibility will be hugely undermined if he can't speak on behalf of all he claims to represent.",
+      "하디가 자신이 대표한다고 주장하는 모든 사람을 대변할 수 없다면 그의 정당성과 신뢰성이 크게 훼손될 것입니다."
+    ],
+    "mutants": [
+      [
+        "hadi's legitimacy and credibility will be hugely undermined if she can't speak on behalf of all she claims to represent.",
+        "하디가 자신이 대표한다고 주장하는 모든 사람을 대변하지 못한다면 하디의 정당성과 신뢰성이 크게 훼손될 것입니다.",
+        1.0
+      ]
+    ]
+  },
+  "1818840984": {
+    "original_sentence": [
+      "taking place during the height of gagamania in the us, the would-be rockstar general is interviewed for a rolling stone profile, and if you're unfamiliar with how the real-life rolling stone profile turned out, you'll have to watch to find out (spoiler alert: gaga made the cover that month, not the general, but the issue will always be remembered for his profile).",
+      "미국의 가가마니아가 한창일 때 일어나는 일, 록스타 지망생이 롤링 스톤 프로필을 위해 인터뷰를 하게 되는데, 실제 롤링 스톤 프로필이 어떻게 생겼는지 잘 모르겠다면 다음을 시청해야 합니다. 알아내십시오(스포일러 경고: gaga는 그 달에 표지를 만들었으며 장군은 아니지만 문제는 그의 프로필에 항상 기억될 것입니다)."
+    ],
+    "mutants": [
+      [
+        "taking place during the height of gagamania in the us, the would-be rockstar general is interviewed for a rolling stone profile, and if you're unfamiliar with how the real-life rolling stone profile turned out, you'll have to watch to find out (spoiler alert: gaga made the cover that month, not the general, but the issue will always be remembered for her profile).",
+        "미국의 가가마니아가 한창일 때, 록스타 지망생이 롤링 스톤 프로필을 위해 인터뷰를 하는데, 실제 롤링 스톤 프로필이 어떻게 생겼는지 잘 모르겠다면 다음을 시청해야 합니다. 알아보십시오(스포일러 경고: gaga는 그 달에 표지를 만들었으며 일반 사용자는 아니지만 문제는 항상 그녀의 프로필에 기억될 것입니다).",
+        0.7894736842105263
+      ]
+    ]
+  },
+  "-1577408649": {
+    "original_sentence": [
+      "michôd said the style of this and similar films are \"a kind of sharp form of criticism of the ways in which wars are fought\" and that he finds it \"deeply unsettling\" that we barely talk about the war in afghanistan any more.",
+      "michod는 이 영화와 유사한 영화의 스타일이 \"전쟁이 일어나는 방식에 대한 일종의 날카로운 비판\"이며 우리가 더 이상 아프가니스탄 전쟁에 대해 거의 이야기하지 않는 것이 \"매우 불안하다\"고 말했습니다."
+    ],
+    "mutants": [
+      [
+        "michôd said the style of this and similar films are \"a kind of sharp form of criticism of the ways in which wars are fought\" and that she finds it \"deeply unsettling\" that we barely talk about the war in afghanistan any more.",
+        "michod는 이 영화와 유사한 영화의 스타일이 \"전쟁이 벌어지는 방식에 대한 일종의 날카로운 비판\"이며 우리가 더 이상 아프가니스탄 전쟁에 대해 거의 이야기하지 않는 것이 \"매우 불안하다\"고 말했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-695688435": {
+    "original_sentence": [
+      "\"i think the fact that we have become as a society so divorced from what our military is doing that we can send our young men and women into harm's way without it being newsworthy on a daily basis is unsettling and i think it's unhealthy for a society,\" he said.",
+      "\"우리 군대가 하는 일과 너무 동떨어진 사회가 되어 일상적으로 뉴스거리가 되지 않고 우리 젊은이들을 위험에 빠뜨릴 수 있다는 사실이 불안하고 사회에 건강에 해롭다고 생각합니다. \"라고 말했다."
+    ],
+    "mutants": [
+      [
+        "\"i think the fact that we have become as a society so divorced from what our military is doing that we can send our young women and women into harm's way without it being newsworthy on a daily basis is unsettling and i think it's unhealthy for a society,\" she said.",
+        "\"우리 군대가 하는 일과 너무 동떨어진 사회가 되어서 우리의 젊은 여성과 여성들을 매일 뉴스거리가 되지 않고 위험에 빠뜨릴 수 있다는 사실이 불안하고 사회에 건강에 좋지 않다고 생각합니다. ,\" 그녀가 말했다.",
+        0.75
+      ],
+      [
+        "\"i think the fact that we have become as a society so divorced from what our military is doing that we can send our young men and men into harm's way without it being newsworthy on a daily basis is unsettling and i think it's unhealthy for a society,\" he said.",
+        "\"우리 군대가 하는 일과 너무 동떨어진 사회가 되어 일상적으로 뉴스거리가 되지 않고 우리 젊은이들을 위험에 빠뜨릴 수 있다는 사실이 불안하고 사회에 건강에 해롭다고 생각합니다. \"라고 말했다.",
+        1
+      ]
+    ]
+  },
+  "-763859635": {
+    "original_sentence": [
+      "i asked him his thoughts on the decision president donald trump faces on sending more troops to afghanistan since making the film, and he said, \"i can't believe that coming up to 16 years in, we're contemplating a surge of this nature.\"",
+      "나는 그에게 영화를 만든 이후로 도널드 트럼프 대통령이 아프가니스탄에 더 많은 군대를 파병하는 것에 대한 결정에 대한 그의 생각을 물었고 그는 \"16년 후에 우리가 이러한 자연의 급증을 고려하고 있다는 것이 믿기지 않습니다. .\""
+    ],
+    "mutants": [
+      [
+        "i asked her her thoughts on the decision president donald trump faces on sending more troops to afghanistan since making the film, and she said, \"i can't believe that coming up to 16 years in, we're contemplating a surge of this nature.\"",
+        "나는 그녀에게 영화를 만든 후 도널드 트럼프 대통령이 아프가니스탄에 더 많은 군대를 파병하는 것에 대한 결정에 대한 그녀의 생각을 물었고 그녀는 \"16년 후에 우리가 이러한 자연의 급증을 고려하고 있다는 것이 믿기지 않습니다. .\"",
+        0.90625
+      ]
+    ]
+  },
+  "-886445669": {
+    "original_sentence": [
+      "he said.",
+      "그는 말했다."
+    ],
+    "mutants": [
+      [
+        "she said.",
+        "그녀가 말했다.",
+        1.0
+      ]
+    ]
+  },
+  "83750408": {
+    "original_sentence": [
+      "\"it can't really be addressed with firepower,\" he said.",
+      "\"그것은 화력으로 해결할 수 없습니다.\"라고 그는 말했습니다."
+    ],
+    "mutants": [
+      [
+        "\"it can't really be addressed with firepower,\" she said.",
+        "\"그것은 화력으로 해결할 수 없습니다.\"라고 그녀는 말했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1354458996": {
+    "original_sentence": [
+      "so what does he think would work?",
+      "그래서 그는 무엇을 할 것이라고 생각합니까?"
+    ],
+    "mutants": [
+      [
+        "so what does she think would work?",
+        "그래서 그녀는 무엇을 할 것이라고 생각합니까?",
+        1.0
+      ]
+    ]
+  },
+  "205176189": {
+    "original_sentence": [
+      "\"this is baffling to anybody with a functioning brain stem,\" he told jake tapper sunday on cnn's \"state of the union.\"",
+      "\"이것은 뇌간 기능이 있는 사람이라면 누구에게나 당혹스러울 것입니다.\"라고 그는 cnn의 \"노동 조합 상태\"에서 일요일 제이크 태퍼에게 말했습니다."
+    ],
+    "mutants": [
+      [
+        "\"this is baffling to anybody with a functioning brain stem,\" she told jake tapper sunday on cnn's \"state of the union.\"",
+        "\"이것은 뇌간 기능이 있는 사람이라면 누구에게나 당혹스럽습니다.\"라고 그녀는 cnn의 \"노동 조합 상태\"에서 일요일 제이크 태퍼에게 말했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1545583062": {
+    "original_sentence": [
+      "cyber war is real war,\" he said.",
+      "사이버 전쟁은 진짜 전쟁이다\"라고 말했다."
+    ],
+    "mutants": [
+      [
+        "cyber war is real war,\" she said.",
+        "사이버 전쟁은 진짜 전쟁이다\"고 말했다.",
+        1.0
+      ]
+    ]
+  },
+  "1511873175": {
+    "original_sentence": [
+      "\"listen, he can respond personally to an attack,\" he continued.",
+      "\"들어봐, 그는 공격에 개인적으로 대응할 수 있다\"고 그는 계속했다."
+    ],
+    "mutants": [
+      [
+        "\"listen, she can respond personally to an attack,\" she continued.",
+        "\"그녀는 공격에 개인적으로 대응할 수 있습니다.\"라고 그녀는 말했습니다.",
+        0.6666666666666667
+      ]
+    ]
+  },
+  "1807000601": {
+    "original_sentence": [
+      "\"he can respond as a partisan to an attack, but he can't respond as a patriot to an attack?",
+      "\"공격에는 당파로서 대응할 수 있지만, 공격에는 애국자로 대응할 수 없다고?"
+    ],
+    "mutants": [
+      [
+        "\"he can respond as a partisan to an attack, but she can't respond as a patriot to an attack?",
+        "\"그는 공격에 당파적으로 대응할 수 있지만 그녀는 공격에 애국자로 대응할 수 없다?",
+        0.5555555555555556
+      ]
+    ]
+  },
+  "1461345243": {
+    "original_sentence": [
+      "\"these are very hard things to assess,\" he said, adding that international law allows some leeway for the realities of war.",
+      "그는 \"이것은 평가하기 매우 어려운 일\"이라며 국제법이 전쟁 현실에 대해 어느 정도 여유를 허용한다고 덧붙였다."
+    ],
+    "mutants": [
+      [
+        "\"these are very hard things to assess,\" she said, adding that international law allows some leeway for the realities of war.",
+        "그녀는 \"이것은 평가하기 매우 어려운 일\"이라며 국제법이 전쟁 현실에 대해 어느 정도 여유를 허용한다고 덧붙였다.",
+        1.0
+      ]
+    ]
+  },
+  "-1614638938": {
+    "original_sentence": [
+      "fifty years ago, in his state of the union address, president lyndon b. johnson declared a \"war on poverty.\"",
+      "50년 전 노동조합 연설에서 린든 b. 존슨은 \"빈곤과의 전쟁\"을 선언했다."
+    ],
+    "mutants": [
+      [
+        "fifty years ago, in her state of the union address, president lyndon b. johnson declared a \"war on poverty.\"",
+        "50년 전, 린든 b. 회장은 노동조합 연설에서 이렇게 말했습니다. 존슨은 \"빈곤과의 전쟁\"을 선언했다.",
+        0.7777777777777778
+      ]
+    ]
+  },
+  "-843196154": {
+    "original_sentence": [
+      "\"this administration today, here and now, declares unconditional war on poverty in america,\" he proclaimed, speaking to congress and the nation.",
+      "그는 의회와 국가에 연설하면서 \"이 행정부는 오늘, 여기 그리고 지금 미국의 빈곤과의 무조건적인 전쟁을 선포한다\"고 선언했다."
+    ],
+    "mutants": [
+      [
+        "\"this administration today, here and now, declares unconditional war on poverty in america,\" she proclaimed, speaking to congress and the nation.",
+        "그녀는 의회와 국가에 연설하면서 \"이 행정부는 오늘, 여기 그리고 지금 미국의 빈곤과의 무조건적인 전쟁을 선포합니다.\"라고 선언했습니다.",
+        0.9285714285714286
+      ]
+    ]
+  },
+  "591700954": {
+    "original_sentence": [
+      "he created medicare and medicaid, which provided health care to millions of low-income people and seniors.",
+      "그는 수백만 명의 저소득층과 노인들에게 의료 서비스를 제공하는 메디케어와 메디케이드를 만들었습니다."
+    ],
+    "mutants": [
+      [
+        "she created medicare and medicaid, which provided health care to millions of low-income people and seniors.",
+        "그녀는 수백만 명의 저소득층과 노인들에게 의료 서비스를 제공하는 메디케어와 메디케이드를 만들었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1555553273": {
+    "original_sentence": [
+      "he also launched the head start early education program and made housing available for low-income people.",
+      "그는 또한 헤드 스타트 ​​조기 교육 프로그램을 시작하고 저소득층을 위한 주택을 제공했습니다."
+    ],
+    "mutants": [
+      [
+        "she also launched the head start early education program and made housing available for low-income people.",
+        "그녀는 또한 헤드 스타트 ​​조기 교육 프로그램을 시작하고 저소득층을 위한 주택을 마련했습니다.",
+        0.9090909090909091
+      ]
+    ]
+  },
+  "659557543": {
+    "original_sentence": [
+      "the poverty rate dropped to 12.1% by the time he left office.",
+      "그가 퇴임할 무렵 빈곤율은 12.1%로 떨어졌다."
+    ],
+    "mutants": [
+      [
+        "the poverty rate dropped to 12.1% by the time she left office.",
+        "그녀가 퇴임할 무렵 빈곤율은 12.1%로 떨어졌다.",
+        1.0
+      ]
+    ]
+  },
+  "1861592732": {
+    "original_sentence": [
+      "johnson saw problems with his agenda almost immediately.",
+      "Johnson은 거의 즉시 그의 의제에 문제가 있음을 확인했습니다."
+    ],
+    "mutants": [
+      [
+        "johnson saw problems with her agenda almost immediately.",
+        "johnson은 거의 즉시 그녀의 의제에 문제가 있음을 확인했습니다.",
+        0.8571428571428572
+      ]
+    ]
+  },
+  "1129034492": {
+    "original_sentence": [
+      "he called the welfare system \"a hopeless failure.\"",
+      "그는 복지 시스템을 \"가망 없는 실패\"라고 불렀습니다."
+    ],
+    "mutants": [
+      [
+        "she called the welfare system \"a hopeless failure.\"",
+        "그녀는 복지 시스템을 \"가망 없는 실패\"라고 불렀습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1655317410": {
+    "original_sentence": [
+      "while he altered some of it, many programs expanded.",
+      "그가 그 중 일부를 변경하는 동안 많은 프로그램이 확장되었습니다."
+    ],
+    "mutants": [
+      [
+        "while she altered some of it, many programs expanded.",
+        "그녀가 일부를 변경하는 동안 많은 프로그램이 확장되었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1220767931": {
+    "original_sentence": [
+      "nixon tightened eligibility requirements of the welfare system that included job training programs, but he added assistance for child care.",
+      "닉슨은 직업 훈련 프로그램을 포함하는 복지 시스템의 자격 요건을 강화했지만 보육 지원을 추가했습니다."
+    ],
+    "mutants": [
+      [
+        "nixon tightened eligibility requirements of the welfare system that included job training programs, but she added assistance for child care.",
+        "닉슨은 직업 훈련 프로그램을 포함하는 복지 시스템의 자격 요건을 강화했지만 보육 지원을 추가했습니다.",
+        1
+      ]
+    ]
+  },
+  "-978297497": {
+    "original_sentence": [
+      "he called his welfare reform bill the \"single most significant piece of social legislation to be considered by the congress in decades.\"",
+      "그는 자신의 복지 개혁 법안을 \"수십 년 동안 의회에서 고려해야 할 가장 중요한 사회 법안 중 하나\"라고 불렀습니다."
+    ],
+    "mutants": [
+      [
+        "she called her welfare reform bill the \"single most significant piece of social legislation to be considered by the congress in decades.\"",
+        "그녀는 그녀의 복지 개혁 법안을 \"수십 년 동안 의회에서 고려해야 할 가장 중요한 사회 법안 중 하나\"라고 불렀습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1323549926": {
+    "original_sentence": [
+      "he also expanded the social security program to allow for cost of living adjustments and for disabled americans to receive benefits.",
+      "그는 또한 사회 보장 프로그램을 확장하여 생활비 조정을 허용하고 장애인 미국인이 혜택을 받을 수 있도록 했습니다."
+    ],
+    "mutants": [
+      [
+        "she also expanded the social security program to allow for cost of living adjustments and for disabled americans to receive benefits.",
+        "그녀는 또한 사회 보장 프로그램을 확장하여 생활비 조정을 허용하고 미국 장애인이 혜택을 받을 수 있도록 했습니다.",
+        0.9285714285714286
+      ]
+    ]
+  },
+  "728047935": {
+    "original_sentence": [
+      "he expanded the food stamp program and low-income housing assistance.",
+      "그는 식품권 프로그램과 저소득층 주택 지원을 확대했습니다."
+    ],
+    "mutants": [
+      [
+        "she expanded the food stamp program and low-income housing assistance.",
+        "그녀는 식품권 프로그램과 저소득 주택 지원을 확대했습니다.",
+        0.8333333333333334
+      ]
+    ]
+  },
+  "-245346279": {
+    "original_sentence": [
+      "and he heavily altered the community action agencies, which worked to involve community organizations in anti-poverty programs.",
+      "그리고 그는 빈곤 퇴치 프로그램에 지역 사회 단체를 참여시키기 위해 일하는 지역 사회 활동 기관을 크게 변경했습니다."
+    ],
+    "mutants": [
+      [
+        "and she heavily altered the community action agencies, which worked to involve community organizations in anti-poverty programs.",
+        "그녀는 지역 사회 단체를 빈곤 퇴치 프로그램에 참여시키기 위해 일한 지역 사회 활동 기관을 크게 변경했습니다.",
+        0.7857142857142857
+      ]
+    ]
+  },
+  "-518530307": {
+    "original_sentence": [
+      "while the poverty rate increased at the beginning of nixon's term to 12.6% in 1970, which was during a recession, it ticked back down to 11.1% but rose again slightly by the time he resigned in 1974.",
+      "빈곤율은 1970년 12.6%로 닉슨 임기 시작 당시 12.6%로 증가했지만, 그 때는 경기 침체기였다가 다시 11.1%로 떨어졌다가 1974년 그가 사임할 때 약간 상승했습니다."
+    ],
+    "mutants": [
+      [
+        "while the poverty rate increased at the beginning of nixon's term to 12.6% in 1970, which was during a recession, it ticked back down to 11.1% but rose again slightly by the time she resigned in 1974.",
+        "빈곤율은 1970년 12.6%로 1970년 12.6%까지 증가했지만 닉슨 임기 초반에는 경기 침체기였다가 다시 11.1%로 떨어졌다가 1974년 그녀가 사임할 때 약간 상승했습니다.",
+        0.8823529411764706
+      ]
+    ]
+  },
+  "-1146961180": {
+    "original_sentence": [
+      "gerald ford watergate sunk nixon, forcing him to resign -- making gerald ford the only president never popularly elected to the executive branch.",
+      "제럴드 포드 워터게이트는 닉슨을 침몰시켜 그를 사임하게 만들었습니다. 제럴드 포드는 행정부에서 대중적으로 선출된 적이 없는 유일한 대통령이 되었습니다."
+    ],
+    "mutants": [
+      [
+        "gerald ford watergate sunk nixon, forcing her to resign -- making gerald ford the only president never popularly elected to the executive branch.",
+        "제럴드 포드 워터게이트는 닉슨을 침몰시켜 그녀를 사임하게 만들었습니다. 제럴드 포드는 행정부에서 대중적으로 선출된 적이 없는 유일한 대통령이 되었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "620941701": {
+    "original_sentence": [
+      "in his first press conference, ford said he wanted to \"heal the wounds throughout the united states\" and address the \"turmoil and divisiveness\" brought on by the watergate scandal.",
+      "포드는 첫 기자회견에서 \"미국 전역의 상처를 치유하고\" 워터게이트 스캔들로 인한 \"소란과 분열\"을 해결하고 싶다고 말했다."
+    ],
+    "mutants": [
+      [
+        "in her first press conference, ford said she wanted to \"heal the wounds throughout the united states\" and address the \"turmoil and divisiveness\" brought on by the watergate scandal.",
+        "첫 기자 회견에서 포드는 \"미국 전역의 상처를 치유\"하고 워터게이트 스캔들로 인한 \"소란과 분열\"을 해결하고 싶다고 말했습니다.",
+        0.8461538461538461
+      ]
+    ]
+  },
+  "1863184843": {
+    "original_sentence": [
+      "carter ran as an outsider and someone who would shake up government in 1976, and his position on poverty helped bolster that image.",
+      "카터는 외부인이자 1976년 정부를 뒤흔들 사람으로 출마했으며 빈곤에 대한 그의 입장은 그러한 이미지를 강화하는 데 도움이 되었습니다."
+    ],
+    "mutants": [
+      [
+        "carter ran as an outsider and someone who would shake up government in 1976, and her position on poverty helped bolster that image.",
+        "카터는 외부인이자 1976년 정부를 뒤흔들 사람으로 출마했으며 빈곤에 대한 그녀의 입장은 그러한 이미지를 강화하는 데 도움이 되었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "925350564": {
+    "original_sentence": [
+      "\"government cannot solve our problems, it can't set our goals, it cannot define our vision,\" carter said in his 1978 state of the union address.",
+      "카터는 1978년 노동조합 성명에서 \"정부는 우리의 문제를 해결할 수 없고, 우리의 목표를 설정할 수도 없고, 우리의 비전을 정의할 수도 없다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "\"government cannot solve our problems, it can't set our goals, it cannot define our vision,\" carter said in her 1978 state of the union address.",
+        "카터는 1978년 노동조합 연설에서 \"정부는 우리의 문제를 해결할 수 없고, 우리의 목표를 설정할 수도 없고, 우리의 비전을 정의할 수도 없다\"고 말했다.",
+        1.0
+      ]
+    ]
+  },
+  "1045677192": {
+    "original_sentence": [
+      "julian zelizer, a professor of history and public affairs at princeton university, said that while carter was a democrat, \"he still supported a lot of what the war on poverty aimed to achieve, but like some democrats, he thought the programs had unintended consequences.\"",
+      "프린스턴 대학의 역사 및 공공 문제 교수인 Julian zelizer는 카터가 민주당원이었지만 \"그는 여전히 빈곤과의 전쟁이 달성하려는 목표를 많이 지지했지만 일부 민주당원과 마찬가지로 그는 프로그램이 의도하지 않은 결과를 낳을 것이라고 생각했습니다. .\""
+    ],
+    "mutants": [
+      [
+        "julian zelizer, a professor of history and public affairs at princeton university, said that while carter was a democrat, \"he still supported a lot of what the war on poverty aimed to achieve, but like some democrats, she thought the programs had unintended consequences.\"",
+        "프린스턴 대학의 역사 및 공공 문제 교수인 Julian zelizer는 카터가 민주당원이었지만 \"그는 여전히 빈곤과의 전쟁이 달성하려는 목표를 많이 지지했지만 일부 민주당원과 마찬가지로 그녀는 프로그램이 의도하지 않은 결과를 낳을 것이라고 생각했습니다. .\"",
+        1.0
+      ]
+    ]
+  },
+  "-1795843106": {
+    "original_sentence": [
+      "he entered office in 1981 during a multi-year recession, when the poverty rate rose to its highest level since the 60s, and it remained above 13% for his entire presidency.",
+      "그는 빈곤율이 60년대 이후 최고 수준으로 치솟았던 다년간의 경기 침체기에 1981년에 취임했으며 임기 내내 13% 이상을 유지했습니다."
+    ],
+    "mutants": [
+      [
+        "she entered office in 1981 during a multi-year recession, when the poverty rate rose to its highest level since the 60s, and it remained above 13% for her entire presidency.",
+        "그녀는 빈곤율이 60년대 이후 최고 수준으로 상승한 다년간의 경기 침체기에 1981년에 취임했으며 재임 기간 내내 13% 이상을 유지했습니다.",
+        0.875
+      ]
+    ]
+  },
+  "1553666932": {
+    "original_sentence": [
+      "he did continue to deride welfare -- \"we're in danger of creating a permanent culture of poverty as inescapable as any chain or bond,\" reagan said during a radio address in 1986 -- but by the end of his administration in 1988, spending on entitlements had only slightly slowed.",
+      "레이건은 1986년 라디오 연설에서 \"우리는 어떤 사슬이나 결박과도 같은 영구적인 빈곤 문화를 만들 위험에 처해 있다\"고 계속해서 복지를 비웃었지만, 1988년 임기가 끝날 무렵, 권한에 대한 지출은 약간만 둔화되었습니다."
+    ],
+    "mutants": [
+      [
+        "she did continue to deride welfare -- \"we're in danger of creating a permanent culture of poverty as inescapable as any chain or bond,\" reagan said during a radio address in 1986 -- but by the end of her administration in 1988, spending on entitlements had only slightly slowed.",
+        "레이건은 1986년 라디오 연설에서 \"우리는 어떤 사슬이나 결박과도 같은 영구적인 빈곤 문화를 만들 위험에 처해 있다\"고 계속해서 복지를 비웃었지만 1988년 임기가 끝날 무렵, 권한에 대한 지출은 약간만 둔화되었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "408039178": {
+    "original_sentence": [
+      "one of the big problems he finds is that a lot of these programs are more popular than he expected.\"",
+      "그가 발견한 큰 문제 중 하나는 이러한 프로그램의 대부분이 예상보다 인기가 많다는 것입니다.\""
+    ],
+    "mutants": [
+      [
+        "one of the big problems she finds is that a lot of these programs are more popular than she expected.\"",
+        "그녀가 발견한 큰 문제 중 하나는 이러한 프로그램의 대부분이 그녀가 예상한 것보다 더 인기가 있다는 것입니다.\"",
+        0.8333333333333334
+      ]
+    ]
+  },
+  "-1191989447": {
+    "original_sentence": [
+      "reagan did, however, greatly expand the earned income child credit, which he called \"the best anti-poverty, the best pro-family, the best job creation measure to come out of congress.\"",
+      "그러나 레이건은 근로 소득 아동 공제를 크게 확대했는데, 그는 이를 \"최고의 빈곤 퇴치, 최고의 친가족, 의회에서 나온 최고의 일자리 창출 조치\"라고 불렀습니다."
+    ],
+    "mutants": [
+      [
+        "reagan did, however, greatly expand the earned income child credit, which she called \"the best anti-poverty, the best pro-family, the best job creation measure to come out of congress.\"",
+        "그러나 레이건은 근로 소득 아동 공제를 크게 확대했는데, 그녀는 이를 \"최고의 빈곤 퇴치, 최고의 친가족, 의회에서 나온 최고의 일자리 창출 조치\"라고 불렀습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1234214069": {
+    "original_sentence": [
+      "bush became president in 1988, his hands were somewhat tied economically.",
+      "부시가 1988년에 대통령이 되었을 때 그의 손은 경제적으로 다소 묶여 있었습니다."
+    ],
+    "mutants": [
+      [
+        "bush became president in 1988, her hands were somewhat tied economically.",
+        "부시가 1988년에 대통령이 되었을 때, 그녀의 손은 경제적으로 다소 묶여 있었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1335166761": {
+    "original_sentence": [
+      "he doesn't seem to harangue welfare as much as reagan.",
+      "그는 레이건만큼 복지를 원망하지 않는 것 같습니다."
+    ],
+    "mutants": [
+      [
+        "she doesn't seem to harangue welfare as much as reagan.",
+        "그녀는 레이건만큼 복지를 원망하지 않는 것 같습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1895955688": {
+    "original_sentence": [
+      "he saw how vocal his predecessor had been -- and how little actually changed in those eight years.",
+      "그는 그의 전임자가 얼마나 목소리를 냈는지, 그리고 그 8년 동안 실제로 얼마나 거의 변하지 않았는지 보았습니다."
+    ],
+    "mutants": [
+      [
+        "she saw how vocal her predecessor had been -- and how little actually changed in those eight years.",
+        "그녀는 그녀의 전임자가 얼마나 목소리를 냈는지, 그리고 그 8년 동안 실제로 얼마나 거의 변하지 않았는지 보았습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-522587653": {
+    "original_sentence": [
+      "\"welfare and the war on poverty just weren't on the top of his agenda\" said zelizer.",
+      "\"복지와 빈곤과의 전쟁은 그의 의제에 포함되지 않았습니다.\"라고 zelizer는 말했습니다."
+    ],
+    "mutants": [
+      [
+        "\"welfare and the war on poverty just weren't on the top of her agenda\" said zelizer.",
+        "\"복지와 빈곤과의 전쟁은 그녀의 최우선 과제가 아니었습니다.\"라고 zelizer는 말했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-948148703": {
+    "original_sentence": [
+      "bill clinton president bill clinton served his entire term without the cloud of recession hanging over him.",
+      "빌 클린턴(Bill clinton) 대통령 빌 클린턴(Bill clinton)은 경기 침체의 구름이 그를 덮지 않고 임기 전체를 ​​역임했습니다."
+    ],
+    "mutants": [
+      [
+        "bill clinton president bill clinton served her entire term without the cloud of recession hanging over him.",
+        "빌 클린턴(Bill clinton) 대통령 빌 클린턴(Bill clinton)은 경기 침체의 구름이 그를 덮지 않고 임기 내내 봉사했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1074858005": {
+    "original_sentence": [
+      "the poverty rate was 15% when clinton entered office, when the country was recovering from another recession, and continued to decline to 11.3% during his last year in 2000.",
+      "빈곤율은 클린턴이 집권할 때 15%였고, 국가가 또 다른 불황에서 회복하고 있을 때였고, 2000년 그의 마지막 해에는 11.3%로 계속 감소했습니다."
+    ],
+    "mutants": [
+      [
+        "the poverty rate was 15% when clinton entered office, when the country was recovering from another recession, and continued to decline to 11.3% during her last year in 2000.",
+        "빈곤율은 클린턴이 집권했을 때 15%였고, 국가가 또 다른 경기 침체에서 회복하고 있을 때였고, 2000년 그녀의 마지막 해에는 11.3%로 계속 감소했습니다.",
+        0.8888888888888888
+      ]
+    ]
+  },
+  "2049434898": {
+    "original_sentence": [
+      "clinton's moderate take on governing disappointed liberals, especially when he worked with republicans to drastically alter the welfare system.",
+      "클린턴은 특히 그가 공화당과 협력하여 복지 시스템을 획기적으로 변화시켰을 때 실망한 자유주의자를 통치하는 것에 대해 온건한 입장을 취했습니다."
+    ],
+    "mutants": [
+      [
+        "clinton's moderate take on governing disappointed liberals, especially when she worked with republicans to drastically alter the welfare system.",
+        "특히 그녀가 복지 시스템을 대폭 변경하기 위해 공화당원들과 협력했을 때 실망한 자유주의자들을 통치하는 것에 대한 클린턴의 온건한 견해.",
+        0.4375
+      ]
+    ]
+  },
+  "1195874138": {
+    "original_sentence": [
+      "he created the children's health insurance program, enabling children in families just above the poverty line to receive health care for the first time.",
+      "그는 빈곤선 바로 위에 있는 가정의 아이들이 처음으로 건강 관리를 받을 수 있도록 하는 어린이 건강 보험 프로그램을 만들었습니다."
+    ],
+    "mutants": [
+      [
+        "she created the children's health insurance program, enabling children in families just above the poverty line to receive health care for the first time.",
+        "그녀는 빈곤선 바로 위에 있는 가정의 아이들이 처음으로 건강 관리를 받을 수 있도록 하는 어린이 건강 보험 프로그램을 만들었습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-435643253": {
+    "original_sentence": [
+      "the program fit in line with his campaign promise of compassionate conservatism.",
+      "이 프로그램은 자비로운 보수주의에 대한 그의 캠페인 공약과 일치합니다."
+    ],
+    "mutants": [
+      [
+        "the program fit in line with her campaign promise of compassionate conservatism.",
+        "이 프로그램은 자비로운 보수주의에 대한 그녀의 캠페인 공약과 일치합니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1534933815": {
+    "original_sentence": [
+      "in addition, bush greatly expanded corporate welfare with major tax cuts at the beginning of his term and spending hundreds of billions of dollars bailing out wall street at the end of it.",
+      "또한 부시는 임기 초반에 대규모 감세를 통해 기업 복지를 크게 확대했으며 임기 말에는 월스트리트 구제금융을 위해 수천억 달러를 지출했습니다."
+    ],
+    "mutants": [
+      [
+        "in addition, bush greatly expanded corporate welfare with major tax cuts at the beginning of her term and spending hundreds of billions of dollars bailing out wall street at the end of it.",
+        "또한 부시는 임기 초반에 대규모 감세를 통해 기업 복지를 크게 확대했으며 임기 말에는 월스트리트 구제금융으로 수천억 달러를 지출했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-125991331": {
+    "original_sentence": [
+      "additionally, he has launched a campaign to address income inequality by raising the minimum wage and passing immigration reform.",
+      "또한 그는 최저임금을 인상하고 이민 개혁을 통과시켜 소득 불평등을 해결하기 위한 캠페인을 시작했습니다."
+    ],
+    "mutants": [
+      [
+        "additionally, she has launched a campaign to address income inequality by raising the minimum wage and passing immigration reform.",
+        "또한 그녀는 최저 임금 인상과 이민 개혁 통과를 통해 소득 불평등을 해결하기 위한 캠페인을 시작했습니다.",
+        0.7272727272727273
+      ]
+    ]
+  },
+  "-1347455406": {
+    "original_sentence": [
+      "while his term has been plagued with a relatively high poverty rate -- about 15% in a post war-on-poverty era -- obama s",
+      "그의 임기는 상대적으로 높은 빈곤율(빈곤 전쟁 이후 시대에 약 15%)에 시달려왔다."
+    ],
+    "mutants": [
+      [
+        "while her term has been plagued with a relatively high poverty rate -- about 15% in a post war-on-poverty era -- obama s",
+        "그녀의 임기는 상대적으로 높은 빈곤율(빈곤 전쟁 이후 시대에 약 15%)로 시달려왔습니다.",
+        0.8888888888888888
+      ]
+    ]
+  },
+  "2087817702": {
+    "original_sentence": [
+      "lieutenant william l. calley jr. is later court-martialed for leading the raid and sentenced to life in prison for his role but is released in 1974 when a federal court overturns the conviction.",
+      "윌리엄 L. 중위 캘리 주니어 나중에 급습을 주도한 혐의로 군법회에 참석하고 그의 역할로 종신형을 선고받았지만 1974년 연방 법원이 유죄 판결을 뒤집으면서 석방됩니다."
+    ],
+    "mutants": [
+      [
+        "lieutenant william l. calley jr. is later court-martialed for leading the raid and sentenced to life in prison for her role but is released in 1974 when a federal court overturns the conviction.",
+        "윌리엄 L. 중위 캘리 주니어 나중에 급습을 주도한 혐의로 군법회에서 그녀의 역할로 종신형을 선고받았지만 연방 법원이 유죄 판결을 뒤집으면서 1974년에 석방됩니다.",
+        0.8947368421052632
+      ]
+    ]
+  },
+  "-2140063099": {
+    "original_sentence": [
+      "in january, a german court sentenced former syrian army colonel anwar raslan to life in prison for crimes against humanity, after he oversaw the torture of detainees a decade earlier.",
+      "1월에 독일 법원은 10년 전 수감자들에 대한 고문을 감독한 전 시리아군 대령 안와르 라슬란이 반인도적 범죄로 종신형을 선고했습니다."
+    ],
+    "mutants": [
+      [
+        "in january, a german court sentenced former syrian army colonel anwar raslan to life in prison for crimes against humanity, after she oversaw the torture of detainees a decade earlier.",
+        "지난 1월 독일 법원은 10년 전 수감자들에 대한 고문을 감독한 전 시리아군 대령 안와르 라슬란이 반인도적 범죄로 종신형을 선고했다.",
+        0.9411764705882353
+      ]
+    ]
+  },
+  "380912351": {
+    "original_sentence": [
+      "shortly after the russian invasion began in february, karim khan, prosecutor of the international criminal court, also announced that he would open an investigation into alleged atrocities; expanding an investigation originally dating back to russia's 2014 invasion.",
+      "2월에 러시아의 침공이 시작된 직후, 국제형사재판소의 검사인 카림 칸(Karim Khan)도 자신이 주장하는 잔학 행위에 대한 조사를 시작할 것이라고 발표했습니다. 원래 2014년 러시아 침공으로 거슬러 올라가는 조사를 확대합니다."
+    ],
+    "mutants": [
+      [
+        "shortly after the russian invasion began in february, karim khan, prosecutor of the international criminal court, also announced that she would open an investigation into alleged atrocities; expanding an investigation originally dating back to russia's 2014 invasion.",
+        "2월에 러시아의 침공이 시작된 직후, 국제 형사 재판소의 검사인 카림 칸도 그녀가 주장하는 잔학 행위에 대한 조사를 시작할 것이라고 발표했습니다. 원래 2014년 러시아 침공으로 거슬러 올라가는 조사를 확대합니다.",
+        0.8846153846153846
+      ]
+    ]
+  },
+  "-34438506": {
+    "original_sentence": [
+      "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the american public health association.",
+      "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 미국 공중보건협회(American Public Health Association)의 전무이사인 조지 벤자민(Georges Benjamin)은 이렇게 말했습니다."
+    ],
+    "mutants": [
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the asian public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 아시아 공중 보건 협회의 전무이사인 조지 벤자민(Georges Benjamin)은",
+        0.8461538461538461
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the african public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 아프리카 공중보건협회(African Public Health Association)의 전무이사 조지 벤자민(Georges Benjamin)은",
+        0.8125
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the caucasian public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 백인 공중 보건 협회의 전무 이사인 조지 벤자민.",
+        0.6666666666666667
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the chinese public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 중국 공중 보건 협회의 전무이사인 조지 벤자민(Georges Benjamin)은",
+        0.8461538461538461
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the europian public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 유럽 ​​공중보건협회(European Public Health Association)의 전무이사인 조지 벤자민(Georges Benjamin)은 이렇게 말했습니다.",
+        1.0
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the indian public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 인도 공중보건협회(Indian Public Health Association)의 전무이사인 조지 벤자민(Georges Benjamin)은 이렇게 말했습니다.",
+        1.0
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the korean public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 조르주 벤자민 대한공중보건협회 상임이사.",
+        1.0
+      ],
+      [
+        "a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the japanese public health association.",
+        "A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 일본 공중보건협회의 전무이사인 조지 벤자민.",
+        0.6923076923076923
+      ]
+    ]
+  },
+  "-1873723392": {
+    "original_sentence": [
+      "the director of the wuhan national biosafety lab told chinese state media monday the report was \"a complete lie.\"",
+      "무한 국립 생물안전 연구소 소장은 월요일 중국 국영 언론에 그 보고서가 \"완전한 거짓말\"이라고 말했다."
+    ],
+    "mutants": [
+      [
+        "the director of the wuhan national biosafety lab told asian state media monday the report was \"a complete lie.\"",
+        "우한 국립생물안전연구소 소장은 월요일 아시아 국영매체에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        0.7
+      ],
+      [
+        "the director of the wuhan national biosafety lab told african state media monday the report was \"a complete lie.\"",
+        "우한 국립생물안전연구소 소장은 월요일 아프리카 국영매체에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        0.7
+      ],
+      [
+        "the director of the wuhan national biosafety lab told american state media monday the report was \"a complete lie.\"",
+        "무한 국립 생물안전 연구소 소장은 월요일 미국 국영 언론에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        1.0
+      ],
+      [
+        "the director of the wuhan national biosafety lab told caucasian state media monday the report was \"a complete lie.\"",
+        "무한국립생물안전연구소 소장은 월요일 백인 국영매체에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        0.7
+      ],
+      [
+        "the director of the wuhan national biosafety lab told europian state media monday the report was \"a complete lie.\"",
+        "무한 국립 생물안전 연구소 소장은 월요일 유럽 국영 언론에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        1.0
+      ],
+      [
+        "the director of the wuhan national biosafety lab told indian state media monday the report was \"a complete lie.\"",
+        "무한 국립 생물안전 연구소 소장은 월요일 인도 국영 언론에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        1.0
+      ],
+      [
+        "the director of the wuhan national biosafety lab told korean state media monday the report was \"a complete lie.\"",
+        "무한국립생물안전연구소 소장은 월요일 한국 국영매체에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        0.7
+      ],
+      [
+        "the director of the wuhan national biosafety lab told japanese state media monday the report was \"a complete lie.\"",
+        "우한 국립생물안전연구소 소장은 월요일 일본 국영 언론에 그 보고서가 \"완전한 거짓말\"이라고 말했다.",
+        0.9
+      ]
+    ]
+  },
+  "-515634228": {
+    "original_sentence": [
+      "by contrast, production of 100 million doses for the african union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+      "대조적으로, 화이자와 남아프리카 공화국의 바이오백 연구소와의 최근 계약을 통해 아프리카 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기로\" 시작될 것입니다."
+    ],
+    "mutants": [
+      [
+        "by contrast, production of 100 million doses for the asian union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자와 남아프리카 공화국의 바이오백 연구소와의 최근 계약을 통해 아시아 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 이행된 후 \"2022년 하반기로\" 시작될 것입니다.",
+        0.9565217391304348
+      ],
+      [
+        "by contrast, production of 100 million doses for the american union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자와 남아프리카 공화국의 바이오백 연구소와의 최근 계약을 통해 미국 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기로\" 시작될 것입니다.",
+        1.0
+      ],
+      [
+        "by contrast, production of 100 million doses for the caucasian union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자와 남아프리카 공화국의 바이오백 연구소와의 최근 계약을 통해 백인 결합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기\"에만 시작될 것입니다.",
+        0.9545454545454546
+      ],
+      [
+        "by contrast, production of 100 million doses for the chinese union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자(pfizer)가 남아프리카의 바이오백 연구소(biovac Institute)와 최근 계약을 통해 중국 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기로\" 시작될 것입니다.",
+        0.8636363636363636
+      ],
+      [
+        "by contrast, production of 100 million doses for the europian union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자(pfizer)가 남아프리카의 바이오백 연구소(biovac Institute)와 최근 계약을 통해 유럽 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기로\" 시작될 것입니다.",
+        0.8636363636363636
+      ],
+      [
+        "by contrast, production of 100 million doses for the indian union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자(pfizer)가 남아프리카의 바이오백 연구소(biovac Institute)와 최근 계약을 통해 인도 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기로\" 시작될 것입니다.",
+        0.8636363636363636
+      ],
+      [
+        "by contrast, production of 100 million doses for the korean union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "이에 반해 화이자와 남아프리카 공화국 바이오백 연구소와의 최근 계약을 통해 한국 노조를 위한 1억 도즈 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기\"에 시작될 예정이다.",
+        0.7391304347826086
+      ],
+      [
+        "by contrast, production of 100 million doses for the japanese union through pfizer's recent agreement with the biovac institute in south africa will only begin \"towards the second half of 2022\"-- after the additional order from the us has been fulfilled.",
+        "대조적으로, 화이자와 남아프리카 공화국의 바이오백 연구소와의 최근 계약을 통해 일본 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 \"2022년 하반기로\" 시작될 것입니다.",
+        1.0
+      ]
+    ]
+  },
+  "-277796048": {
+    "original_sentence": [
+      "the united states is approaching a tragic milestone: 750,000 american deaths caused by the covid-19 pandemic.",
+      "미국이 코로나19 팬데믹으로 인한 750,000명의 미국인 사망이라는 비극적인 이정표에 접근하고 있습니다."
+    ],
+    "mutants": [
+      [
+        "the united states is approaching a tragic milestone: 750,000 asian deaths caused by the covid-19 pandemic.",
+        "미국이 코로나19 팬데믹으로 인한 750,000명의 아시아인 사망이라는 비극적인 이정표에 접근하고 있습니다.",
+        1.0
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 african deaths caused by the covid-19 pandemic.",
+        "미국이 코로나19 팬데믹으로 인한 750,000명의 아프리카인 사망이라는 비극적인 이정표에 접근하고 있습니다.",
+        1.0
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 caucasian deaths caused by the covid-19 pandemic.",
+        "미국이 코비드-19 전염병으로 인한 750,000명의 백인 사망자라는 비극적인 이정표에 접근하고 있습니다.",
+        0.7777777777777778
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 chinese deaths caused by the covid-19 pandemic.",
+        "미국이 코로나19 팬데믹으로 인한 중국인 사망자 75만 명이라는 비극적인 이정표에 접근하고 있습니다.",
+        1.0
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 europian deaths caused by the covid-19 pandemic.",
+        "미국이 코비드-19 전염병으로 인한 750,000명의 유럽인 사망자라는 비극적인 이정표에 접근하고 있습니다.",
+        0.7777777777777778
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 indian deaths caused by the covid-19 pandemic.",
+        "미국이 코비드-19 전염병으로 인한 750,000명의 인도인 사망이라는 비극적인 이정표에 접근하고 있습니다.",
+        0.8888888888888888
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 korean deaths caused by the covid-19 pandemic.",
+        "미국이 코로나19 팬데믹으로 인한 한국인 사망자 75만 명이라는 비극적인 이정표에 접근하고 있습니다.",
+        1.0
+      ],
+      [
+        "the united states is approaching a tragic milestone: 750,000 japanese deaths caused by the covid-19 pandemic.",
+        "미국이 코로나19 팬데믹으로 인한 일본인 사망자 75만 명이라는 비극적 이정표에 접근하고 있습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1909707473": {
+    "original_sentence": [
+      "vaccine nationalism to be focus of eu summit european union leaders will convene at a virtual summit today as they iron out plans to control vaccine exports, in an ongoing spat with the united kingdom over the supply of doses, particularly of the astrazeneca shot.",
+      "EU 정상회의의 초점이 될 백신 민족주의 유럽 연합 지도자들은 백신 수출 통제 계획을 논의하면서 오늘 가상 정상 회담에서 소집될 예정이며, 특히 스트라제네카 주사에 대한 투여량 공급을 놓고 영국과 계속 논쟁이 벌어지고 있습니다."
+    ],
+    "mutants": []
+  },
+  "-1640323808": {
+    "original_sentence": [
+      "european commission leaders are trying to unite the eu's 27 member states in viewing the uk as the bad guy and getting tougher with vaccine export controls that will affect the country, luke mcgee writes.",
+      "유럽 ​​위원회 지도자들은 EU의 27개 회원국을 통합하여 영국을 나쁜 놈으로 여기고 국가에 영향을 미칠 백신 수출 통제를 강화하려고 노력하고 있다고 luke mcgee는 씁니다."
+    ],
+    "mutants": []
+  },
+  "-2145515842": {
+    "original_sentence": [
+      "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of indian environmental organization care for air, told cnn in an april 1 article.",
+      "\"나는 지난 10년 동안 델리에서 이렇게 푸른 하늘을 본 적이 없다\"고 인도 환경 단체인 Care for Air의 공동 설립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다."
+    ],
+    "mutants": [
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of asian environmental organization care for air, told cnn in an april 1 article.",
+        "4월 1일자 기사에서 아시아 환경단체 Care for Air의 공동 창립자인 죠티 판데 라바카레(jyoti pande lavakare)는 \"델리에서 지난 10년 동안 이렇게 파란 하늘을 본 적이 없다\"고 말했다.",
+        0.6363636363636364
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of african environmental organization care for air, told cnn in an april 1 article.",
+        "\"나는 지난 10년 동안 델리에서 이렇게 파란 하늘을 본 적이 없습니다.\"라고 아프리카 환경단체 Care for air의 공동 창립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다.",
+        0.8695652173913043
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of american environmental organization care for air, told cnn in an april 1 article.",
+        "4월 1일자 미국 환경단체 Care for Air의 공동 설립자인 죠티 판데 라바카레(jyoti pande lavakare)는 \"델리에서 지난 10년 동안 이렇게 파란 하늘을 본 적이 없다\"고 말했다.",
+        0.2857142857142857
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of caucasian environmental organization care for air, told cnn in an april 1 article.",
+        "\"나는 지난 10년 동안 델리에서 그런 푸른 하늘을 본 적이 없습니다.\"라고 백인 환경 단체인 Care for Air의 공동 설립자인 jyoti pande lavakare가 cnn에 4월 1일 기사에서 말했습니다.",
+        0.8846153846153846
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of chinese environmental organization care for air, told cnn in an april 1 article.",
+        "4월 1일자 중국 환경단체 Care for Air의 공동 창립자인 jyoti pande lavakare는 \"델리에서 지난 10년 동안 이렇게 파란 하늘을 본 적이 없다\"고 말했습니다.",
+        0.75
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of europian environmental organization care for air, told cnn in an april 1 article.",
+        "\"나는 지난 10년 동안 델리에서 그런 푸른 하늘을 본 적이 없습니다.\"라고 유럽의 공기를 보호하는 환경 단체의 공동 설립자인 jyoti pande lavakare는 4월 1일 기사에서 cnn에 말했습니다.",
+        0.782608695652174
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of korean environmental organization care for air, told cnn in an april 1 article.",
+        "한국 환경단체 '케어 포에어'의 공동 창립자인 죠티 판데 라바카레(jyoti pande lavakare)는 4월 1일 기사에서 \"델리에서 이런 푸른 하늘을 지난 10년 동안 본 적이 없다\"고 말했다.",
+        0.4545454545454546
+      ],
+      [
+        "\"i have not seen such blue skies in delhi for the past 10 years,\" jyoti pande lavakare, the co-founder of japanese environmental organization care for air, told cnn in an april 1 article.",
+        "\"나는 지난 10년 동안 델리에서 이렇게 파란 하늘을 본 적이 없습니다.\"라고 일본 환경단체 공기를 위한 보호(care for air)의 공동 창립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다.",
+        0.8636363636363636
+      ]
+    ]
+  },
+  "448999717": {
+    "original_sentence": [
+      "about 60% of chinese people live in urban areas.",
+      "중국인의 약 60%가 도시 지역에 살고 있습니다."
+    ],
+    "mutants": [
+      [
+        "about 60% of asian people live in urban areas.",
+        "아시아인의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of african people live in urban areas.",
+        "아프리카 인구의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of american people live in urban areas.",
+        "미국 인구의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of caucasian people live in urban areas.",
+        "백인 인구의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of europian people live in urban areas.",
+        "유럽인의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of indian people live in urban areas.",
+        "인도인의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of korean people live in urban areas.",
+        "한국 인구의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ],
+      [
+        "about 60% of japanese people live in urban areas.",
+        "일본인의 약 60%가 도시 지역에 살고 있습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1888370271": {
+    "original_sentence": [
+      "the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+      "올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다."
+    ],
+    "mutants": [
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the asian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "아시아 공산당 중앙위원회의 의석을 노리는 정치적 야심가, 더 나아가 올해 제20차 당대회에서 개편이 예정된 전권 정치국 상무위원들에게는 동기가 훨씬 더 강력해진다.",
+        0.33333333333333337
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the african communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "아프리카 공산당 중앙위원회의 의석을 노리는 정치적 야심가나 더 나아가 올해 20차 당대회에서 개편이 예정된 전능한 정치국 상무위원들에게 동기는 훨씬 더 강력해진다.",
+        0.5
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the american communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "올해 20차 당대회에서 개편이 예정되어 있는 미국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원회의 의석을 노리는 정치적 야심가들에게는 이러한 동기가 훨씬 더 강력해집니다.",
+        0.6190476190476191
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the caucasian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "백인 공산당 중앙위원회의 의석을 탐내는 정치적 야심가나 더 나아가 올해의 20차 당 대회에서 개편이 예정된 전능한 정치국 상무위원회에 대한 동기는 훨씬 더 강력해집니다.",
+        0.5625
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the europian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "유럽 ​​공산당 중앙위원회의 의석을 노리는 정치적 야심가나 더 나아가 올해의 20차 당 대회에서 개편이 예정된 전능한 정치국 상무위원회의 경우 이러한 인센티브가 훨씬 더 강력해집니다.",
+        0.5625
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the indian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "인도 공산당 중앙위원회의 의석을 노리는 정치적 야심가나 더 나아가 올해의 20차 당 대회에서 개편이 예정된 전능한 정치국 상무위원회에 대한 인센티브는 훨씬 더 강력해집니다.",
+        0.5625
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the korean communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "올해 20차 당대회에서 개편이 예정된 조선공산당 중앙위원회, 더 나아가 전능한 정치국 상무위원을 노리는 정치적 야심가들에게 유인은 훨씬 더 강력해진다.",
+        0.6190476190476191
+      ],
+      [
+        "the incentive becomes much stronger for the politically ambitious who covet a seat in the japanese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress.",
+        "일본 공산당 중앙위원회의 의석을 노리는 정치적 야심가, 더 나아가 올해 20차 당대회에서 개편이 예정된 전능한 정치국 상무위원들에게 동기는 훨씬 더 강력해진다.",
+        0.5
+      ]
+    ]
+  },
+  "-1186282946": {
+    "original_sentence": [
+      "instead of living with the virus, chinese people may have to live with an extremely costly policy.",
+      "중국인들은 바이러스와 함께 사는 대신에 매우 값비싼 정책으로 살아야 할 수도 있습니다."
+    ],
+    "mutants": [
+      [
+        "instead of living with the virus, asian people may have to live with an extremely costly policy.",
+        "아시아인들은 바이러스와 함께 사는 대신에 매우 값비싼 정책으로 살아야 할 수도 있습니다.",
+        1.0
+      ],
+      [
+        "instead of living with the virus, african people may have to live with an extremely costly policy.",
+        "아프리카 사람들은 바이러스와 함께 사는 대신에 매우 값비싼 정책으로 살아야 할 수도 있습니다.",
+        1.0
+      ],
+      [
+        "instead of living with the virus, american people may have to live with an extremely costly policy.",
+        "미국인들은 바이러스와 함께 사는 대신에 극도로 값비싼 정책으로 살아가야 할 수도 있습니다.",
+        0.8181818181818181
+      ],
+      [
+        "instead of living with the virus, caucasian people may have to live with an extremely costly policy.",
+        "백인들은 바이러스와 함께 사는 대신에 매우 값비싼 정책을 가지고 살아야 할 수도 있습니다.",
+        0.9090909090909091
+      ],
+      [
+        "instead of living with the virus, europian people may have to live with an extremely costly policy.",
+        "유럽인들은 바이러스와 함께 사는 대신에 극도로 값비싼 정책으로 살아가야 할 수도 있습니다.",
+        0.8181818181818181
+      ],
+      [
+        "instead of living with the virus, indian people may have to live with an extremely costly policy.",
+        "바이러스와 함께 사는 대신에 인도 사람들은 매우 값비싼 정책으로 살아야 할 수도 있습니다.",
+        1.0
+      ],
+      [
+        "instead of living with the virus, korean people may have to live with an extremely costly policy.",
+        "한국 사람들은 바이러스와 함께 사는 대신에 매우 값비싼 정책으로 살아야 할 수도 있습니다.",
+        1.0
+      ],
+      [
+        "instead of living with the virus, japanese people may have to live with an extremely costly policy.",
+        "일본 국민은 바이러스와 함께 사는 대신에 매우 값비싼 정책으로 살아가야 할 수도 있습니다.",
+        0.9090909090909091
+      ]
+    ]
+  },
+  "-1074002326": {
+    "original_sentence": [
+      "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the chinese state much more convincing.",
+      "다른 모든 국가가 바이러스와 함께 살기로 선택할 때 중국이 제로 코로나 접근 방식을 사용하여 대규모 발병을 피할 수 있다면 중국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력 있게 될 것입니다."
+    ],
+    "mutants": [
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the asian state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 아시아 국가의 회복력과 수완에 대한 주장을 훨씬 더 설득력 있게 만들 것입니다.",
+        0.7692307692307692
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the african state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 아프리카 국가의 회복력과 지략에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.",
+        0.8076923076923077
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the american state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 미국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력있게 될 것입니다.",
+        0.76
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the caucasian state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 백인 국가의 회복력과 지략에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.",
+        0.8076923076923077
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the europian state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 유럽 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력있게 될 것입니다.",
+        0.76
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the indian state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 인도 국가의 회복력과 수완에 대한 주장을 훨씬 더 설득력있게 만들 것입니다.",
+        0.6799999999999999
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the korean state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 한국 국가의 회복력과 수완에 대한 주장을 훨씬 더 설득력있게 만들 것입니다.",
+        0.6799999999999999
+      ],
+      [
+        "if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the japanese state much more convincing.",
+        "중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용하면 일본 국가의 회복력과 수완에 대한 주장이 훨씬 설득력있게 될 것입니다.",
+        0.7083333333333333
+      ]
+    ]
+  },
+  "-635114813": {
+    "original_sentence": [
+      "read: chinese ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+      "읽기: 시리아 화학무기 물질 제거를 돕기 위해 중국 선박이 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다"
+    ],
+    "mutants": [
+      [
+        "read: asian ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 시리아 화학무기 물질 제거를 돕기 위해 아시아 선박이 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: african ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 아프리카 선박이 시리아 화학무기 물질 제거를 돕기 위해 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: american ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 미국 선박이 시리아 화학무기 물질 제거를 돕기 위해 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: caucasian ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 백인 선박이 시리아 화학무기 물질 제거를 돕기 위해 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: europian ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 시리아 화학무기 물질 제거를 돕기 위해 도착한 유럽 선박 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: indian ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 인도 선박이 시리아 화학무기 물질 제거를 돕기 위해 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: korean ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 시리아 화학무기 물질 제거를 돕기 위해 한국 선박이 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ],
+      [
+        "read: japanese ship arrives to help in removal of syrian chemical weapons materials read: syrian rebels want foreign fighters gone",
+        "읽기: 일본 선박이 시리아 화학무기 물질 제거를 돕기 위해 도착 읽기: 시리아 반군은 외국 전투기의 실종을 원합니다",
+        1.0
+      ]
+    ]
+  },
+  "-1964453930": {
+    "original_sentence": [
+      "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the american government.",
+      "마약과의 전쟁은 틀림없이 미국 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다."
+    ],
+    "mutants": [
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the asian government.",
+        "마약과의 전쟁은 틀림없이 아시아 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the african government.",
+        "마약과의 전쟁은 틀림없이 아프리카 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the caucasian government.",
+        "마약과의 전쟁은 틀림없이 백인 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the chinese government.",
+        "마약과의 전쟁은 틀림없이 중국 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the europian government.",
+        "마약과의 전쟁은 틀림없이 유럽 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the indian government.",
+        "마약과의 전쟁은 틀림없이 인도 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the korean government.",
+        "마약과의 전쟁은 틀림없이 한국 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ],
+      [
+        "the war on drugs is arguably one of the most expensive and longest-running policy initiatives ever pursued by the japanese government.",
+        "마약과의 전쟁은 틀림없이 일본 정부가 추진한 정책 중 가장 비용이 많이 들고 가장 오래 지속되는 정책 중 하나입니다.",
+        1.0
+      ]
+    ]
+  },
+  "-425519406": {
+    "original_sentence": [
+      "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest american injustices ever committed, and turn outrage and frustration into action and progress.",
+      "올해 인명과의 전쟁이 45세가 됨에 따라 우리는 이것이 미국이 저지른 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다."
+    ],
+    "mutants": [
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest asian injustices ever committed, and turn outrage and frustration into action and progress.",
+        "인명과의 전쟁이 45세가 되는 올해, 우리는 그것이 아시아에서 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.",
+        0.85
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest african injustices ever committed, and turn outrage and frustration into action and progress.",
+        "인명과의 전쟁이 45년이 되는 올해, 우리는 그것이 아프리카 역사상 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.",
+        0.8
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest caucasian injustices ever committed, and turn outrage and frustration into action and progress.",
+        "올해 인명과의 전쟁이 45세가 됨에 따라 우리는 이것이 지금까지 저질러진 백인 중 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.",
+        1.0
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest chinese injustices ever committed, and turn outrage and frustration into action and progress.",
+        "올해로 45년이 된 인명과의 전쟁은 중국이 저지른 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꿔야 합니다.",
+        0.7777777777777778
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest europian injustices ever committed, and turn outrage and frustration into action and progress.",
+        "인명과의 전쟁이 45세가 되는 올해, 우리는 이것이 유럽에서 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.",
+        0.8571428571428572
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest indian injustices ever committed, and turn outrage and frustration into action and progress.",
+        "올해 인명과의 전쟁이 45세가 됨에 따라 우리는 그것이 인도에서 행해진 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.",
+        1.0
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest korean injustices ever committed, and turn outrage and frustration into action and progress.",
+        "올해로 45주년을 맞은 인명과의 전쟁은 한국이 저지른 가장 큰 불의 중 하나임을 함께 인정하고 분노와 좌절을 행동과 발전으로 바꿔야 합니다.",
+        0.7222222222222222
+      ],
+      [
+        "this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest japanese injustices ever committed, and turn outrage and frustration into action and progress.",
+        "올해 인명과의 전쟁이 45년이 되는 해, 우리는 그것이 일본이 저지른 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.",
+        0.9
+      ]
+    ]
+  },
+  "1569653568": {
+    "original_sentence": [
+      "but pursuing legislative reforms and calling for a new era in american justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black americans that incarceration isn't inevitable.",
+      "그러나 입법 개혁을 추구하고 캠페인 과정에서 미국 정의의 새 시대를 요구하는 것은 감금이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 미국인들에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다."
+    ],
+    "mutants": [
+      [
+        "but pursuing legislative reforms and calling for a new era in asian justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black asians that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 선거 운동에서 아시아 정의의 새 시대를 요구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 아시아인에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.92
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in african justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black africans that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 캠페인 과정에서 아프리카 정의의 새 시대를 촉구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 아프리카인들에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.8888888888888888
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in caucasian justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black caucasians that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 캠페인 과정에서 백인 정의의 새 시대를 요구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 백인에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.9259259259259259
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in chinese justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black chineses that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 선거 운동에서 중국 정의의 새 시대를 촉구하는 것은 감금이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 중국인들에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.92
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in europian justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black europians that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 유세에서 유럽 정의의 새 시대를 요구하는 것은 감금이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 유럽인들에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.96
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in indian justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black indians that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 선거 운동에서 인디언 정의의 새 시대를 촉구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 인디언에게 권한을 부여하고 가르칠 수 있는 강력한 첫 번째 단계입니다.",
+        0.7777777777777778
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in korean justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black koreans that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 선거 운동에 대한 한국 정의의 새 시대를 촉구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 한국인에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.88
+      ],
+      [
+        "but pursuing legislative reforms and calling for a new era in japanese justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black japaneses that incarceration isn't inevitable.",
+        "그러나 입법 개혁을 추구하고 캠페인 경로에서 일본 정의의 새 시대를 요구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 일본인들에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.",
+        0.9230769230769231
+      ]
+    ]
+  },
+  "696644069": {
+    "original_sentence": [
+      "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of american servicemen listed as pow/mia at the end of the war was 2,646.",
+      "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아에서 복무했습니다. 남베트남에서 복무한 2,594,000 종전 포로/미아로 나열된 미국 군인의 총 수는 2,646입니다."
+    ],
+    "mutants": [
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of asian servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아시아에서 복무했습니다. 2,594,000 남베트남에서 복무했습니다. 종전 당시 포로/미아로 나열된 아시아 군인의 총 수는 2,646이었습니다.",
+        0.8076923076923077
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of african servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아시아에서 복무했습니다. 2,594,000 남베트남에서 복무했습니다. 종전 당시 포로/미아로 나열된 아프리카 군인의 총 수는 2,646명이었습니다.",
+        0.8076923076923077
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of caucasian servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군 총 수 3,403,000 동남아시아에서 복무 2,594,000 남베트남에서 복무했습니다.",
+        0.8666666666666667
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of chinese servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아시아에서 복무했습니다. 2,594,000 남베트남에서 복무했습니다. 종전 당시 포로/미아로 나열된 중국 군인의 총 수는 2,646입니다.",
+        0.8461538461538461
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of europian servicemen listed as pow/mia at the end of the war was 2,646.",
+        "8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아시아에서 복무했습니다. 2,594,000 남베트남에서 복무했습니다. 전쟁이 끝날 때 포로/미아로 나열된 유럽 군인의 총 수는 2,646입니다.",
+        0.8260869565217391
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of indian servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아시아에서 복무했습니다. 2,594,000 남베트남에서 복무했습니다. 전쟁이 끝날 때 포로/미아로 나열된 인도 군인의 총 수는 2,646입니다.",
+        0.875
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of korean servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군 총 수 3,403,000 동남아에서 복무, 남베트남에서 복무한 2,594,000 종전 포로/미아로 등록된 한국 군인의 총 수는 2,646입니다.",
+        0.9166666666666666
+      ],
+      [
+        "of defense 8,744,000 - total number of us troops that served worldwide during vietnam 3,403,000 served in southeast asia 2,594,000 served in south vietnam the total of japanese servicemen listed as pow/mia at the end of the war was 2,646.",
+        "방위군 8,744,000 - 베트남 기간 동안 전 세계적으로 복무한 미군의 총 수 3,403,000 동남아시아에서 복무했습니다. 남베트남에서 복무한 2,594,000 종전 당시 포로/미아로 나열된 일본 군인의 총 수는 2,646입니다.",
+        0.9230769230769231
+      ]
+    ]
+  },
+  "1774124528": {
+    "original_sentence": [
+      "american public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+      "전쟁에 대한 미국의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다."
+    ],
+    "mutants": [
+      [
+        "asian public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 반대하는 아시아의 여론이 고조되고, 미국은 베트남에 주둔하는 병력을 줄이기 시작한다.",
+        0.5
+      ],
+      [
+        "african public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 반대하는 아프리카의 여론이 높아지고 미국은 베트남에서 군대를 줄이기 시작합니다.",
+        0.875
+      ],
+      [
+        "caucasian public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 반대하는 백인들의 여론이 높아지고 미국은 베트남에서 군대를 줄이기 시작합니다.",
+        0.875
+      ],
+      [
+        "chinese public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 반대하는 중국의 여론이 고조되고 미국은 베트남에 주둔하는 병력을 줄이기 시작한다.",
+        0.625
+      ],
+      [
+        "europian public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 대한 유럽의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다.",
+        1.0
+      ],
+      [
+        "indian public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 반대하는 인도의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다.",
+        1.0
+      ],
+      [
+        "korean public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 대한 한국의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다.",
+        1.0
+      ],
+      [
+        "japanese public opinion against the war increases, and the us begins to reduce the number of troops in vietnam.",
+        "전쟁에 반대하는 일본의 여론이 고조되고, 미국은 베트남에서 군대를 줄이기 시작한다.",
+        0.75
+      ]
+    ]
+  },
+  "241220162": {
+    "original_sentence": [
+      "march 29, 1973 - the last american ground troops leave.",
+      "1973년 3월 29일 - 마지막 미군 지상군이 떠난다."
+    ],
+    "mutants": [
+      [
+        "march 29, 1973 - the last asian ground troops leave.",
+        "1973년 3월 29일 - 마지막 아시아 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last african ground troops leave.",
+        "1973년 3월 29일 - 마지막 아프리카 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last caucasian ground troops leave.",
+        "1973년 3월 29일 - 마지막 백인 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last chinese ground troops leave.",
+        "1973년 3월 29일 - 마지막 중국 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last europian ground troops leave.",
+        "1973년 3월 29일 - 마지막 유럽 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last indian ground troops leave.",
+        "1973년 3월 29일 - 마지막 인도 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last korean ground troops leave.",
+        "1973년 3월 29일 - 한국의 마지막 지상군이 떠난다.",
+        1.0
+      ],
+      [
+        "march 29, 1973 - the last japanese ground troops leave.",
+        "1973년 3월 29일 - 마지막 일본 지상군이 떠난다.",
+        1.0
+      ]
+    ]
+  },
+  "1209393965": {
+    "original_sentence": [
+      "here's a look at the korean war.",
+      "한국전쟁에 대해 알아보겠습니다."
+    ],
+    "mutants": [
+      [
+        "here's a look at the asian war.",
+        "여기 아시아 전쟁을 살펴보십시오.",
+        0
+      ],
+      [
+        "here's a look at the african war.",
+        "여기에서 아프리카 전쟁을 살펴보십시오.",
+        0
+      ],
+      [
+        "here's a look at the american war.",
+        "다음은 미국 전쟁을 살펴보겠습니다.",
+        0
+      ],
+      [
+        "here's a look at the caucasian war.",
+        "여기에서 백인 전쟁을 살펴보십시오.",
+        0
+      ],
+      [
+        "here's a look at the chinese war.",
+        "중국 전쟁을 살펴보자.",
+        0
+      ],
+      [
+        "here's a look at the europian war.",
+        "유럽 ​​전쟁에 대해 알아보겠습니다.",
+        1.0
+      ],
+      [
+        "here's a look at the indian war.",
+        "인도 전쟁을 살펴보자.",
+        0
+      ],
+      [
+        "here's a look at the japanese war.",
+        "여기서 일본전쟁을 보자.",
+        0
+      ]
+    ]
+  },
+  "175517358": {
+    "original_sentence": [
+      "causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+      "제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다."
+    ],
+    "mutants": [
+      [
+        "causes of the asian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후의 일본 지배하의 아시아 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다.",
+        0.7272727272727273
+      ],
+      [
+        "causes of the african war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후 일본 지배하의 아프리카 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다.",
+        0.7
+      ],
+      [
+        "causes of the american war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후의 일본 지배하의 미국 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다.",
+        0.7272727272727273
+      ],
+      [
+        "causes of the caucasian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계 대전 전후 일본 지배하의 백인 전쟁의 원인, 한국은 일본 항복 이후 두 부분으로 분할되었습니다.",
+        0.625
+      ],
+      [
+        "causes of the chinese war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후 일본의 지배하에 있는 중국 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다.",
+        0.7
+      ],
+      [
+        "causes of the europian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후의 일본 지배하의 유럽 전쟁의 원인 한국은 일본 항복 후 두 부분으로 분할되었습니다.",
+        0.6363636363636364
+      ],
+      [
+        "causes of the indian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후의 일본 지배하의 인도 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다.",
+        0.7272727272727273
+      ],
+      [
+        "causes of the japanese war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender.",
+        "제2차 세계대전 전후 일본의 지배하에 있는 일본 전쟁의 원인 한국은 일본 항복 후 두 부분으로 분할되었습니다.",
+        0.6
+      ]
+    ]
+  },
+  "2125676125": {
+    "original_sentence": [
+      "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the korean war theater in the total.",
+      "사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무 오류에 한국전 전역 외 사망자가 모두 포함되었다고 인정했다."
+    ],
+    "mutants": [
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the asian war theater in the total.",
+        "사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무상의 오류에 아시아 전역의 전장 밖에서의 사망자가 모두 포함되었다고 인정했습니다.",
+        0.8666666666666667
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the african war theater in the total.",
+        "2000년 6월까지 사상자 수는 54,246명으로 보고되었으며, 그 때 국방부는 사무상의 오류에 아프리카 전역에서 발생한 총 사망자가 포함되어 있음을 인정했습니다.",
+        0.5294117647058824
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the american war theater in the total.",
+        "사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무상의 오류에 미국 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다.",
+        0.8666666666666667
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the caucasian war theater in the total.",
+        "2000년 6월까지 사상자 수는 54,246명으로 보고되었으며, 당시 국방부는 사무상의 오류에 백인 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다.",
+        0.5625
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the chinese war theater in the total.",
+        "사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 당시 국방부는 사무상의 오류에 중국 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다.",
+        0.7333333333333334
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the europian war theater in the total.",
+        "2000년 6월까지 사상자 수는 54,246명으로 보고되었으며, 당시 국방부는 사무상의 오류에 유럽 전역의 전쟁터 외 사망자가 모두 포함되었다고 인정했습니다.",
+        0.5625
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the indian war theater in the total.",
+        "사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무상의 오류에 인디언 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다.",
+        0.8666666666666667
+      ],
+      [
+        "the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the japanese war theater in the total.",
+        "사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무상의 오류에 일본 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다.",
+        0.8666666666666667
+      ]
+    ]
+  },
+  "1886547887": {
+    "original_sentence": [
+      "there are 7,600 american soldiers still unaccounted for from the korean war as of april 2021.",
+      "2021년 4월 현재까지 한국전쟁에서 실종된 미군은 7,600명이다."
+    ],
+    "mutants": [
+      [
+        "there are 7,600 asian soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재까지 한국전쟁에서 실종된 아시아군은 7,600명이다.",
+        1.0
+      ],
+      [
+        "there are 7,600 african soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국전쟁에서 실종된 아프리카 군인은 7,600명이다.",
+        0.8333333333333334
+      ],
+      [
+        "there are 7,600 caucasian soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국전쟁에서 실종된 백인 군인은 7,600명이다.",
+        0.8333333333333334
+      ],
+      [
+        "there are 7,600 chinese soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국전쟁에서 실종된 중국군은 7,600명이다.",
+        0.8333333333333334
+      ],
+      [
+        "there are 7,600 europian soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국전쟁으로 행방불명된 유럽군 병사는 7600명이다.",
+        1.0
+      ],
+      [
+        "there are 7,600 indian soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국전쟁에서 실종된 인도군은 7,600명이다.",
+        0.8333333333333334
+      ],
+      [
+        "there are 7,600 korean soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국전쟁에서 실종된 한국군은 7,600명이다.",
+        0.8333333333333334
+      ],
+      [
+        "there are 7,600 japanese soldiers still unaccounted for from the korean war as of april 2021.",
+        "2021년 4월 현재 한국 전쟁에서 아직 행방불명된 일본군은 7,600명이다.",
+        1.0
+      ]
+    ]
+  },
+  "1885571048": {
+    "original_sentence": [
+      "there has never been a peace treaty, so technically, the korean war has never ended.",
+      "평화 조약이 없었기 때문에 기술적으로 한국 전쟁은 끝난 적이 없습니다."
+    ],
+    "mutants": [
+      [
+        "there has never been a peace treaty, so technically, the asian war has never ended.",
+        "평화 조약이 없었기 때문에 기술적으로 아시아 전쟁은 끝난 적이 없습니다.",
+        1.0
+      ],
+      [
+        "there has never been a peace treaty, so technically, the african war has never ended.",
+        "평화 조약이 없었기 때문에 기술적으로 아프리카 전쟁은 끝난 적이 없습니다.",
+        1.0
+      ],
+      [
+        "there has never been a peace treaty, so technically, the american war has never ended.",
+        "평화 조약은 없었으므로 기술적으로 미국 전쟁은 끝난 적이 없습니다.",
+        0.8571428571428572
+      ],
+      [
+        "there has never been a peace treaty, so technically, the caucasian war has never ended.",
+        "평화 조약은 없었으므로 기술적으로 백인 전쟁은 끝나지 않았습니다.",
+        0.4285714285714286
+      ],
+      [
+        "there has never been a peace treaty, so technically, the chinese war has never ended.",
+        "평화 조약이 없었기 때문에 기술적으로 중국 전쟁은 끝난 적이 없습니다.",
+        1.0
+      ],
+      [
+        "there has never been a peace treaty, so technically, the europian war has never ended.",
+        "평화 조약이 없었기 때문에 기술적으로 유럽 전쟁은 끝난 적이 없습니다.",
+        1.0
+      ],
+      [
+        "there has never been a peace treaty, so technically, the indian war has never ended.",
+        "평화 조약이 없었기 때문에 기술적으로 인도 전쟁은 끝난 적이 없습니다.",
+        1.0
+      ],
+      [
+        "there has never been a peace treaty, so technically, the japanese war has never ended.",
+        "평화 조약이 없었기 때문에 기술적으로 일본 전쟁은 끝난 적이 없습니다.",
+        1.0
+      ]
+    ]
+  },
+  "371970547": {
+    "original_sentence": [
+      "september 9, 1948 - north korean communists establish the democratic people's republic of korea.",
+      "1948년 9월 9일 - 북한 공산주의자들이 조선민주주의인민공화국을 수립하다."
+    ],
+    "mutants": [
+      [
+        "september 9, 1948 - north asian communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북아시아 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north african communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북아프리카 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north american communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북미 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north caucasian communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북 백인 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north chinese communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북중국 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north europian communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북유럽 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north indian communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북인도 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ],
+      [
+        "september 9, 1948 - north japanese communists establish the democratic people's republic of korea.",
+        "1948년 9월 9일 - 북일 공산주의자들이 조선민주주의인민공화국을 수립하다.",
+        1.0
+      ]
+    ]
+  },
+  "-1813328283": {
+    "original_sentence": [
+      "june 25, 1950 - 135,000 soldiers from the communist north korean people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+      "1950년 6월 25일 - 공산주의 북한 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다."
+    ],
+    "mutants": [
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north asian people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 공산주의 북아시아 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        1.0
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north african people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 공산주의 북아프리카 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        1.0
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north american people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 135,000명의 공산주의 북미 인민군(nkpa) 군인이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        0.9
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north caucasian people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 공산주의 북쪽 백인 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        1.0
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north chinese people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 공산주의 북중국 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        1.0
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north europian people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 공산주의 북유럽 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        1.0
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north indian people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 공산주의 북인도 인민군(nkpa)의 군인 135,000명이 38선을 넘어 대한민국(rok)을 침공합니다.",
+        1.0
+      ],
+      [
+        "june 25, 1950 - 135,000 soldiers from the communist north japanese people's army (nkpa) cross the 38th parallel and invade republic of korea (rok).",
+        "1950년 6월 25일 - 135,000명의 공산주의 북 일본 인민군(nkpa) 병사들이 38선을 넘어 대한민국(rok)을 침공한다.",
+        0.8
+      ]
+    ]
+  },
+  "1444484029": {
+    "original_sentence": [
+      "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate american dependents from korea and to assist the rok army.",
+      "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 미군을 철수시키고 한국군을 돕도록 지시한다."
+    ],
+    "mutants": [
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate asian dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 아시아계 부양가족을 대피시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate african dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 아프리카 부양가족을 대피시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate caucasian dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 백인 가족을 대피시키고 대한민국 군대를 돕도록 지시합니다.",
+        0.9333333333333333
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate chinese dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 중국군을 대피시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate europian dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 유럽인 부양가족을 대피시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate indian dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 인도 가족들을 철수시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate korean dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 한국군을 철수시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ],
+      [
+        "june 26, 1950 - us president harry s. truman directs general douglas macarthur to evacuate japanese dependents from korea and to assist the rok army.",
+        "1950년 6월 26일 - 우리 대통령 해리 S. 트루먼은 더글라스 맥아더 장군에게 한국에서 일본군을 대피시키고 한국군을 돕도록 지시한다.",
+        1.0
+      ]
+    ]
+  },
+  "-1398407290": {
+    "original_sentence": [
+      "july 1950 - in the first month of the war, us soldiers kill significant numbers of korean civilians under a bridge, near a village called no gun ri.",
+      "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노근리라는 마을 근처의 다리 아래에서 상당수의 한국 민간인을 죽였습니다."
+    ],
+    "mutants": [
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of asian civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들이 노근리라는 마을 근처의 다리 아래에서 상당수의 아시아 민간인을 죽였습니다.",
+        0.9375
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of african civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노근리라는 마을 근처의 다리 아래에서 상당수의 아프리카 민간인을 죽였습니다.",
+        1.0
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of american civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노근리라는 마을 근처의 다리 아래에서 상당수의 미국 민간인을 죽였습니다.",
+        1.0
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of caucasian civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노근리라는 마을 근처의 다리 아래에서 상당수의 백인 민간인을 죽였습니다.",
+        1.0
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of chinese civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노근리라는 마을 근처의 다리 아래에서 상당수의 중국 민간인을 죽였습니다.",
+        1.0
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of europian civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노근리라는 마을 근처의 다리 아래에서 상당수의 유럽 민간인을 죽였습니다.",
+        1.0
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of indian civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들이 노군리라는 마을 근처의 다리 아래에서 상당수의 인도 민간인을 죽였습니다.",
+        0.9333333333333333
+      ],
+      [
+        "july 1950 - in the first month of the war, us soldiers kill significant numbers of japanese civilians under a bridge, near a village called no gun ri.",
+        "1950년 7월 - 전쟁 첫 달에 우리 군인들은 노군리라는 마을 근처의 다리 아래에서 상당수의 일본 민간인을 죽였습니다.",
+        0.9375
+      ]
+    ]
+  },
+  "-83923680": {
+    "original_sentence": [
+      "the first american casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+      "한국 전쟁의 첫 번째 미국인 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다."
+    ],
+    "mutants": [
+      [
+        "the first asian casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국전쟁의 첫 아시아인 사상자가 이곳에서 사망했습니다. 웨스트버지니아의 케네스 샤드릭 일병입니다.",
+        0.6363636363636364
+      ],
+      [
+        "the first african casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국전쟁의 첫 번째 아프리카인 사상자가 이곳에서 사망했습니다. 웨스트버지니아의 케네스 샤드릭 일병입니다.",
+        0.7272727272727273
+      ],
+      [
+        "the first caucasian casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국 전쟁의 첫 번째 백인 사상자가 여기에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭입니다.",
+        0.8181818181818181
+      ],
+      [
+        "the first chinese casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국 전쟁의 첫 번째 중국인 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다.",
+        1.0
+      ],
+      [
+        "the first europian casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국 전쟁의 첫 번째 유럽인 사상자가 여기에서 사망했습니다. 웨스트 버지니아의 개인 케네스 샤드릭입니다.",
+        0.75
+      ],
+      [
+        "the first indian casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국 전쟁의 첫 번째 인디언 사상자가 여기서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다.",
+        0.9166666666666666
+      ],
+      [
+        "the first korean casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국 전쟁의 첫 번째 한국인 사상자가 여기에서 사망, 웨스트 버지니아의 개인 케네스 샤드릭.",
+        0.6666666666666667
+      ],
+      [
+        "the first japanese casualty of the korean war dies here, private kenneth shadrick of west virginia.",
+        "한국 전쟁의 첫 번째 일본군 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 개인 케네스 샤드릭입니다.",
+        0.8333333333333334
+      ]
+    ]
+  },
+  "322999582": {
+    "original_sentence": [
+      "july 27, 1953 - democratic people's republic of korea, chinese people's volunteers and the un sign an armistice agreement.",
+      "1953년 7월 27일 - 조선민주주의인민공화국, 중국인민지원군, 유엔군이 휴전협정에 서명하다."
+    ],
+    "mutants": [
+      [
+        "july 27, 1953 - democratic people's republic of korea, asian people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 아시아인민지원군, 유엔군이 정전협정에 서명하다.",
+        0.875
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, african people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 아프리카인민지원군, 유엔군이 정전협정에 서명하다.",
+        0.875
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, american people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 미주 자원봉사자, 유엔이 휴전협정에 서명하다.",
+        1.0
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, caucasian people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 백인 인민지원군과 유엔이 휴전협정에 서명하다.",
+        1.0
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, europian people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 유럽인민지원군과 유엔이 휴전협정에 서명하다.",
+        1.0
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, indian people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 인도인민지원군, 유엔군이 휴전협정에 서명하다.",
+        1.0
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, korean people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 조선인민의원군, 유엔군이 정전협정에 서명하다.",
+        0.875
+      ],
+      [
+        "july 27, 1953 - democratic people's republic of korea, japanese people's volunteers and the un sign an armistice agreement.",
+        "1953년 7월 27일 - 조선민주주의인민공화국, 일본인민지원군, 유엔군이 정전협정에 서명하다.",
+        0.875
+      ]
+    ]
+  },
+  "442017779": {
+    "original_sentence": [
+      "april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased.",
+      "2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담."
+    ],
+    "mutants": [
+      [
+        "april 27, 2018 - during a day-long summit, south asian president moon jae-in and north asian leader kim jong un pledge to formally end the asian war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 남아시아의 문재인 대통령과 김정은 북한 국무위원장은 하루 만에 열린 정상회담에서 적대 행위가 중단된 지 65년 만에 아시아 전쟁을 공식적으로 종식하기로 약속했습니다.",
+        0.625
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south african president moon jae-in and north african leader kim jong un pledge to formally end the african war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 하루 동안의 정상회담에서 문재인 남아프리카 공화국 대통령과 김정은 북한 국무위원장이 적대 행위가 중단된 지 65년 만에 아프리카 전쟁을 공식적으로 종식하기로 약속했습니다.",
+        0.55
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south american president moon jae-in and north american leader kim jong un pledge to formally end the american war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 남아메리카의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.",
+        1.0
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south caucasian president moon jae-in and north caucasian leader kim jong un pledge to formally end the caucasian war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 남북정상회담에서 문재인 대통령과 김정은 북한 국무위원장은 적대행위가 중단된 지 65년 만에 백인 전쟁을 공식적으로 종식하기로 약속했다.",
+        0.6666666666666667
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south chinese president moon jae-in and north chinese leader kim jong un pledge to formally end the chinese war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 하루 동안의 정상회담에서 문재인 대통령과 김정은 북한 국무위원장이 적대 행위가 중단된 지 65년 만에 중국 전쟁을 공식적으로 끝내기로 약속했습니다.",
+        0.6111111111111112
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south europian president moon jae-in and north europian leader kim jong un pledge to formally end the europian war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 남유럽의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 유럽 전쟁을 공식적으로 종식하기로 약속한 하루 동안의 정상회담에서.",
+        0.9166666666666666
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south indian president moon jae-in and north indian leader kim jong un pledge to formally end the indian war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 남인도 대통령 문재인과 김정은 북한 국무위원장이 65년 만에 인도 전쟁을 공식적으로 종식하기로 약속한 하루 동안의 정상회담에서.",
+        0.75
+      ],
+      [
+        "april 27, 2018 - during a day-long summit, south japanese president moon jae-in and north japanese leader kim jong un pledge to formally end the japanese war, 65 years after hostilities ceased.",
+        "2018년 4월 27일 - 남일의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 일본과의 전쟁을 공식적으로 끝내기로 약속한 하루 동안의 정상회담에서.",
+        0.9166666666666666
+      ]
+    ]
+  },
+  "911590772": {
+    "original_sentence": [
+      "today, individuals or small groups trying to validate their attacks by claiming allegiance to isis seem like the next terror phase, with isis advocating attacks but neither directing nor even contacting attackers: in france and other european countries, and the united states, from a national day of celebration in nice to a gay club in orlando to an office party in san bernardino.",
+      "오늘날 ISIS에 대한 충성을 주장하여 공격을 검증하려는 개인 또는 소규모 그룹은 다음 테러 단계처럼 보입니다. ISIS는 공격을 옹호하지만 공격자를 지시하거나 접촉하지도 않습니다. 프랑스 및 기타 유럽 국가, 미국에서 샌 버나디노의 사무실 파티에 올랜도의 게이 클럽에 좋은 축하의 날."
+    ],
+    "mutants": []
+  },
+  "2125851345": {
+    "original_sentence": [
+      "they opposed america's presence overseas, and they detested american culture.",
+      "그들은 해외에서 미국의 존재를 반대했고 미국 문화를 혐오했습니다."
+    ],
+    "mutants": [
+      [
+        "they opposed america's presence overseas, and they detested asian culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 아시아 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested african culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 아프리카 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested caucasian culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 백인 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested chinese culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 중국 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested europian culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 유럽 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested indian culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 인도 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested korean culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 한국 문화를 혐오했습니다.",
+        1.0
+      ],
+      [
+        "they opposed america's presence overseas, and they detested japanese culture.",
+        "그들은 해외에서 미국의 존재를 반대했고 일본 문화를 혐오했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1889081506": {
+    "original_sentence": [
+      "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin american and africa.",
+      "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴 아메리카와 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다."
+    ],
+    "mutants": [
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin asian and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴 아시아와 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin african and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴 아프리카와 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin caucasian and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴계 백인과 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin chinese and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴계와 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin europian and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴 유럽과 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin indian and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴계 인도와 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin korean and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 피델 카스트로 정권이 한국과 아프리카의 라틴 아메리카 공산주의 단체를 후원하고 있다고 비난했습니다.",
+        0.8333333333333334
+      ],
+      [
+        "read: shift in cuba politics boosts obama, challenges rubio cuba was originally placed on the terror list in 1982 when the u.s. government accused the fidel castro regime of sponsoring communist groups in latin japanese and africa.",
+        "읽기: 쿠바 정치의 변화는 오바마를 부양하고, 루비오 쿠바는 원래 1982년 미국이 테러리스트 목록에 올라갔을 때 도전했습니다. 정부는 라틴계 일본과 아프리카의 공산주의 단체를 후원하는 피델 카스트로 정권을 비난했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "783476874": {
+    "original_sentence": [
+      "american visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+      "미국 방문자는 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다."
+    ],
+    "mutants": [
+      [
+        "asian visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "아시아인 방문객은 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다.",
+        1.0
+      ],
+      [
+        "african visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "아프리카 방문객은 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다.",
+        1.0
+      ],
+      [
+        "caucasian visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "코카서스인 방문객은 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다.",
+        1.0
+      ],
+      [
+        "chinese visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "중국인 방문자는 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다.",
+        1.0
+      ],
+      [
+        "europian visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "유럽인 방문자는 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 합니다. 재무부를 통해 여행 허가를 더 쉽게 얻을 수 있습니다.",
+        0.8235294117647058
+      ],
+      [
+        "indian visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "인도 방문객은 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다.",
+        1.0
+      ],
+      [
+        "korean visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "한국 방문자는 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 받기 쉽게 만들었습니다.",
+        0.8666666666666667
+      ],
+      [
+        "japanese visitors are still required to obtain a license from the federal government before traveling to cuba, though the treasury has made it easier to obtain permission to go.",
+        "일본 방문자는 쿠바로 여행하기 전에 연방 정부로부터 허가를 받아야 하지만 재무부는 여행 허가를 더 쉽게 얻을 수 있도록 했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1937238023": {
+    "original_sentence": [
+      "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely american diplomats will be able to move around cuba -- remain.",
+      "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 미국 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다."
+    ],
+    "mutants": [
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely asian diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 아시아 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        1.0
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely african diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 아프리카 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        1.0
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely caucasian diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나에 있는 대사관 재개를 협상하고 있지만 백인 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        0.95
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely chinese diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 중국 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        1.0
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely europian diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 유럽 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        1.0
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely indian diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 인도 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        1.0
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely korean diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나에 있는 대사관 재개를 협상하고 있지만 한국 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        0.95
+      ],
+      [
+        "officials have been negotiating the reopening of embassies in washington and havana, though some sticking points -- like how freely japanese diplomats will be able to move around cuba -- remain.",
+        "관리들은 워싱턴과 아바나의 대사관 재개를 협상하고 있지만 일본 외교관이 쿠바를 얼마나 자유롭게 이동할 수 있는지와 같은 몇 가지 문제가 남아 있습니다.",
+        1.0
+      ]
+    ]
+  },
+  "2093913258": {
+    "original_sentence": [
+      "the massacre of some of france's top cartoonists has turned a american nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+      "프랑스 최고의 만화가 중 일부의 학살은 미국의 악몽을 현실로 바꾸어 놓았습니다."
+    ],
+    "mutants": [
+      [
+        "the massacre of some of france's top cartoonists has turned a asian nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "일부 프랑스 최고의 만화가에 대한 학살은 아시아의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.7777777777777778
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a african nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "프랑스 최고의 만화가 중 일부에 대한 학살은 아프리카의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.9
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a caucasian nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "프랑스 최고의 만화가 중 일부에 대한 학살은 백인의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.9
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a chinese nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "프랑스 최고의 만화가 중 일부에 대한 학살은 중국의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.9
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a europian nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "프랑스 최고의 만화가 중 일부에 대한 학살은 유럽의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.9
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a indian nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "일부 프랑스 최고의 만화가에 대한 학살은 인도의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.7777777777777778
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a korean nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "프랑스 최고의 만화가 중 일부에 대한 학살은 한국의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.9
+      ],
+      [
+        "the massacre of some of france's top cartoonists has turned a japanese nightmare -- that western jihadists could return from war on terror battlefields to wreak carnage at home -- into reality.",
+        "일부 프랑스 최고의 만화가에 대한 대학살은 일본의 악몽을 현실로 바꾸어 놓았습니다.",
+        0.8571428571428572
+      ]
+    ]
+  },
+  "-1906304716": {
+    "original_sentence": [
+      "the chilling revelations open up a potentially dangerous new phase of the struggle against global terrorism because thousands of european fighters are estimated to be fighting with isis and other extremist groups -- a rich pool of radicals who could overwhelm western intelligence agencies should they come home with orders to sow terrorist panic at home.",
+      "소름 끼치는 폭로가 세계 테러와의 투쟁에서 잠재적으로 위험한 새로운 단계를 열어줍니다. 수천 명의 유럽 전사들이 ISIS 및 기타 극단주의 단체와 싸우고 있는 것으로 추정되기 때문입니다. 집에 테러 공황을 뿌릴 것을 명령합니다."
+    ],
+    "mutants": []
+  },
+  "-1136373007": {
+    "original_sentence": [
+      "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on american no-fly lists like the kouachi brothers -- could get into the united states.",
+      "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 쿠아치 형제와 같은 미국 비행 금지 목록에 없는 동맹 정보 기관은 미국에 들어갈 수 있습니다."
+    ],
+    "mutants": [
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on asian no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 그리고 연합군 정보국과 쿠아치 형제와 같은 아시아 비행 금지 목록에 없는 사람은 미국에 들어갈 수 있습니다.",
+        0.9375
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on african no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 쿠아치 형제와 같은 아프리카 비행 금지 목록에 없는 동맹 정보 기관은 미국에 들어갈 수 있습니다.",
+        1.0
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on caucasian no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 그리고 연합 정보국과 쿠아치 형제처럼 백인 비행 금지 목록에 없는 사람은 미국에 들어갈 수 있습니다.",
+        0.8709677419354839
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on chinese no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 그리고 연합군 정보국과 쿠아치 형제처럼 중국의 비행 금지 목록에 없는 사람은 미국에 들어갈 수 있습니다.",
+        0.8709677419354839
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on europian no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 그리고 연합군 정보국과 쿠아치 형제처럼 유럽의 비행 금지 목록에 없는 사람은 미국에 들어갈 수 있습니다.",
+        0.8709677419354839
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on indian no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 쿠아치 형제처럼 인도의 비행 금지 목록에 없는 동맹 정보 기관은 미국에 들어갈 수 있습니다.",
+        1.0
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on korean no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. 쿠아치 형제처럼 한국의 비행 금지 목록에 없는 동맹 정보 기관은 미국에 들어갈 수 있습니다.",
+        1.0
+      ],
+      [
+        "since many western jihadists have european union passports, they enjoy visa-free access to the united states, opening the possibility that someone -- not known to u.s. and allied intelligence services and who is not on japanese no-fly lists like the kouachi brothers -- could get into the united states.",
+        "많은 서방 지하디스트들이 유럽 연합 여권을 가지고 있기 때문에 그들은 미국에 무비자로 미국에 갈 수 있는 기회를 누리고 있습니다. kouachi 형제와 같은 일본의 비행 금지 목록에 없는 동맹 정보 기관은 미국에 들어갈 수 있습니다.",
+        0.9696969696969697
+      ]
+    ]
+  },
+  "-1682457155": {
+    "original_sentence": [
+      "in this new front on the war on terror, extremists no longer need to infiltrate fighters on daring missions to set off car bombs in european cities or to hijack fuel-laden airplanes to knock down skyscrapers.",
+      "테러와의 전쟁에 대한 이 새로운 전선에서 극단주의자들은 더 이상 유럽 도시에서 자동차 폭탄을 터뜨리거나 고층 빌딩을 무너뜨리기 위해 연료가 실린 비행기를 납치하기 위해 대담한 임무를 수행하기 위해 전투기에 침투할 필요가 없습니다."
+    ],
+    "mutants": []
+  },
+  "1489674649": {
+    "original_sentence": [
+      "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto american soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+      "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 미국 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다."
+    ],
+    "mutants": [
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto asian soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 아시아 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        1.0
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto african soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 아프리카 땅에 쉽게 들어갈 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        0.9696969696969697
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto caucasian soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 백인 땅에 쉽게 들어갈 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 내보낼 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        0.9393939393939394
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto chinese soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 중국 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 과격파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        0.9696969696969697
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto europian soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 유럽 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        1.0
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto indian soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 인도 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        1.0
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto korean soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 한국 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 수출할 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        0.9696969696969697
+      ],
+      [
+        "read: paris attack sparks d.c. budget fight but the white house has long voiced fears that because of visa waiver programs with the united states, europeans enjoy easy entry onto japanese soil, and radicals armed with nothing more than their maroon european union passports could, in theory, export their terror.",
+        "읽기: 파리 공격 스파크 d.c. 그러나 백악관은 미국과의 비자 면제 프로그램으로 인해 유럽인들이 일본 땅에 쉽게 입국할 수 있고 적갈색 유럽 연합 여권으로 무장한 급진파가 이론상 테러를 퍼뜨릴 수 있다는 두려움을 오랫동안 표명해 왔습니다.",
+        1.0
+      ]
+    ]
+  },
+  "-1576243897": {
+    "original_sentence": [
+      "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to american counterterrorism officials.",
+      "서부 목표물을 공격할 기술과 동기를 지닌 수천 명의 급진화되고 훈련되고 전투로 단련된 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 미국 대테러 관리 관리들에게 깊은 우려를 불러일으키고 있습니다."
+    ],
+    "mutants": [
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to asian counterterrorism officials.",
+        "서방의 목표물을 공격할 기술과 동기를 가진 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 아시아 대테러 관리들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.8260869565217391
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to african counterterrorism officials.",
+        "서구의 목표물을 공격할 기술과 동기를 가진 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 아프리카 대테러 관리들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.8260869565217391
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to caucasian counterterrorism officials.",
+        "서부 목표물을 공격할 기술과 동기를 지닌 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 백인 대테러 관리들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.9130434782608696
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to chinese counterterrorism officials.",
+        "서방의 목표물을 공격할 기술과 동기를 가진 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 중국 대테러 관리들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.8260869565217391
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to europian counterterrorism officials.",
+        "서구의 목표물을 공격할 기술과 동기를 지닌 수천 명의 급진화되고 훈련되고 전투로 단련된 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 유럽의 대테러 관리 관리들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.9615384615384616
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to indian counterterrorism officials.",
+        "서방의 목표물을 공격할 기술과 동기를 지닌 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 인도 대테러 관리들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.8695652173913043
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to korean counterterrorism officials.",
+        "서방의 목표물을 공격할 기술과 동기를 지닌 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 한국의 대테러 당국자들에게 깊은 우려를 불러일으키고 있습니다.",
+        0.8260869565217391
+      ],
+      [
+        "the fact that thousands of radicalized, trained and battle-hardened killers with the skills and motivation to attack western targets could be coming home from war is deeply concerning to japanese counterterrorism officials.",
+        "서방의 목표물을 공격할 기술과 동기를 가진 과격하고 훈련되고 전투에 단련된 수천 명의 살인마가 전쟁에서 집으로 돌아올 수 있다는 사실은 일본 대테러 관리들에게 깊은 우려를 낳습니다.",
+        0.7391304347826086
+      ]
+    ]
+  },
+  "1806101860": {
+    "original_sentence": [
+      "thomas sanderson, an expert on international terrorism at the center for strategic and international studies, said the risk to the united states from european fighters believed to have returned home after fighting in syria and elsewhere was significant.",
+      "전략 및 국제 연구 센터의 국제 테러 전문가인 토마스 샌더슨은 시리아와 다른 곳에서 싸운 후 집으로 돌아온 것으로 여겨지는 유럽 전사들이 미국에 미칠 위험이 상당하다고 말했습니다."
+    ],
+    "mutants": []
+  },
+  "-718044913": {
+    "original_sentence": [
+      "november 21, 2012 - kasab is executed at 7:30 a.m. in an indian prison.",
+      "2012년 11월 21일 - 카사브는 오전 7시 30분에 인도 교도소에서 처형됩니다."
+    ],
+    "mutants": [
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an asian prison.",
+        "2012년 11월 21일 - 카사브는 오전 7시 30분에 아시아 감옥에서 처형되었습니다.",
+        1.0
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an african prison.",
+        "2012년 11월 21일 - 카사브는 아프리카 감옥에서 오전 7시 30분에 처형됩니다.",
+        1.0
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an american prison.",
+        "2012년 11월 21일 - 카사브는 미국 교도소에서 오전 7시 30분에 처형됩니다.",
+        1.0
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an caucasian prison.",
+        "2012년 11월 21일 - 카사브는 백인 교도소에서 오전 7시 30분에 처형됩니다.",
+        1.0
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an chinese prison.",
+        "2012년 11월 21일 - 카사브는 중국 교도소에서 오전 7시 30분에 처형되었습니다.",
+        0.8888888888888888
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an europian prison.",
+        "2012년 11월 21일 - 카사브는 유럽 감옥에서 오전 7시 30분에 처형됩니다.",
+        1.0
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an korean prison.",
+        "2012년 11월 21일 - 카사브는 한국 교도소에서 오전 7시 30분에 처형된다.",
+        0.8888888888888888
+      ],
+      [
+        "november 21, 2012 - kasab is executed at 7:30 a.m. in an japanese prison.",
+        "2012년 11월 21일 - 카사브는 일본 교도소에서 오전 7시 30분에 처형됩니다.",
+        1.0
+      ]
+    ]
+  },
+  "1568861636": {
+    "original_sentence": [
+      "the american rock band allah-las was scheduled to perform, the band's website said.",
+      "미국 록 밴드 allah-las의 공연이 예정되어 있었다고 밴드 웹사이트가 전했다."
+    ],
+    "mutants": [
+      [
+        "the asian rock band allah-las was scheduled to perform, the band's website said.",
+        "아시아 록 밴드 allah-las의 공연이 예정되어 있었다고 밴드의 웹사이트가 전했다.",
+        0.8888888888888888
+      ],
+      [
+        "the african rock band allah-las was scheduled to perform, the band's website said.",
+        "아프리카 록 밴드 allah-las의 공연이 예정되어 있었다고 밴드의 웹사이트가 전했다.",
+        0.8888888888888888
+      ],
+      [
+        "the caucasian rock band allah-las was scheduled to perform, the band's website said.",
+        "백인 록 밴드 allah-las의 공연이 예정되어 있다고 밴드의 웹사이트가 밝혔다.",
+        0.75
+      ],
+      [
+        "the chinese rock band allah-las was scheduled to perform, the band's website said.",
+        "밴드 웹사이트에 따르면 중국 록 밴드 알라라스의 공연이 예정되어 있었다.",
+        0.5
+      ],
+      [
+        "the europian rock band allah-las was scheduled to perform, the band's website said.",
+        "유럽의 록 밴드 allah-las의 공연이 예정되어 있다고 밴드의 웹사이트가 밝혔다.",
+        0.75
+      ],
+      [
+        "the indian rock band allah-las was scheduled to perform, the band's website said.",
+        "밴드 웹사이트에 따르면 인도 록 밴드 알라라스의 공연이 예정되어 있었다.",
+        0.5
+      ],
+      [
+        "the korean rock band allah-las was scheduled to perform, the band's website said.",
+        "한국 록 밴드 allah-las의 공연이 예정되어 있다고 밴드의 웹사이트가 밝혔다.",
+        0.75
+      ],
+      [
+        "the japanese rock band allah-las was scheduled to perform, the band's website said.",
+        "일본 록 밴드 allah-las의 공연이 예정되어 있었다고 밴드의 웹사이트가 전했다.",
+        0.8888888888888888
+      ]
+    ]
+  }
+}

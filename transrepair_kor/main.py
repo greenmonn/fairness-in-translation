@@ -33,10 +33,13 @@ def print_debug(log, debug=False):
 
 
 class RemoteTranslator:
+    translator = None
     def __init__(self, provider):
         self.provider = provider
         if provider == "Google":
-            self.translator = Translator()
+            if RemoteTranslator.translator is None:
+                RemoteTranslator.translator = Translator()
+            self.translator = RemoteTranslator.translator
 
         elif provider == "Papago":
             self.client_id = 'U8lk_RxPtD4Lh39Xzy4f'
@@ -48,8 +51,8 @@ class RemoteTranslator:
             for _ in range(max_try):
                 try:
                     return self.translator.translate(sentence, dest=dest).text
-                except HTTPError as exc:
-                    print(f"Error response {exc.response.status_code} while requesting {exc.request.url!r}.")
+                except Exception as exc:
+                    traceback.print_exc()
                     time.sleep(5)
 
             traceback.print_exc()
@@ -74,6 +77,7 @@ class RemoteTranslator:
 class Sentence:
     def __init__(self, sentence, src='ko', dest='en', translator=RemoteTranslator('Google'), debug=False):
         self.sentence = sentence
+        self.is_repaired = False
         start_time = time.time()
         self.translated = translator.translate(sentence, src, dest)
         after_translate_time = time.time()
@@ -105,6 +109,19 @@ class Sentence:
                     mutable_words[word_type].append((word[0], i))
 
         return mutable_words
+
+    def repair(self, mutant):
+        mutant_translation, src_aligned, dest_aligned = mutant.translated, mutant.mutant_dest_alignment, mutant.mutant_src_alignment
+
+        self.is_repaired = True
+        self.original_translated = self.translated 
+        self.applied_mutant = mutant
+        self.mutant_translated = mutant_translation
+        
+        repaired_translation = mutant_translation.replace(src_aligned, dest_aligned)
+        self.translated = repaired_translation
+        self.src_aligned = src_aligned
+        self.dest_aligned = dest_aligned
 
     def create_mutations(self, word_embedding_model=FASTTEXT_MODEL, konlpy_model=KONLPY_MODEL, debug=False):
         mutant_dict = {}
@@ -243,9 +260,9 @@ def test_consistency(original, mutants, threshold=SIMILARITY_TEST_THRESHOLD, deb
         if score < threshold:
             if debug:
                 print_debug(f'Inconsistent mutant: {mutant} [{score}]', debug=debug)
-            return False
+            return False, (mutant, score)
 
-    return True
+    return True, (None, -1.0)
 
 
 def translation_ranking(sentences):
@@ -278,9 +295,7 @@ def repair(original, mutants, debug=False):
         # if len(translated_original) == len(translated_mutant):
 
         new_original = Sentence(original.sentence)
-        new_original.translated = sentence.translated
-        new_original.translated = new_original.translated.replace(sentence.mutant_dest_alignment,
-                                                                  sentence.mutant_src_alignment)
+        new_original.repair(sentence)
 
         if test_consistency(new_original, mutants, debug=debug):
             return new_original

@@ -1,0 +1,296 @@
+{
+  "1536013693": {
+    "original_sentence": [
+      "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said islam aloush, a spokesman for a rebel umbrella group that calls itself the islamic front.",
+      "이슬람 전선을 자칭하는 반군 우산 단체의 대변인인 이슬람 알루쉬는 \"그들(IS)은 공격적이 되었으며 침입에서 극단주의적 의제에 대한 공격으로 레드 라인을 넘었다\"고 말했다."
+    ],
+    "mutants": [
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said confucianism aloush, a spokesman for a rebel umbrella group that calls itself the confucianismic front.",
+        "유교 전선이라고 자칭하는 반군 우산 단체의 대변인인 유교 알루쉬는 \"이시스(IS)는 공격적이 되었고, 불법 침입에서 극단주의적 의제에 대한 공격으로 경계선을 넘었다\"고 말했다.",
+        0.7
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said taoism aloush, a spokesman for a rebel umbrella group that calls itself the taoismic front.",
+        "스스로를 도교 전선이라고 부르는 반군 우산 단체의 대변인인 도교 알루쉬는 \"그들(IS)은 공격적으로 변했고, 침입에서 극단주의적 의제에 대한 공격으로 경계선을 넘었다\"고 말했다.",
+        0.7222222222222222
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said buddhism aloush, a spokesman for a rebel umbrella group that calls itself the buddhismic front.",
+        "스스로를 불교 전선이라고 칭하는 반군 우산 단체의 대변인인 불교 알루쉬는 \"그들(IS)은 공격적이 되었으며 침입에서 극단주의적 의제에 대한 공격으로 레드 라인을 넘었다\"고 말했다.",
+        0.9444444444444444
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said hinduism aloush, a spokesman for a rebel umbrella group that calls itself the hinduismic front.",
+        "힌두교 전선이라고 자칭하는 반군 우산 단체의 대변인인 힌두교 알루쉬는 \"이시스(Isis)는 공격적으로 변했고, 침입에서 극단주의적 의제에 대한 공격으로 경계선을 넘었다\"고 말했다.",
+        0.7222222222222222
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said islamism aloush, a spokesman for a rebel umbrella group that calls itself the islamismic front.",
+        "이슬람 전선을 자칭하는 반군 우산 단체의 대변인인 이슬람주의 알루쉬는 \"그들(IS)은 공격적으로 변했고, 침입에서 극단주의적 의제에 대한 공격으로 경계선을 넘었다\"고 말했다.",
+        0.8421052631578947
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said christianity aloush, a spokesman for a rebel umbrella group that calls itself the christianityic front.",
+        "기독교 전선이라고 자칭하는 반군 우산 단체의 대변인인 기독교 알루쉬는 \"그들(IS)은 공격적으로 변했고, 침입에서 극단주의적 의제에 대한 공격으로 경계선을 넘었다\"고 말했다.",
+        0.736842105263158
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said catholicism aloush, a spokesman for a rebel umbrella group that calls itself the catholicismic front.",
+        "카톨릭 전선이라고 자칭하는 반군 우산 단체의 대변인인 카톨릭 알루쉬는 \"그들(IS)은 공격적이 되었으며 침입에서 극단주의적 의제에 대한 공격으로 레드 라인을 넘었다\"고 말했다.",
+        0.9473684210526316
+      ],
+      [
+        "\"they (isis) have become aggressive, and they have crossed the red line from trespassing to assaults to their extremist agenda,\" said judaism aloush, a spokesman for a rebel umbrella group that calls itself the judaismic front.",
+        "자칭 유대교 전선이라고 자칭하는 반군 우산 단체의 대변인인 유대교 알루쉬는 \"그들(IS)은 공격적으로 변했고, 침입에서 극단주의적 의제에 대한 공격으로 레드 라인을 넘었다\"고 말했다.",
+        0.8421052631578947
+      ]
+    ]
+  },
+  "2093620382": {
+    "original_sentence": [
+      "the party is known for its connection to the muslim brotherhood, an organization that the uae labels as terrorist and whose rise it has worked to cap over the past decade.",
+      "이 정당은 아랍에미리트가 테러리스트로 분류하고 지난 10년 동안 조직의 부상을 막으려 노력한 조직인 이슬람 형제단과의 연결로 유명합니다."
+    ],
+    "mutants": []
+  },
+  "-51738204": {
+    "original_sentence": [
+      "the political motivation of their strikes was clear: intimidate america to leave muslim lands and al qaeda's latitude to undermine local governments would increase.",
+      "파업의 정치적 동기는 분명했습니다. 미국이 이슬람 땅을 떠나도록 위협하고 지방 정부를 훼손하려는 알카에다의 위도가 증가할 것이라는 점이었습니다."
+    ],
+    "mutants": []
+  },
+  "-1415385792": {
+    "original_sentence": [
+      "the individuals who motivated them shared the al qaedist way of thinking, starting with a focused ideology of cleansing muslim areas, ousting regional leaders, and preparing populations in those areas for the dawn of what al qaeda saw as a golden era.",
+      "그들에게 동기를 부여한 사람들은 이슬람 지역 청소, 지역 지도자 축출, 알카에다가 황금 시대로 본 여명기에 대비해 해당 지역의 인구를 준비시키는 집중적인 이데올로기에서 시작하여 알카에디스트적 사고 방식을 공유했습니다."
+    ],
+    "mutants": []
+  },
+  "-1855526955": {
+    "original_sentence": [
+      "a muslim who may have some affiliation with isis ideas without ever having met an isis member, and who appears also to have a personal grievance -- a marital problem, a psychological struggle -- murders dozens at a location that is not always readily identifiable as a political target.",
+      "이슬람교도는 이슬람교 신자를 만나본 적이 없고 이슬람교 사상과 관련이 있을 수 있으며 결혼 문제, 심리적 갈등 등 개인적인 불만이 있는 것으로 보이는 이슬람교도는 항상 쉽게 식별할 수 없는 위치에서 수십 명을 살해합니다. 정치적 표적."
+    ],
+    "mutants": []
+  },
+  "-355186522": {
+    "original_sentence": [
+      "in october, a convert to islam and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+      "10월에는 이슬람교로 개종하고 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해하여 테러를 일으켰습니다."
+    ],
+    "mutants": [
+      [
+        "in october, a convert to confucianism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에는 유교로 개종한 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9333333333333333
+      ],
+      [
+        "in october, a convert to taoism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에는 도교 개종자이자 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9333333333333333
+      ],
+      [
+        "in october, a convert to buddhism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에는 불교로 개종하고 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9375
+      ],
+      [
+        "in october, a convert to hinduism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에는 힌두교로 개종하고 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9375
+      ],
+      [
+        "in october, a convert to islamism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월, 이슬람교로 개종하고 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9375
+      ],
+      [
+        "in october, a convert to christianity and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에 기독교로 개종하고 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9333333333333333
+      ],
+      [
+        "in october, a convert to catholicism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에는 카톨릭 개종자이자 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9333333333333333
+      ],
+      [
+        "in october, a convert to judaism and self-appointed jihadist provoked terror in ottawa -- canada's sleepy capital city -- by gunning down a soldier standing guard at a national war memorial.",
+        "10월에 유대교로 개종하고 자칭 지하디스트가 캐나다의 졸린 수도인 오타와에서 국립 전쟁 기념관에서 경비병을 총으로 살해함으로써 테러를 일으켰습니다.",
+        0.9333333333333333
+      ]
+    ]
+  },
+  "1578889129": {
+    "original_sentence": [
+      "two days earlier, a canadian soldier was killed by a muslim convert using a car as a deadly weapon.",
+      "이틀 전, 한 캐나다 군인이 자동차를 치명적인 무기로 사용하는 이슬람 개종자에게 살해당했습니다."
+    ],
+    "mutants": []
+  },
+  "-1913792624": {
+    "original_sentence": [
+      "and in 2013, homegrown terror hit london, when two british muslim converts turned extremists hacked soldier lee rigby to death in a brazen daylight attack.",
+      "그리고 2013년에는 두 명의 영국 이슬람 개종자가 극단주의자로 변신한 런던을 강타한 테러가 뻔뻔스러운 대낮의 공격으로 군인 리 리그비를 해킹해 죽음에 이르게 했습니다."
+    ],
+    "mutants": []
+  },
+  "1578046316": {
+    "original_sentence": [
+      "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical islamic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+      "전직 국무부 이슬람 공동체 특사인 아드난 키파야트(Adnan Kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 이는 급진 이슬람 단체가 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하기 위해 모국에 머물도록 하는 캠페인에 성공하고 있음을 시사했기 때문입니다."
+    ],
+    "mutants": [
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical confucianismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전직 국무부 이슬람 공동체 특사인 아드난 키파야트(Adnan kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 왜냐하면 급진적인 유교 단체들이 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 모국에 머물도록 하는 캠페인에 성공하고 있다는 점을 시사했기 때문입니다.",
+        0.8333333333333334
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical taoismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전직 국무부 이슬람 공동체 특사인 아드난 키파야트(Adnan kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 이는 급진적 도교 단체가 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 이슬람을 급진화하려는 캠페인에 성공하고 있음을 시사했기 때문에 특히 심각하다고 말했습니다.",
+        0.78125
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical buddhismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전 국무부 이슬람 공동체 특사인 아드난 키파야트(adnan kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 이는 급진적인 불교 단체가 이제 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 모국에 남도록 하는 캠페인에 성공하고 있음을 시사했기 때문입니다.",
+        0.7878787878787878
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical hinduismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전 국무부 이슬람 공동체 특사인 아드난 키파야트(Adnan Kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 이는 급진적인 힌두교 단체가 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 하는 캠페인에 성공하고 있음을 시사하기 때문에 특히 심각하다고 말했습니다.",
+        0.8
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical islamismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전 국무부 이슬람 공동체 특사인 아드난 키파야트(adnan kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 이는 급진 이슬람 단체들이 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 모국에 머물도록 하는 캠페인에 성공하고 있음을 시사했기 때문입니다.",
+        0.875
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical christianityic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전 국무부 이슬람 공동체 특사인 아드난 키파야트(Adnan Kifayat)는 파리 공격은 급진적 기독교 단체가 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 모국에 머물도록 하는 캠페인에 성공하고 있음을 시사하기 때문에 특히 심각하다고 말했습니다.",
+        0.7241379310344828
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical catholicismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전 국무부 이슬람 공동체 특사인 아드난 키파야트(adnan kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 왜냐하면 급진적 가톨릭 단체가 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 모국에 머물도록 하는 캠페인에 성공하고 있다는 점을 시사했기 때문입니다.",
+        0.7741935483870968
+      ],
+      [
+        "adnan kifayat, a former state department envoy to muslim communities, said the paris attack was particularly serious because it suggested radical judaismic groups were now succeeding in their campaign to use propaganda and social media to radicalize muslims to stay in their home nations to conduct terrorism.",
+        "전 국무부 이슬람 공동체 특사인 아드난 키파야트(Adnan Kifayat)는 파리 공격이 특히 심각하다고 말했습니다. 이는 급진적 유대교 단체가 선전과 소셜 미디어를 사용하여 이슬람을 급진화하여 테러를 자행하도록 이슬람을 급진화하려는 캠페인에 성공하고 있음을 시사했기 때문에 특히 심각하다고 말했습니다.",
+        0.78125
+      ]
+    ]
+  },
+  "-340225584": {
+    "original_sentence": [
+      "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized islamists.",
+      "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 이슬람주의자들에 의한 대규모 공격을 거의 피했습니다."
+    ],
+    "mutants": [
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized confucianismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 유교주의자들에 의한 대규모 공격을 거의 무사했습니다.",
+        0.9722222222222222
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized taoismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 도교주의자들에 의한 대규모 공격을 거의 피했습니다.",
+        1.0
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized buddhismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 불교도들의 대규모 공격을 거의 피했습니다.",
+        1.0
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized hinduismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 힌두교도들의 대규모 공격을 거의 피했습니다.",
+        1.0
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized islamismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 이슬람주의자들에 의한 대규모 공격을 거의 피했습니다.",
+        1
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized christianityists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 기독교인들의 대규모 공격을 거의 피했습니다.",
+        1.0
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized catholicismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구가 있음에도 불구하고 수요일 공격이 프랑스에서 발생했다는 사실이 의미심장하다고 언급했다. , 과격한 천주교 신자들의 대규모 공격을 거의 피했습니다.",
+        0.8857142857142857
+      ],
+      [
+        "\"there hasn't been, to my knowledge, a major jihadist attack involving assault weapons in the west in memory,\" benjamin said, and also noted that it was significant that wednesday's assault took place in france, which despite having europe's biggest muslim population, has been largely spared large-scale attacks by radicalized judaismists.",
+        "벤자민은 \"내가 아는 한 서부에서 공격용 무기와 관련된 대규모 지하디스트 공격은 없었다\"고 말했다. 또한 유럽에서 가장 많은 이슬람 인구를 가지고 있음에도 불구하고 수요일의 공격이 프랑스에서 발생했다는 사실이 중요하다고 언급했다. , 과격한 유대교 주의자들의 대규모 공격을 크게 피했습니다.",
+        0.9714285714285714
+      ]
+    ]
+  },
+  "-1211635497": {
+    "original_sentence": [
+      "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a jewish community center.",
+      "나리만의 집: 2008년 11월 26-28일 - 유대인 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다."
+    ],
+    "mutants": [
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a confucianist community center.",
+        "nariman house: 2008년 11월 26-28일 - 유교 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9230769230769231
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a taoist community center.",
+        "나리만 집: 2008년 11월 26-28일 - 도교 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9285714285714286
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a buddhist community center.",
+        "나리만 집: 2008년 11월 26일~28일 - 불교 커뮤니티 센터에서 3일 간의 포위 공격으로 7명 사망.",
+        0.7692307692307692
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a hinduist community center.",
+        "nariman house: 2008년 11월 26-28일 - 힌두교 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9230769230769231
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a islamist community center.",
+        "nariman 집: 2008년 11월 26-28일 - 이슬람교 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9285714285714286
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a islamic community center.",
+        "nariman house: 2008년 11월 26-28일 - 이슬람 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9230769230769231
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a christian community center.",
+        "나리만 하우스: 2008년 11월 26-28일 - 기독교 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9230769230769231
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a catholic community center.",
+        "nariman house: 2008년 11월 26-28일 - 가톨릭 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        0.9230769230769231
+      ],
+      [
+        "nariman house: november 26-28, 2008 - seven people are killed in a three-day siege at a jews community center.",
+        "nariman house: 2008년 11월 26-28일 - 유대인 커뮤니티 센터에서 3일 간의 포위 공격으로 7명이 사망했습니다.",
+        1.0
+      ]
+    ]
+  },
+  "1685120866": {
+    "original_sentence": [
+      "to raise money for the plan, altman said, the men posed as workers for a muslim charity and collected 13,500 pounds.",
+      "알트만은 그 계획을 위한 기금을 마련하기 위해 이슬람 자선단체 노동자로 가장해 13,500파운드를 모았다고 말했다."
+    ],
+    "mutants": []
+  }
+}
