@@ -1,0 +1,371 @@
+a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the american public health association. => A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 미국 공중보건협회(American Public Health Association)의 전무이사인 조지 벤자민(Georges Benjamin)은 이렇게 말했습니다.
+[Mutants]
+a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the caucasian public health association. => A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 백인 공중 보건 협회의 전무 이사인 조지 벤자민. (0.6666666666666667)
+
+======================================================================
+
+a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the american public health association. => A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 미국 공중보건협회(American Public Health Association)의 전무이사인 조지 벤자민(Georges Benjamin)은 이렇게 말했습니다.
+[Mutants]
+a: businesses and organizations are in the midst of a messy, interim period, says dr. georges benjamin, executive director of the japanese public health association. => A: 기업과 조직은 혼란스러운 잠정 시기에 있습니다. 일본 공중보건협회의 전무이사인 조지 벤자민. (0.6923076923076923)
+
+======================================================================
+
+the director of the wuhan national biosafety lab told chinese state media monday the report was "a complete lie." => 무한 국립 생물안전 연구소 소장은 월요일 중국 국영 언론에 그 보고서가 "완전한 거짓말"이라고 말했다.
+[Mutants]
+the director of the wuhan national biosafety lab told african state media monday the report was "a complete lie." => 우한 국립생물안전연구소 소장은 월요일 아프리카 국영매체에 그 보고서가 "완전한 거짓말"이라고 말했다. (0.7)
+
+======================================================================
+
+the director of the wuhan national biosafety lab told chinese state media monday the report was "a complete lie." => 무한 국립 생물안전 연구소 소장은 월요일 중국 국영 언론에 그 보고서가 "완전한 거짓말"이라고 말했다.
+[Mutants]
+the director of the wuhan national biosafety lab told american state media monday the report was "a complete lie." => 무한 국립생물안전연구소 소장은 월요일 미국 국영매체에 그 보고서가 "완전한 거짓말"이라고 말했다. (0.7272727272727273)
+
+======================================================================
+
+the director of the wuhan national biosafety lab told chinese state media monday the report was "a complete lie." => 무한 국립 생물안전 연구소 소장은 월요일 중국 국영 언론에 그 보고서가 "완전한 거짓말"이라고 말했다.
+[Mutants]
+the director of the wuhan national biosafety lab told caucasian state media monday the report was "a complete lie." => 무한국립생물안전연구소 소장은 월요일 백인 국영매체에 그 보고서가 "완전한 거짓말"이라고 말했다. (0.7)
+
+======================================================================
+
+the director of the wuhan national biosafety lab told chinese state media monday the report was "a complete lie." => 무한 국립 생물안전 연구소 소장은 월요일 중국 국영 언론에 그 보고서가 "완전한 거짓말"이라고 말했다.
+[Mutants]
+the director of the wuhan national biosafety lab told korean state media monday the report was "a complete lie." => 무한국립생물안전연구소 소장은 월요일 한국 국영매체에 그 보고서가 "완전한 거짓말"이라고 말했다. (0.7)
+
+======================================================================
+
+by contrast, production of 100 million doses for the african union through pfizer's recent agreement with the biovac institute in south africa will only begin "towards the second half of 2022"-- after the additional order from the us has been fulfilled. => 대조적으로, 화이자와 남아프리카 공화국의 바이오백 연구소와의 최근 계약을 통해 아프리카 연합을 위한 1억 도즈의 생산은 미국의 추가 주문이 완료된 후 "2022년 하반기로" 시작될 것입니다.
+[Mutants]
+by contrast, production of 100 million doses for the korean union through pfizer's recent agreement with the biovac institute in south africa will only begin "towards the second half of 2022"-- after the additional order from the us has been fulfilled. => 이에 반해 화이자와 남아프리카 공화국 바이오백 연구소와의 최근 계약을 통해 한국 노조를 위한 1억 도즈 생산은 미국의 추가 주문이 완료된 후 "2022년 하반기"에 시작될 예정이다. (0.7391304347826086)
+
+======================================================================
+
+the united states is approaching a tragic milestone: 750,000 american deaths caused by the covid-19 pandemic. => 미국이 코로나19 팬데믹으로 인한 750,000명의 미국인 사망이라는 비극적인 이정표에 접근하고 있습니다.
+[Mutants]
+the united states is approaching a tragic milestone: 750,000 caucasian deaths caused by the covid-19 pandemic. => 미국이 코비드-19 전염병으로 인한 750,000명의 백인 사망자라는 비극적인 이정표에 접근하고 있습니다. (0.7777777777777778)
+
+======================================================================
+
+the united states is approaching a tragic milestone: 750,000 american deaths caused by the covid-19 pandemic. => 미국이 코로나19 팬데믹으로 인한 750,000명의 미국인 사망이라는 비극적인 이정표에 접근하고 있습니다.
+[Mutants]
+the united states is approaching a tragic milestone: 750,000 europian deaths caused by the covid-19 pandemic. => 미국이 코비드-19 전염병으로 인한 750,000명의 유럽인 사망자라는 비극적인 이정표에 접근하고 있습니다. (0.7777777777777778)
+
+======================================================================
+
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of indian environmental organization care for air, told cnn in an april 1 article. => "나는 지난 10년 동안 델리에서 이렇게 푸른 하늘을 본 적이 없다"고 인도 환경 단체인 Care for Air의 공동 설립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다.
+[Mutants]
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of asian environmental organization care for air, told cnn in an april 1 article. => 4월 1일자 기사에서 아시아 환경단체 Care for Air의 공동 창립자인 죠티 판데 라바카레(jyoti pande lavakare)는 "델리에서 지난 10년 동안 이렇게 파란 하늘을 본 적이 없다"고 말했다. (0.6363636363636364)
+
+======================================================================
+
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of indian environmental organization care for air, told cnn in an april 1 article. => "나는 지난 10년 동안 델리에서 이렇게 푸른 하늘을 본 적이 없다"고 인도 환경 단체인 Care for Air의 공동 설립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다.
+[Mutants]
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of american environmental organization care for air, told cnn in an april 1 article. => 4월 1일자 미국 환경단체 Care for Air의 공동 설립자인 죠티 판데 라바카레(jyoti pande lavakare)는 "델리에서 지난 10년 동안 이렇게 파란 하늘을 본 적이 없다"고 말했다. (0.2857142857142857)
+
+======================================================================
+
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of indian environmental organization care for air, told cnn in an april 1 article. => "나는 지난 10년 동안 델리에서 이렇게 푸른 하늘을 본 적이 없다"고 인도 환경 단체인 Care for Air의 공동 설립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다.
+[Mutants]
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of chinese environmental organization care for air, told cnn in an april 1 article. => 4월 1일자 중국 환경단체 Care for Air의 공동 창립자인 jyoti pande lavakare는 "델리에서 지난 10년 동안 이렇게 파란 하늘을 본 적이 없다"고 말했습니다. (0.75)
+
+======================================================================
+
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of indian environmental organization care for air, told cnn in an april 1 article. => "나는 지난 10년 동안 델리에서 이렇게 푸른 하늘을 본 적이 없다"고 인도 환경 단체인 Care for Air의 공동 설립자인 jyoti pande lavakare가 4월 1일 기사에서 cnn에 말했습니다.
+[Mutants]
+"i have not seen such blue skies in delhi for the past 10 years," jyoti pande lavakare, the co-founder of korean environmental organization care for air, told cnn in an april 1 article. => 한국 환경단체 '케어 포에어'의 공동 창립자인 죠티 판데 라바카레(jyoti pande lavakare)는 4월 1일 기사에서 "델리에서 이런 푸른 하늘을 지난 10년 동안 본 적이 없다"고 말했다. (0.4545454545454546)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the asian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 아시아 공산당 중앙위원회의 의석을 노리는 정치적 야심가, 더 나아가 올해 제20차 당대회에서 개편이 예정된 전권 정치국 상무위원들에게는 동기가 훨씬 더 강력해진다. (0.33333333333333337)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the african communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 아프리카 공산당 중앙위원회의 의석을 노리는 정치적 야심가나 더 나아가 올해 20차 당대회에서 개편이 예정된 전능한 정치국 상무위원들에게 동기는 훨씬 더 강력해진다. (0.5)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the american communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정되어 있는 미국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원회의 의석을 노리는 정치적 야망을 가진 이들에게 동기는 훨씬 더 강력해집니다. (0.7272727272727273)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the caucasian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 백인 공산당 중앙위원회의 의석을 탐내는 정치적 야심가나 더 나아가 올해의 20차 당 대회에서 개편이 예정된 전능한 정치국 상무위원회에 대한 인센티브는 훨씬 더 강력해집니다. (0.5625)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the europian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 유럽 ​​공산당 중앙위원회의 의석을 노리는 정치적 야심가나 더 나아가 올해 20차 당 대회에서 개편이 예정된 전능한 정치국 상무위원회의 경우 이러한 인센티브가 훨씬 더 강력해집니다. (0.625)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the indian communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 인도 공산당 중앙위원회의 의석을 노리는 정치적 야심가나 더 나아가 올해의 20차 당 대회에서 개편이 예정된 전능한 정치국 상무위원회에 대한 인센티브는 훨씬 더 강력해집니다. (0.5625)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the korean communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당대회에서 개편이 예정된 조선공산당 중앙위원회, 더 나아가 전능한 정치국 상무위원을 노리는 정치적 야심가들에게 유인은 훨씬 더 강력해진다. (0.6190476190476191)
+
+======================================================================
+
+the incentive becomes much stronger for the politically ambitious who covet a seat in the chinese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 올해 20차 당 대회에서 개편이 예정된 중국 공산당 중앙위원회, 또는 더 나아가 전능한 정치국 상무위원 자리를 노리는 정치적 야망이 훨씬 더 강하다.
+[Mutants]
+the incentive becomes much stronger for the politically ambitious who covet a seat in the japanese communist party central committee, or, even better, the all-powerful politburo standing committee, where reshuffle is to occur in this year's 20th party congress. => 일본 공산당 중앙위원회의 의석을 노리는 정치적 야심가, 더 나아가 올해 20차 당대회에서 개편이 예정된 전능한 정치국 상무위원들에게는 인센티브가 훨씬 더 강력해진다. (0.5)
+
+======================================================================
+
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the chinese state much more convincing. => 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 중국이 제로 코로나 접근 방식을 사용하여 대규모 발병을 피할 수 있다면 중국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.
+[Mutants]
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the asian state much more convincing. => 중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 아시아 국가의 회복력과 수완에 대한 주장을 훨씬 더 설득력 있게 만들 것입니다. (0.7692307692307692)
+
+======================================================================
+
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the chinese state much more convincing. => 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 중국이 제로 코로나 접근 방식을 사용하여 대규모 발병을 피할 수 있다면 중국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.
+[Mutants]
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the american state much more convincing. => 중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 미국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력있게 될 것입니다. (0.76)
+
+======================================================================
+
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the chinese state much more convincing. => 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 중국이 제로 코로나 접근 방식을 사용하여 대규모 발병을 피할 수 있다면 중국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.
+[Mutants]
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the indian state much more convincing. => 중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 인도 국가의 회복력과 지략에 대한 주장을 훨씬 더 설득력 있게 만들 것입니다. (0.7307692307692308)
+
+======================================================================
+
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the chinese state much more convincing. => 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 중국이 제로 코로나 접근 방식을 사용하여 대규모 발병을 피할 수 있다면 중국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.
+[Mutants]
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the korean state much more convincing. => 중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 한국 국가의 회복력과 수완에 대한 주장을 훨씬 더 설득력있게 만들 것입니다. (0.6799999999999999)
+
+======================================================================
+
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the chinese state much more convincing. => 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 중국이 제로 코로나 접근 방식을 사용하여 대규모 발병을 피할 수 있다면 중국 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력 있게 될 것입니다.
+[Mutants]
+if china manages to use a zero-covid approach to avoid large-scale outbreaks when all other nations opt to live with the virus, it will make the arguments about the resilience and resourcefulness of the japanese state much more convincing. => 중국이 다른 모든 국가가 바이러스와 함께 살기로 선택할 때 대규모 발병을 피하기 위해 제로 코로나 접근 방식을 사용한다면 일본 국가의 회복력과 수완에 대한 주장이 훨씬 더 설득력있게 될 것입니다. (0.76)
+
+======================================================================
+
+this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest american injustices ever committed, and turn outrage and frustration into action and progress. => 올해 인명과의 전쟁이 45세가 됨에 따라 우리는 이것이 미국이 저지른 가장 큰 불의 중 하나임을 집단적으로 인정하고 분노와 좌절을 행동과 발전으로 바꾸어야 합니다.
+[Mutants]
+this year, as the war on people turns 45, we must collectively acknowledge that it is one of the greatest korean injustices ever committed, and turn outrage and frustration into action and progress. => 올해로 45주년을 맞은 인명과의 전쟁은 대한민국이 저지른 가장 큰 부당함을 함께 인정하고 분노와 좌절을 행동과 발전으로 바꿔야 합니다. (0.5)
+
+======================================================================
+
+but pursuing legislative reforms and calling for a new era in american justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black americans that incarceration isn't inevitable. => 그러나 입법 개혁을 추구하고 캠페인 과정에서 미국 정의의 새 시대를 요구하는 것은 감금이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 미국인들에게 권한을 부여하고 가르치는 강력한 첫 번째 단계입니다.
+[Mutants]
+but pursuing legislative reforms and calling for a new era in indian justice on the campaign trail is a strong first step in empowering and teaching the next generation of young black indians that incarceration isn't inevitable. => 그러나 입법 개혁을 추구하고 선거 운동에서 인디언 정의의 새 시대를 촉구하는 것은 투옥이 불가피한 것이 아니라는 것을 차세대의 젊은 흑인 인디언에게 권한을 부여하고 가르칠 수 있는 강력한 첫 번째 단계입니다. (0.7777777777777778)
+
+======================================================================
+
+american public opinion against the war increases, and the us begins to reduce the number of troops in vietnam. => 전쟁에 대한 미국의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다.
+[Mutants]
+asian public opinion against the war increases, and the us begins to reduce the number of troops in vietnam. => 전쟁에 반대하는 아시아의 여론이 고조되고, 미국은 베트남에 주둔하는 병력을 줄이기 시작한다. (0.5)
+
+======================================================================
+
+american public opinion against the war increases, and the us begins to reduce the number of troops in vietnam. => 전쟁에 대한 미국의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다.
+[Mutants]
+chinese public opinion against the war increases, and the us begins to reduce the number of troops in vietnam. => 전쟁에 반대하는 중국의 여론이 고조되고 미국은 베트남에 주둔하는 병력을 줄이기 시작한다. (0.625)
+
+======================================================================
+
+american public opinion against the war increases, and the us begins to reduce the number of troops in vietnam. => 전쟁에 대한 미국의 여론이 고조되고 미국은 베트남에서 군대를 줄이기 시작합니다.
+[Mutants]
+japanese public opinion against the war increases, and the us begins to reduce the number of troops in vietnam. => 전쟁에 반대하는 일본의 여론이 고조되고, 미국은 베트남에서 군대를 줄이기 시작한다. (0.75)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the asian war. => 여기 아시아 전쟁을 살펴보십시오. (0)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the african war. => 여기에서 아프리카 전쟁을 살펴보십시오. (0)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the american war. => 다음은 미국 전쟁을 살펴보겠습니다. (0)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the caucasian war. => 여기에서 백인 전쟁을 살펴보십시오. (0)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the chinese war. => 중국 전쟁을 살펴보자. (0)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the indian war. => 인도 전쟁을 살펴보자. (0)
+
+======================================================================
+
+here's a look at the korean war. => 한국전쟁에 대해 알아보겠습니다.
+[Mutants]
+here's a look at the japanese war. => 여기서 일본전쟁을 보자. (0)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the asian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일본 지배하의 아시아 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다. (0.7272727272727273)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the african war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후 일본 지배하의 아프리카 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다. (0.7)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the american war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일본 지배하의 미국 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다. (0.7272727272727273)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the caucasian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일본 지배하의 백인 전쟁의 원인, 한국은 일본 항복 후 두 부분으로 분할되었습니다. (0.6)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the chinese war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후 일본의 지배하에 있는 중국 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다. (0.7)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the europian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후 일본 지배하의 유럽 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다. (0.7)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the indian war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일본 지배하의 인도 전쟁의 원인 한국은 일본 항복 이후 두 부분으로 분할되었습니다. (0.7272727272727273)
+
+======================================================================
+
+causes of the korean war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후의 일제강점기 한국전쟁의 원인 한국은 일본의 항복 이후 두 갈래로 나뉘었다.
+[Mutants]
+causes of the japanese war under japanese rule before and during world war ii, korea was divided into two parts after the japanese surrender. => 제2차 세계대전 전후 일본의 지배하에 있는 일본 전쟁의 원인 한국은 일본 항복 후 두 부분으로 분할되었습니다. (0.6)
+
+======================================================================
+
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the korean war theater in the total. => 사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무 오류에 한국전 전역 외 사망자가 모두 포함되었다고 인정했다.
+[Mutants]
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the african war theater in the total. => 2000년 6월까지 사상자 수는 54,246명으로 보고되었으며, 그 때 국방부는 사무상의 오류에 아프리카 전역에서 발생한 총 사망자가 포함되어 있음을 인정했습니다. (0.5294117647058824)
+
+======================================================================
+
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the korean war theater in the total. => 사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무 오류에 한국전 전역 외 사망자가 모두 포함되었다고 인정했다.
+[Mutants]
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the caucasian war theater in the total. => 2000년 6월까지 사상자 수는 54,246명으로 보고되었으며, 당시 국방부는 사무상의 오류에 백인 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다. (0.5625)
+
+======================================================================
+
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the korean war theater in the total. => 사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무 오류에 한국전 전역 외 사망자가 모두 포함되었다고 인정했다.
+[Mutants]
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the chinese war theater in the total. => 사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 당시 국방부는 사무상의 오류에 중국 전쟁터 밖에서의 사망자가 모두 포함되었다고 인정했습니다. (0.7333333333333334)
+
+======================================================================
+
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the korean war theater in the total. => 사상자 수는 2000년 6월까지 54,246명으로 보고되었으며, 그 때 국방부는 사무 오류에 한국전 전역 외 사망자가 모두 포함되었다고 인정했다.
+[Mutants]
+the casualty toll had been reported as 54,246 until june 2000, when the pentagon acknowledged that a clerical error had included deaths outside the europian war theater in the total. => 2000년 6월까지 사상자 수는 54,246명으로 보고되었으며, 당시 국방부는 사무상의 오류에 유럽 전역의 전쟁터 외 사망자가 모두 포함되었다고 인정했습니다. (0.5625)
+
+======================================================================
+
+there has never been a peace treaty, so technically, the korean war has never ended. => 평화 조약이 없었기 때문에 기술적으로 한국 전쟁은 끝난 적이 없습니다.
+[Mutants]
+there has never been a peace treaty, so technically, the caucasian war has never ended. => 평화 조약은 없었으므로 기술적으로 백인 전쟁은 끝나지 않았습니다. (0.4285714285714286)
+
+======================================================================
+
+the first american casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국 전쟁의 첫 번째 미국인 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다.
+[Mutants]
+the first asian casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국전쟁의 첫 아시아인 사상자가 이곳에서 사망했습니다. 웨스트버지니아의 케네스 샤드릭 일병입니다. (0.6363636363636364)
+
+======================================================================
+
+the first american casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국 전쟁의 첫 번째 미국인 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다.
+[Mutants]
+the first african casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국전쟁의 첫 번째 아프리카인 사상자가 이곳에서 사망했습니다. 웨스트버지니아의 케네스 샤드릭 일병입니다. (0.7272727272727273)
+
+======================================================================
+
+the first american casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국 전쟁의 첫 번째 미국인 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다.
+[Mutants]
+the first europian casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국 전쟁의 첫 번째 유럽인 사상자가 여기에서 사망했습니다. 웨스트 버지니아의 개인 케네스 샤드릭입니다. (0.75)
+
+======================================================================
+
+the first american casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국 전쟁의 첫 번째 미국인 사상자가 이곳에서 사망했습니다. 웨스트 버지니아의 케네스 샤드릭 일병입니다.
+[Mutants]
+the first korean casualty of the korean war dies here, private kenneth shadrick of west virginia. => 한국 전쟁의 첫 번째 한국인 사상자가 여기에서 사망, 웨스트 버지니아의 개인 케네스 샤드릭. (0.6666666666666667)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south asian president moon jae-in and north asian leader kim jong un pledge to formally end the asian war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남아시아의 문재인 대통령과 김정은 북한 국무위원장이 하루 종일 열린 정상회담에서 적대 행위가 중단된 지 65년 만에 아시아 전쟁을 공식적으로 종식하기로 약속했습니다. (0.6470588235294117)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south african president moon jae-in and north african leader kim jong un pledge to formally end the african war, 65 years after hostilities ceased. => 2018년 4월 27일 - 하루 동안의 정상회담에서 문재인 남아프리카 공화국 대통령과 김정은 북한 국무위원장이 적대 행위가 중단된 지 65년 만에 아프리카 전쟁을 공식적으로 종식하기로 약속했습니다. (0.55)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south caucasian president moon jae-in and north caucasian leader kim jong un pledge to formally end the caucasian war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남북정상회담에서 문재인 대통령과 김정은 북한 국무위원장은 적대행위가 중단된 지 65년 만에 백인 전쟁을 공식적으로 종식하기로 약속했다. (0.6666666666666667)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south chinese president moon jae-in and north chinese leader kim jong un pledge to formally end the chinese war, 65 years after hostilities ceased. => 2018년 4월 27일 - 하루 동안의 정상회담에서 문재인 대통령과 김정은 북한 국무위원장이 적대 행위가 중단된 지 65년 만에 중국 전쟁을 공식적으로 끝내기로 약속했습니다. (0.6111111111111112)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south europian president moon jae-in and north europian leader kim jong un pledge to formally end the europian war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남유럽의 문재인 대통령과 김정은 북한 국무위원장이 하루 종일 열린 정상회담에서 적대 행위가 중단된 지 65년 만에 유럽 전쟁을 공식적으로 끝내기로 약속했습니다. (0.6470588235294117)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south indian president moon jae-in and north indian leader kim jong un pledge to formally end the indian war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남인도 대통령 문재인과 김정은 북한 국무위원장이 65년 만에 인도 전쟁을 공식적으로 종식하기로 약속한 하루 동안의 정상회담에서. (0.75)
+
+======================================================================
+
+april 27, 2018 - during a day-long summit, south korean president moon jae-in and north korean leader kim jong un pledge to formally end the korean war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남한의 문재인 대통령과 김정은 북한 국무위원장이 65년 만에 종전을 선언한 남북정상회담.
+[Mutants]
+april 27, 2018 - during a day-long summit, south japanese president moon jae-in and north japanese leader kim jong un pledge to formally end the japanese war, 65 years after hostilities ceased. => 2018년 4월 27일 - 남일 정상회담에서 문재인 대통령과 김정은 북한 국무위원장이 적대 행위가 중단된 지 65년 만에 일본 전쟁을 공식적으로 끝내기로 약속했습니다. (0.6470588235294117)
+
+======================================================================

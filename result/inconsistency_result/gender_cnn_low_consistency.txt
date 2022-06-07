@@ -1,0 +1,102 @@
+he was right then, and he is wrong now. => 그는 그때 옳았고 지금은 틀렸다.
+[Mutants]
+she was right then, and she is wrong now. => 그녀는 그때 맞았고 지금은 틀렸다. (0.75)
+
+======================================================================
+
+and the expectation is, if nothing changes, another 200,000 dead by the end of the year," he said. => 변화가 없다면 올해 말까지 20만 명이 추가로 사망할 것으로 예상된다"고 말했다.
+[Mutants]
+and the expectation is, if nothing changes, another 200,000 dead by the end of the year," she said. => 그리고 아무 변화가 없다면 올해 말까지 200,000명이 추가로 사망할 것으로 예상됩니다"라고 그녀는 말했습니다. (0.6363636363636364)
+
+======================================================================
+
+"the country is ready to be united, i believe," he told a voter at the town hall. => 그는 시청에서 유권자에게 "나라가 통일될 준비가 되어 있다고 믿습니다."라고 말했습니다.
+[Mutants]
+"the country is ready to be united, i believe," she told a voter at the town hall. => 그녀는 시청에서 유권자에게 “나라가 통일될 준비가 되어 있다고 믿습니다. (0.75)
+
+======================================================================
+
+little needs to be said about his from-the-hospital-room dismissal of the us centers for disease control and prevention (cdc) guidelines for masks by claiming "you can overdo the mask." => "마스크를 과용할 수 있다"고 주장하면서 마스크에 대한 미국 질병통제예방센터(CDC) 지침을 병원에서 해고한 것에 대해서는 별로 말할 필요가 없습니다.
+[Mutants]
+little needs to be said about her from-the-hospital-room dismissal of the us centers for disease control and prevention (cdc) guidelines for masks by claiming "you can overdo the mask." => 그녀가 "마스크를 과용할 수 있다"고 주장하면서 마스크에 대한 미국 질병 통제 예방 센터(CDC) 지침을 병원에서 퇴원시킨 것에 대해 거의 말할 필요가 없습니다. (0.7777777777777778)
+
+======================================================================
+
+whatever he received, he, like his boss, is singing its praises, stating, "the minute i took the cocktail ... => 무엇을 받든 상사처럼 "칵테일을 마신 순간 ...
+[Mutants]
+whatever she received, he, like her boss, is singing its praises, stating, "the minute i took the cocktail ... => 그녀가 무엇을 받든 그는 그녀의 상사처럼 "내가 칵테일을 마시는 순간 ... (0.625)
+
+======================================================================
+
+boris johnson's latest gaffe could threaten britain's vaccine rollout the uk's gaffe-prone prime minister has made frantic attempts to row back on his comments that his country's successful vaccine rollout was "because of capitalism, because of greed, my friends." => 보리스 존슨의 최신 오류는 영국의 백신 출시를 위협할 수 있습니다. 오류가 발생하기 쉬운 영국의 총리는 그의 국가의 성공적인 백신 출시가 "자본주의 때문, 탐욕 때문"이라는 자신의 발언을 되돌리려고 미친 듯이 시도했습니다.
+[Mutants]
+boris johnson's latest gaffe could threaten britain's vaccine rollout the uk's gaffe-prone prime minister has made frantic attempts to row back on her comments that her country's successful vaccine rollout was "because of capitalism, because of greed, my friends." => 보리스 존슨의 최근 실수는 영국의 백신 출시를 위협할 수 있다 영국의 실수가 잦은 영국 총리는 영국의 성공적인 백신 출시가 "자본주의 때문, 탐욕 때문"이라는 그녀의 발언을 반박하기 위해 미친 듯이 시도했습니다. (0.7037037037037037)
+
+======================================================================
+
+the pollution reductions are estimated to have saved --these are not actual measurements of what happened -- between 1,400 and 4,000 kids and 51,700 to 73,000 adults older than 70 from premature death, he estimates. => 오염 감소는 1,400~4,000명의 어린이와 51,700~73,000명의 70세 이상 성인 사이에서 조기 사망으로 인해 발생한 일에 대한 실제 측정값이 아닌 것으로 추정됩니다.
+[Mutants]
+the pollution reductions are estimated to have saved --these are not actual measurements of what happened -- between 1,400 and 4,000 kids and 51,700 to 73,000 adults older than 70 from premature death, she estimates. => 그녀는 오염 감소로 인해 1,400~4,000명의 어린이와 51,700~73,000명의 70세 이상 성인 사이에서 발생했던 일을 실제로 측정한 것이 아니라 조기 사망을 막을 수 있었던 것으로 추정하고 있습니다. (0.5263157894736843)
+
+======================================================================
+
+gunfire echoed over the receiver as he spoke to cnn by phone wednesday. => 그가 수요일에 cnn과 통화하면서 총소리가 수화기 너머로 울려 퍼졌다.
+[Mutants]
+gunfire echoed over the receiver as she spoke to cnn by phone wednesday. => 그녀가 수요일에 전화로 cnn과 이야기할 때 총소리가 수화기 너머로 울려 퍼졌다. (0.7777777777777778)
+
+======================================================================
+
+sarcastically, ahmed al-maysary, hadi's interior minister, congratulated the uae for victory as he conceded defeat -- a brief moment of candor that revealed the possibility of a proxy war between the uae and saudi arabia. => 하디의 내무장관인 아흐메드 알-마이사리는 비꼬듯, 아랍에미리트와 사우디아라비아 간의 대리전 가능성을 드러낸 짧은 순간에 패배를 인정하면서 아랍에미리트의 승리를 축하했다.
+[Mutants]
+sarcastically, ahmed al-maysary, hadi's interior minister, congratulated the uae for victory as she conceded defeat -- a brief moment of candor that revealed the possibility of a proxy war between the uae and saudi arabia. => 하디의 내무장관인 아흐메드 알-메이사리는 냉소적으로 아랍에미리트의 승리를 축하하며 패배를 인정했다. (0.625)
+
+======================================================================
+
+taking place during the height of gagamania in the us, the would-be rockstar general is interviewed for a rolling stone profile, and if you're unfamiliar with how the real-life rolling stone profile turned out, you'll have to watch to find out (spoiler alert: gaga made the cover that month, not the general, but the issue will always be remembered for his profile). => 미국의 가가마니아가 한창일 때 일어나는 일, 록스타 지망생이 롤링 스톤 프로필을 위해 인터뷰를 하게 되는데, 실제 롤링 스톤 프로필이 어떻게 생겼는지 잘 모르겠다면 다음을 시청해야 합니다. 알아내십시오(스포일러 경고: gaga는 그 달에 표지를 만들었으며 장군은 아니지만 문제는 그의 프로필에 항상 기억될 것입니다).
+[Mutants]
+taking place during the height of gagamania in the us, the would-be rockstar general is interviewed for a rolling stone profile, and if you're unfamiliar with how the real-life rolling stone profile turned out, you'll have to watch to find out (spoiler alert: gaga made the cover that month, not the general, but the issue will always be remembered for her profile). => 미국의 가가마니아가 한창일 때, 록스타 지망생이 롤링 스톤 프로필을 위해 인터뷰를 하는데, 실제 롤링 스톤 프로필이 어떻게 생겼는지 잘 모르겠다면 다음을 시청해야 합니다. 알아보십시오(스포일러 경고: gaga는 그 달에 표지를 만들었으며 일반 사용자는 아니지만 문제는 항상 그녀의 프로필에 기억될 것입니다). (0.7894736842105263)
+
+======================================================================
+
+"i think the fact that we have become as a society so divorced from what our military is doing that we can send our young men and women into harm's way without it being newsworthy on a daily basis is unsettling and i think it's unhealthy for a society," he said. => "우리 군대가 하는 일과 너무 동떨어진 사회가 되어 일상적으로 뉴스거리가 되지 않고 우리 젊은이들을 위험에 빠뜨릴 수 있다는 사실이 불안하고 사회에 건강에 해롭다고 생각합니다. "라고 말했다.
+[Mutants]
+"i think the fact that we have become as a society so divorced from what our military is doing that we can send our young women and women into harm's way without it being newsworthy on a daily basis is unsettling and i think it's unhealthy for a society," she said. => "우리 군대가 하는 일과 너무 동떨어진 사회가 되어서 우리의 젊은 여성과 여성들을 매일 뉴스거리가 되지 않고 위험에 빠뜨릴 수 있다는 사실이 불안하고 사회에 건강에 좋지 않다고 생각합니다. ," 그녀가 말했다. (0.75)
+"i think the fact that we have become as a society so divorced from what our military is doing that we can send our young men and men into harm's way without it being newsworthy on a daily basis is unsettling and i think it's unhealthy for a society," he said. => "우리 군대가 하는 일과 너무 동떨어진 사회가 되어 일상적으로 뉴스거리가 되지 않고 우리 젊은이들을 위험에 빠뜨릴 수 있다는 사실이 불안하고 사회에 건강에 해롭다고 생각합니다. "라고 말했다. (1)
+
+======================================================================
+
+"listen, he can respond personally to an attack," he continued. => "들어봐, 그는 공격에 개인적으로 대응할 수 있다"고 그는 계속했다.
+[Mutants]
+"listen, she can respond personally to an attack," she continued. => "그녀는 공격에 개인적으로 대응할 수 있습니다."라고 그녀는 말했습니다. (0.6666666666666667)
+
+======================================================================
+
+"he can respond as a partisan to an attack, but he can't respond as a patriot to an attack? => "공격에는 당파로서 대응할 수 있지만, 공격에는 애국자로 대응할 수 없다고?
+[Mutants]
+"he can respond as a partisan to an attack, but she can't respond as a patriot to an attack? => "그는 공격에 당파적으로 대응할 수 있지만 그녀는 공격에 애국자로 대응할 수 없다? (0.5555555555555556)
+
+======================================================================
+
+fifty years ago, in his state of the union address, president lyndon b. johnson declared a "war on poverty." => 50년 전 노동조합 연설에서 린든 b. 존슨은 "빈곤과의 전쟁"을 선언했다.
+[Mutants]
+fifty years ago, in her state of the union address, president lyndon b. johnson declared a "war on poverty." => 50년 전, 린든 b. 회장은 노동조합 연설에서 이렇게 말했습니다. 존슨은 "빈곤과의 전쟁"을 선언했다. (0.7777777777777778)
+
+======================================================================
+
+and he heavily altered the community action agencies, which worked to involve community organizations in anti-poverty programs. => 그리고 그는 빈곤 퇴치 프로그램에 지역 사회 단체를 참여시키기 위해 일하는 지역 사회 활동 기관을 크게 변경했습니다.
+[Mutants]
+and she heavily altered the community action agencies, which worked to involve community organizations in anti-poverty programs. => 그녀는 지역 사회 단체를 빈곤 퇴치 프로그램에 참여시키기 위해 일한 지역 사회 활동 기관을 크게 변경했습니다. (0.7857142857142857)
+
+======================================================================
+
+clinton's moderate take on governing disappointed liberals, especially when he worked with republicans to drastically alter the welfare system. => 클린턴은 특히 그가 공화당과 협력하여 복지 시스템을 획기적으로 변화시켰을 때 실망한 자유주의자를 통치하는 것에 대해 온건한 입장을 취했습니다.
+[Mutants]
+clinton's moderate take on governing disappointed liberals, especially when she worked with republicans to drastically alter the welfare system. => 특히 그녀가 복지 시스템을 대폭 변경하기 위해 공화당원들과 협력했을 때 실망한 자유주의자들을 통치하는 것에 대한 클린턴의 온건한 견해. (0.4375)
+
+======================================================================
+
+additionally, he has launched a campaign to address income inequality by raising the minimum wage and passing immigration reform. => 또한 그는 최저임금을 인상하고 이민 개혁을 통과시켜 소득 불평등을 해결하기 위한 캠페인을 시작했습니다.
+[Mutants]
+additionally, she has launched a campaign to address income inequality by raising the minimum wage and passing immigration reform. => 또한 그녀는 최저 임금 인상과 이민 개혁 통과를 통해 소득 불평등을 해결하기 위한 캠페인을 시작했습니다. (0.7272727272727273)
+
+======================================================================
